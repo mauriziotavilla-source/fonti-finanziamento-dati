@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-05-25",
+  "ultimo_aggiornamento": "2026-05-23",
   "versione": 1,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
@@ -36,7 +36,10 @@
         "AI Agents per applicazioni reali (Apply AI)",
         "Robotica agile per industria e servizi"
       ],
-      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals",
+      "codice_portale": "HORIZON-CL4-2026-04",
+      "codice_topic": "HORIZON-CL4-2026-04-HUMAN-01",
+      "link_work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf",
+      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-04-HUMAN-01",
       "checklist": [
         "Identificare il topic specifico nel Work Programme 2026",
         "Trovare partner internazionali (almeno 2 oltre al coordinatore)",
@@ -77,9 +80,9 @@
         "Agricoltura biologica competitiva (max 6 M€)",
         "Soluzioni circolari in città e regioni"
       ],
-      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals",
-      "checklist": [
-        "Scegliere call 01 o 02 in base al focus del progetto",
+      "codice_portale": "HORIZON-CL6-2026",
+      "link_work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
+      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?order=DESC&pageNumber=1&pageSize=50&searchText=HORIZON-CL6-2026",
         "Preparare short proposal entro scadenza 1° stage",
         "Pianificare budget max per topic (es. 4,5–8 M€)"
       ]
@@ -159,9 +162,8 @@
         "EDIC Support Hub (MCP)",
         "Supporto deployment capacità digitali per PMI"
       ],
-      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/",
-      "checklist": [
-        "Monitorare apertura 21 aprile 2026",
+      "codice_portale": "DIGITAL-2026-BESTUSE",
+      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?order=DESC&pageNumber=1&pageSize=50&searchText=DIGITAL-2026-BESTUSE",
         "Verificare topic DIGITAL-2026-BESTUSE-*",
         "Valutare se la tua impresa è SME per aliquota 75%"
       ]
@@ -194,9 +196,8 @@
         "Tool AI per detection attacchi",
         "Interfacce SME per incident reporting"
       ],
-      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/",
-      "checklist": [
-        "Iscriversi agli alert del portale UE",
+      "codice_portale": "DIGITAL-2026",
+      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?order=DESC&pageNumber=1&pageSize=50&searchText=DIGITAL-2026%20cybersecurity%20SME",
         "Preparare partnership con EDIH o Cyber Hub locali"
       ]
     },
@@ -236,7 +237,8 @@
         "Opere murarie (max 40% costi)",
         "Certificazioni ambientali"
       ],
-      "link_ufficiale": "https://www.invitalia.it/",
+      "link_ufficiale": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-sostenibili-40-bando-2025",
+      "link_secondario": "https://www.mimit.gov.it/it/incentivi/investimenti-sostenibili-4-0-2025",
       "checklist": [
         "Verificare iscrizione Registro Imprese e assenza liquidazione",
         "Calcolare % agevolabile (max 70% fatturato)",
@@ -388,7 +390,7 @@
         "Ammodernamento laboratorio",
         "E-commerce prodotti artigianali tradizionali"
       ],
-      "link_ufficiale": "https://www.lazioinnova.it/",
+      "link_ufficiale": "https://www.lazioinnova.it/lazio-valore/",
       "checklist": [
         "Monitorare bandi 2026 su lazioinnova.it",
         "Tenere pronta documentazione Albo Artigiani",
@@ -462,7 +464,7 @@
         "Apertura mercati extra-UE",
         "E-commerce internazionale"
       ],
-      "link_ufficiale": "https://www.simest.it/",
+      "link_ufficiale": "https://www.simest.it/per-le-imprese/finanziamenti/",
       "checklist": [
         "Scegliere la misura SIMEST più adatta",
         "Preparare piano mercati e budget export",
@@ -496,7 +498,7 @@
         "Cybersecurity assessment",
         "Formazione digitale dipendenti"
       ],
-      "link_ufficiale": "https://digital-innovation-hub.ec.europa.eu/",
+      "link_ufficiale": "https://digital-innovation-hub.ec.europa.eu/edih-network",
       "checklist": [
         "Trovare EDIH nella tua regione su mappa UE",
         "Prenotare assessment iniziale gratuito",
@@ -675,7 +677,7 @@
       ],
       "documenti": ["Business plan innovativo", "Documentazione costituzione impresa"],
       "topic_esempio": ["Startup tecnologica", "Spin-off universitario", "Impresa innovativa iscritta sezione speciale REA"],
-      "link_ufficiale": "https://www.euroinfosicilia.it/",
+      "link_ufficiale": "https://www.euroinfosicilia.it/bandi-in-corso/",
       "checklist": [
         "Valutare iscrizione startup innovativa",
         "Monitorare pubblicazione avviso su EuroInfoSicilia"
@@ -737,7 +739,7 @@
         "Insediamento o ampliamento in area ZES",
         "Rilancio sito industriale in area crisi complessa"
       ],
-      "link_ufficiale": "https://www.euroinfosicilia.it/",
+      "link_ufficiale": "https://www.euroinfosicilia.it/bandi-in-corso/",
       "checklist": [
         "Verificare se la sede rientra in ZES o area crisi",
         "Preparare studio di investimento e occupazione"
@@ -803,7 +805,7 @@
         "Efficientamento energetico zona artigianale",
         "Potenziamento servizi e accessi"
       ],
-      "link_ufficiale": "https://www.regione.sicilia.it/",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "checklist": [
         "Per artigiani: verificare con il tuo comune se l'area è inclusa",
         "Chiedere alla camera di commercio aggiornamenti su servizi nell'area"
@@ -837,7 +839,7 @@
         "Investimento per crescita dimensionale",
         "Emissione minibond"
       ],
-      "link_ufficiale": "https://www.irfis.it/fondo-sicilia/",
+      "link_ufficiale": "https://www.irfis.it/fondo-sicilia/imprese/",
       "checklist": [
         "Scegliere linea prodotto su fondosicilia.irfis.it",
         "Contattare IRFIS per appuntamento: fondosicilia@irfis.it"
