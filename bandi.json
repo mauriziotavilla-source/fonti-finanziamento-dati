@@ -83,6 +83,7 @@
       "codice_portale": "HORIZON-CL6-2026",
       "link_work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
       "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?order=DESC&pageNumber=1&pageSize=50&searchText=HORIZON-CL6-2026",
+      "checklist": [
         "Preparare short proposal entro scadenza 1° stage",
         "Pianificare budget max per topic (es. 4,5–8 M€)"
       ]
@@ -164,6 +165,7 @@
       ],
       "codice_portale": "DIGITAL-2026-BESTUSE",
       "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?order=DESC&pageNumber=1&pageSize=50&searchText=DIGITAL-2026-BESTUSE",
+      "checklist": [
         "Verificare topic DIGITAL-2026-BESTUSE-*",
         "Valutare se la tua impresa è SME per aliquota 75%"
       ]
@@ -198,6 +200,7 @@
       ],
       "codice_portale": "DIGITAL-2026",
       "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?order=DESC&pageNumber=1&pageSize=50&searchText=DIGITAL-2026%20cybersecurity%20SME",
+      "checklist": [
         "Preparare partnership con EDIH o Cyber Hub locali"
       ]
     },
