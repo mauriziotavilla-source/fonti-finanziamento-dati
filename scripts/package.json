@@ -1,0 +1,17 @@
+{
+  "name": "fonti-icon-scripts",
+  "private": true,
+  "scripts": {
+    "scraper:run": "node scraper/run.js --write",
+    "scraper:dry": "node scraper/run.js",
+    "scraper:push": "node scraper/send-push.js",
+    "scraper:publish": "node scraper/publish-data-repo.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "fast-xml-parser": "^5.8.0",
+    "firebase-admin": "^13.10.0",
+    "png-to-ico": "^2.1.8",
+    "sharp": "^0.33.5"
+  }
+}
