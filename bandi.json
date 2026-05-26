@@ -1,23 +1,962 @@
 {
   "ultimo_aggiornamento": "2026-05-26",
-  "versione": 1,
+  "versione": 2,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
+  "catalog_hash": "8d1795e634d5a9e9a83ea4465042fa8316bd5460",
+  "generated_at": "2026-05-26T19:32:20.410Z",
+  "generated_by": "scripts/scraper/run.js",
   "bandi": [
+    {
+      "id": "regione-sicilia-bandi-25-maggio-2026-st-pa-avviso-di-indagine-di-mercato-comune-di-palermo-distretto-f",
+      "nome": "25 maggio 2026 - ST PA - AVVISO DI INDAGINE DI MERCATO - Comune di Palermo – Distretto forestale n. 1 - Località \"Piano Montagna\"",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici 25 maggio 2026 - ST PA - AVVISO DI INDAGINE DI MERCATO - Comune di Palermo – Distretto forestale n. 1 - Località \"Piano Montagna\" Scade il: 12/06/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando 25 maggio 2026 - ST PA - AVVISO DI INDAGINE DI MERCATO - Comune di Palermo – Distretto forestale n. 1 - Località \"Piano Montagna\". Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/25-maggio-2026-st-pa-avviso-indagine-mercato-comune-palermo-distretto-forestale-n-1-localita-piano-montagna",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-06-12",
+      "data_uscita": "2026-06-12",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "c3300ef21fd9fc54955f8ecf6e5513484bdbb060"
+    },
+    {
+      "id": "invitalia-incentivi-approfondisci",
+      "nome": "Approfondisci",
+      "programma": "Invitalia",
+      "livello": "nazionale",
+      "settori": [
+        "startup",
+        "tecnologia",
+        "industria"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Grandi investimentiContratto di sviluppoIl contratto di sviluppo è l'incentivo che sostiene gli investimenti di grandi dimensioni nel settore industriale, agro-industriale, turistico e di tutela ambientale.L’investimento minimo richiesto è di 20 milioni di eur",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Approfondisci. Territorio: Italia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Nuove imprese"
+      ],
+      "territorio": "Italia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.invitalia.it/incentivi-e-strumenti/contratto-di-sviluppo",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello nazionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "invitalia-incentivi",
+      "url_origine": "https://www.invitalia.it/",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_nazionali"
+      ],
+      "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-per-l-affidamento-in-concessione-temporanea-di-terreni-gestiti-d",
+      "nome": "avviso pubblico per l’affidamento in concessione temporanea di terreni gestiti dal dipartimento dello sviluppo rurale e territoriale per la decortica di sughereta anno 2026",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici avviso pubblico per l’affidamento in concessione temporanea di terreni gestiti dal dipartimento dello sviluppo rurale e territoriale per la decortica di sughereta anno 2026 Scade il: 30/05/2026 - 00:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando avviso pubblico per l’affidamento in concessione temporanea di terreni gestiti dal dipartimento dello sviluppo rurale e territoriale per la decortica di sughereta anno 2026. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-l-affidamento-concessione-temporanea-terreni-gestiti-dipartimento-sviluppo-rurale-territoriale-decortica-sughereta-anno-2026",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-05-30",
+      "data_uscita": "2026-05-30",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "d4ee18a01f2f2dcc91b059a303aeccb505399c08"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-prot-38213-del-15-04-2026-procedura-per-la-concessione-temporane",
+      "nome": "Avviso pubblico prot. 38213 del 15/04/2026 Procedura per la concessione temporanea di aree demaniali gestite dal Dipartimento Regionale dello Sviluppo Rurale e Territoriale- Servizio 11- Servizio per il Territorio di Catania, per la collocazione di Arnie",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "chiuso",
+      "descrizione_breve": "Avvisi pubblici Avviso pubblico prot. 38213 del 15/04/2026 Procedura per la concessione temporanea di aree demaniali gestite dal Dipartimento Regionale dello Sviluppo Rurale e Territoriale- Servizio 11- Servizio per il Territorio di Catania, per la collocazion",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso pubblico prot. 38213 del 15/04/2026 Procedura per la concessione temporanea di aree demaniali gestite dal Dipartimento Regionale dello Sviluppo Rurale e Territoriale- Servizio 11- Servizio per il Territorio di Catania, per la collocazione di Arnie. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-prot-38213-15042026-procedura-concessione-temporanea-aree-demaniali-gestite-dipartimento-regionale-sviluppo-rurale-territoriale-servizio-11",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-04-15",
+      "data_uscita": "2026-04-15",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "da832e7a59be10c8625ff578ff4ec80ff65c479a"
+    },
+    {
+      "id": "credito-imposta-40",
+      "nome": "Credito d'imposta Transizione 4.0 e 5.0",
+      "programma": "Agenzia delle Entrate / MIMIT",
+      "livello": "nazionale",
+      "settori": [
+        "tecnologia",
+        "industria",
+        "artigianato",
+        "green"
+      ],
+      "stato": "aperto",
+      "budget_totale": "N/A (agevolazione fiscale)",
+      "cofinanziamento": "Credito d'imposta su beni strumentali 4.0 e formazione (aliquote variabili per legge di bilancio)",
+      "beneficiari": [
+        "Imprese residenti in Italia"
+      ],
+      "territorio": "Italia",
+      "scadenze": [
+        {
+          "fase": "Acquisto beni / interventi",
+          "data": null,
+          "note": "Verificare Legge di Bilancio annuale per aliquote e plafond"
+        }
+      ],
+      "requisiti": [
+        "Beni in elenco Allegato A (beni materiali 4.0)",
+        "Interconnessione e requisiti tecnici per software",
+        "Pagamento tracciabile",
+        "Perizia asseverata (quando richiesta)"
+      ],
+      "documenti": [
+        "Fatture acquisto",
+        "Certificazione fornitore / perizia",
+        "Comunicazione o modello F24 secondo normativa vigente"
+      ],
+      "topic_esempio": [
+        "Macchinari interconnessi",
+        "Software e sistemi IT",
+        "Formazione personale dipendente"
+      ],
+      "link_ufficiale": "https://www.mimit.gov.it/it/incentivi/credito-d-imposta-per-investimenti-in-beni-strumentali",
+      "checklist": [
+        "Verificare aliquota vigente per l'anno fiscale",
+        "Acquistare solo da fornitori conformi",
+        "Conservare perizie e documentazione per controlli"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.mimit.gov.it/it/incentivi/credito-d-imposta-per-investimenti-in-beni-strumentali"
+    },
+    {
+      "id": "regione-sicilia-bandi-ddg-1112-del-02-04-2026-aggiornamento-avviso-pubblico-n-4-2024-per-l-attuazione-",
+      "nome": "DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR)",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR) Scade il: 30/06/2026 - 00:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR). Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/ddg-1112-02042026-aggiornamento-avviso-pubblico-n-42024-l-attuazione-par-gol-sicilia-finanziare-nell-ambito-piano-nazionale-ripresa-resilienza-pnrr",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-04-02",
+      "data_uscita": "2026-04-02",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "d90f6e5bfd9e9ecf5e93d36fe684fa57f80267fd"
+    },
+    {
+      "id": "digital-europe-ai-cyber-sme",
+      "nome": "Digital Europe – Cybersecurity AI per PMI europee",
+      "programma": "Digital Europe Programme",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "commercio",
+        "industria"
+      ],
+      "stato": "in_arrivo",
+      "budget_totale": "~20 milioni €",
+      "cofinanziamento": "50-75% costi ammissibili",
+      "beneficiari": [
+        "PMI",
+        "Startup cybersecurity",
+        "Università",
+        "Cyber Hubs",
+        "PA"
+      ],
+      "territorio": "UE, EFTA/EEA, Paesi associati",
+      "scadenze": [
+        {
+          "fase": "Pubblicazione call (indicativa)",
+          "data": "2026-06-01",
+          "note": "Q2 2026"
+        },
+        {
+          "fase": "Scadenza (indicativa)",
+          "data": "2026-09-30",
+          "note": "Q3 2026 – confermare su portale UE"
+        }
+      ],
+      "requisiti": [
+        "Soluzioni AI-powered per cybersecurity delle PMI",
+        "Miglioramento resilienza cyber e risk management",
+        "SME Support Action"
+      ],
+      "documenti": [
+        "Call fiche ufficiale (quando pubblicata)",
+        "Piano di disseminazione verso PMI"
+      ],
+      "topic_esempio": [
+        "Tool AI per detection attacchi",
+        "Interfacce SME per incident reporting"
+      ],
+      "codice_portale": "DIGITAL-2026",
+      "link_work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
+      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?order=DESC&pageNumber=1&pageSize=50&searchText=DIGITAL-2026%20cybersecurity%20SME",
+      "checklist": [
+        "Preparare partnership con EDIH o Cyber Hub locali"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?order=DESC&pageNumber=1&pageSize=50&searchText=DIGITAL-2026%20cybersecurity%20SME"
+    },
+    {
+      "id": "eic-accelerator-2026",
+      "nome": "EIC Accelerator 2026 – Startup e PMI innovative",
+      "programma": "Horizon Europe / EIC",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "industria",
+        "green"
+      ],
+      "stato": "aperto",
+      "budget_totale": "634 milioni € (2026)",
+      "cofinanziamento": "Grant fino a 2,5 M€ + Equity fino a 10 M€ (blended finance)",
+      "beneficiari": [
+        "Startup",
+        "PMI (<250 dipendenti)",
+        "Small mid-cap fino a 499 addetti (solo equity)"
+      ],
+      "territorio": "Stati UE e Paesi associati Horizon Europe",
+      "scadenze": [
+        {
+          "fase": "Short application",
+          "data": null,
+          "note": "Sempre aperta – feedback in 4-6 settimane"
+        },
+        {
+          "fase": "Full proposal – cut-off 1",
+          "data": "2026-01-07",
+          "note": "Già passata"
+        },
+        {
+          "fase": "Full proposal – cut-off 2",
+          "data": "2026-03-04",
+          "note": "Già passata"
+        },
+        {
+          "fase": "Full proposal – cut-off 3",
+          "data": "2026-05-06",
+          "note": "Prossima rilevante"
+        },
+        {
+          "fase": "Full proposal – cut-off 4",
+          "data": "2026-07-08",
+          "note": ""
+        },
+        {
+          "fase": "Full proposal – cut-off 5",
+          "data": "2026-09-02",
+          "note": ""
+        },
+        {
+          "fase": "Full proposal – cut-off 6",
+          "data": "2026-11-03",
+          "note": "Call aperta fino 17/12/2026"
+        }
+      ],
+      "requisiti": [
+        "TRL minimo 5-6 (tecnologia dimostrata)",
+        "Innovazione breakthrough o disruptive",
+        "Candidatura SINGOLA – no consorzio obbligatorio",
+        "Ambizione di scalabilità europea/globale",
+        "Pitch deck e video (full application)"
+      ],
+      "documenti": [
+        "Short application (10 pagine circa)",
+        "Full proposal (~20 pagine nel 2026)",
+        "Pitch deck",
+        "Video pitch (3 min)",
+        "Business plan / financials"
+      ],
+      "topic_esempio": [
+        "EIC Accelerator Open: qualsiasi settore tecnologico",
+        "EIC Accelerator Challenges: topic predefiniti (budget 220 M€)"
+      ],
+      "link_ufficiale": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+      "checklist": [
+        "Verificare TRL e readiness commerciale",
+        "Inviare short application quando il progetto è maturo",
+        "Preparare pitch per jury interview se short è positiva",
+        "Scegliere tra grant only, blended o investment only"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+    },
+    {
+      "id": "eic-pathfinder-2026",
+      "nome": "EIC Pathfinder – Ricerca breakthrough",
+      "programma": "Horizon Europe / EIC",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "aperto",
+      "budget_totale": "Parte del WP EIC 2026",
+      "cofinanziamento": "100% costi ammissibili (grant ricerca)",
+      "beneficiari": [
+        "Consorzi ricerca",
+        "Università",
+        "PMI",
+        "Startup deep tech"
+      ],
+      "territorio": "UE e associati",
+      "scadenze": [
+        {
+          "fase": "Open call",
+          "data": null,
+          "note": "Verificare cut-off nel Work Programme EIC 2026"
+        }
+      ],
+      "requisiti": [
+        "Idee radicalmente nuove (TRL basso, 1-4)",
+        "Consorzio multidisciplinare",
+        "Science-towards-technology breakthrough"
+      ],
+      "documenti": [
+        "Proposal EIC Pathfinder",
+        "Consortium agreement"
+      ],
+      "topic_esempio": [
+        "Pathfinder Open",
+        "Pathfinder Challenges tematici"
+      ],
+      "link_ufficiale": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en",
+      "checklist": [
+        "Valutare se il progetto è troppo early-stage per Accelerator",
+        "Costruire consorzio accademico-industriale",
+        "Pianificare percorso Pathfinder → Transition → Accelerator"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en"
+    },
+    {
+      "id": "regione-sicilia-bandi-errata-corrige-criteri-di-selezione-del-bando-srg10-promozione-dei-prodotti-di-q",
+      "nome": "Errata corrige criteri di selezione del bando SRG10 “Promozione dei Prodotti di Qualità” Rettifica dei criteri \"A7\" e \"A8\".",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici Errata corrige criteri di selezione del bando SRG10 “Promozione dei Prodotti di Qualità” Rettifica dei criteri \"A7\" e \"A8\". Scade il: 28/05/2026 - 23:59 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Errata corrige criteri di selezione del bando SRG10 “Promozione dei Prodotti di Qualità” Rettifica dei criteri \"A7\" e \"A8\".. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-errata-corrige-criteri-selezione-bando-srg10",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-05-28",
+      "data_uscita": "2026-05-28",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "4d467fcbf499ba69aa5d3604daa9dc752c1353af"
+    },
+    {
+      "id": "ue-funding-opportunities-eu4health",
+      "nome": "EU4Health",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The EU4Health programme, implemented by HaDEA, with a budget of €5.3 billion, is the fourth and largest of the EU health programmes since their launch in 2003.HaDEA call management",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando EU4Health. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://hadea.ec.europa.eu/programmes/eu4health_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "d384b6362e769c5992b949ba4779a264fed9ca69"
+    },
+    {
+      "id": "ue-funding-opportunities-european-regional-development-fund",
+      "nome": "European Regional Development Fund",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The European Regional Development Fund aims to strengthen economic and social cohesion in the European Union by correcting imbalances between its regions. The ERDF focuses its investments on several key priority areas, including innovation and research.",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando European Regional Development Fund. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://ec.europa.eu/regional_policy/funding/erdf_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "03042e91a51d9f3752f5702f76beb213fabfd34c"
+    },
+    {
+      "id": "ue-funding-opportunities-european-structural-and-investment-funds-esif",
+      "nome": "European structural and investment funds (ESIF)",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Over half of EU funding is channelled through the 5 European structural and investment funds (ESIF). They are jointly managed by the European Commission and the EU countries. The purpose of all these funds is to invest in job creation and a sustainable and hea",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando European structural and investment funds (ESIF). Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/funding-opportunities/funding-programmes/overview-funding-programmes/european-structural-and-investment-funds_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "7e72f8774efdf16728d89e099e870d089c7ab890"
+    },
+    {
+      "id": "sicilia-fondo-sicilia-plafond-imprese",
+      "nome": "Fondo Sicilia – Crescita dimensionale imprese (D.A. 31/2025)",
+      "programma": "Regione Siciliana / IRFIS",
+      "livello": "regionale",
+      "settori": [
+        "industria",
+        "artigianato",
+        "commercio",
+        "tecnologia"
+      ],
+      "stato": "aperto",
+      "budget_totale": "Plafond dedicato (verificare disponibilità IRFIS)",
+      "cofinanziamento": "Finanziamenti agevolati, minibond, consolidamento passività",
+      "beneficiari": [
+        "Imprese di qualsiasi dimensione con operatività in Sicilia"
+      ],
+      "territorio": "Sicilia",
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "scadenze": [
+        {
+          "fase": "Sportello continuo",
+          "data": null,
+          "note": "Domande via portale IRFIS o PEC"
+        }
+      ],
+      "requisiti": [
+        "Interventi per accrescere dimensione e competitività (L.R. e D.A. 31/2025)",
+        "Nuovi investimenti, circolante, minibond, ristrutturazione debiti"
+      ],
+      "documenti": [
+        "Domanda portale online IRFIS",
+        "Business plan e documentazione garanzie"
+      ],
+      "topic_esempio": [
+        "Fusione o acquisizione",
+        "Investimento per crescita dimensionale",
+        "Emissione minibond"
+      ],
+      "link_ufficiale": "https://www.irfis.it/fondo-sicilia/imprese/",
+      "checklist": [
+        "Scegliere linea prodotto su fondosicilia.irfis.it",
+        "Contattare IRFIS per appuntamento: fondosicilia@irfis.it"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.irfis.it/fondo-sicilia/imprese/"
+    },
+    {
+      "id": "sicilia-fondo-sicilia-commercio-2026",
+      "nome": "Fondo Sicilia – Finanziamenti commercio (investimenti e circolante)",
+      "programma": "Regione Siciliana / IRFIS FinSicilia",
+      "livello": "regionale",
+      "settori": [
+        "commercio",
+        "tecnologia"
+      ],
+      "stato": "aperto",
+      "budget_totale": "13,5 milioni € (PSC 2014-2020)",
+      "cofinanziamento": "Finanziamento agevolato tasso max 0,25% annuo (regime de minimis UE)",
+      "beneficiari": [
+        "Micro, piccole e medie imprese del commercio (ATECO 46 e 47)"
+      ],
+      "territorio": "Sicilia – almeno una sede operativa nell'Isola",
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "scadenze": [
+        {
+          "fase": "Apertura sportello investimenti",
+          "data": "2026-05-05",
+          "note": "Ore 12:00 – procedura a sportello fino esaurimento fondi"
+        },
+        {
+          "fase": "Capitale circolante",
+          "data": "2026-05-05",
+          "note": "Stessa piattaforma IRFIS, prodotto dedicato"
+        }
+      ],
+      "requisiti": [
+        "Sede operativa in Sicilia, iscrizione CCIAA attiva",
+        "Almeno 2 bilanci depositati, regolarità contributiva e antimafia",
+        "Esclusi artigiani e cooperative (per questa linea commercio)",
+        "Investimenti: max 400.000 € (15 anni); Circolante: max 200.000 € (5 anni)",
+        "Garanzie reali, fideiussioni o Fondo di Garanzia PMI"
+      ],
+      "documenti": [
+        "Domanda online portale IRFIS – codice prodotto 5023 (investimenti)",
+        "Business plan del programma di investimento",
+        "Dichiarazioni sostitutive requisiti",
+        "IBAN e documentazione fiscale/contabile"
+      ],
+      "topic_esempio": [
+        "Ristrutturazione punti vendita (opere fino al 70%)",
+        "Macchinari, software (fino 20%), spese tecniche (4%)",
+        "Capitale circolante per liquidità commerciale"
+      ],
+      "link_ufficiale": "https://www.irfis.it/finanziamenti-agevolati-per-la-realizzazione-di-programmi-di-investimento-in-favore-di-imprese-operanti-nel-settore-del-commercio/",
+      "checklist": [
+        "Verificare codice ATECO 46 o 47",
+        "Preparare business plan prima dell'apertura sportello",
+        "Controllare plafond de minimis già fruito",
+        "Registrarsi sul portale IRFIS / Fondo Sicilia",
+        "Presentare domanda appena apre lo sportello (risorse limitate)"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.irfis.it/finanziamenti-agevolati-per-la-realizzazione-di-programmi-di-investimento-in-favore-di-imprese-operanti-nel-settore-del-commercio/"
+    },
+    {
+      "id": "ue-funding-opportunities-hadea-call-management",
+      "nome": "HaDEA call management",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The EU4Health programme, implemented by HaDEA, with a budget of €5.3 billion, is the fourth and largest of the EU health programmes since their launch in 2003.HaDEA call management",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando HaDEA call management. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://hadea.ec.europa.eu/programmes/eu4health/call-management_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "60e013354ba9b18a63823c852ab1a8064fca98ce"
+    },
+    {
+      "id": "ue-funding-opportunities-horizon-2020",
+      "nome": "Horizon 2020",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The previous programmes (Horizon 2020 and FP7)Horizon 2020Research and Innovation funding 2007 - 2013 (Archived site)",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Horizon 2020. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "d809eeaed6c46777161792b4fba6e3984822044a"
+    },
+    {
+      "id": "ue-funding-opportunities-horizon-europe",
+      "nome": "Horizon Europe",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Horizon EuropeHorizon Europe is the EU's research and innovation programme for 2021-2027 with a budget of €95.5 billion.It tackles climate change, helps to achieve the UN’s Sustainable Development Goals and boosts the EU’s competitiveness and growth.The progra",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Horizon Europe. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "040f462d08dfff36030edfafc4f944f470541baf"
+    },
     {
       "id": "horizon-cl4-2026-04",
       "nome": "Horizon Europe – Cluster 4: Digitale, Industria, Spazio",
       "programma": "Horizon Europe",
       "livello": "europeo",
-      "settori": ["tecnologia", "industria", "startup"],
+      "settori": [
+        "tecnologia",
+        "industria",
+        "startup"
+      ],
       "stato": "aperto",
       "budget_totale": "221,8 milioni € (call 04)",
       "cofinanziamento": "RIA 100% | IA 70% imprese / 100% enti no-profit",
-      "beneficiari": ["PMI", "Grandi imprese", "Università", "Centri di ricerca", "Enti pubblici"],
+      "beneficiari": [
+        "PMI",
+        "Grandi imprese",
+        "Università",
+        "Centri di ricerca",
+        "Enti pubblici"
+      ],
       "territorio": "UE e Paesi associati a Horizon Europe",
       "scadenze": [
-        { "fase": "Presentazione proposta", "data": "2026-04-15", "note": "Call HORIZON-CL4-2026-04 – verifica topic singoli" },
-        { "fase": "Altra call Cluster 4", "data": "2026-04-17", "note": "Alcuni topic con scadenza 17/04/2026" }
+        {
+          "fase": "Presentazione proposta",
+          "data": "2026-04-15",
+          "note": "Call HORIZON-CL4-2026-04 – verifica topic singoli"
+        },
+        {
+          "fase": "Altra call Cluster 4",
+          "data": "2026-04-17",
+          "note": "Alcuni topic con scadenza 17/04/2026"
+        }
       ],
       "requisiti": [
         "Consorzio internazionale: minimo 3 enti da 3 Paesi diversi (salvo eccezioni nel topic)",
@@ -46,178 +985,40 @@
         "Registrare tutti i partner sul portale UE",
         "Preparare impact e dissemination plan",
         "Verificare percentuale cofinanziamento per tipo azione (RIA/IA)"
-      ]
-    },
-    {
-      "id": "horizon-cl6-2026",
-      "nome": "Horizon Europe – Cluster 6: Cibo, Bioeconomia, Agricoltura, Ambiente",
-      "programma": "Horizon Europe",
-      "livello": "europeo",
-      "settori": ["agricoltura", "green", "industria"],
-      "stato": "aperto",
-      "budget_totale": "130,5 milioni € (due call two-stage)",
-      "cofinanziamento": "Variabile per tipo azione (RIA/IA)",
-      "beneficiari": ["PMI", "Università", "Enti ricerca", "PA", "ONG"],
-      "territorio": "UE e Paesi associati",
-      "scadenze": [
-        { "fase": "1° stage – Call 02 (FARM2FORK)", "data": "2026-04-14", "note": "HORIZON-CL6-2026-02-two-stage" },
-        { "fase": "1° stage – Call 01 (BIODIV/CIRCBIO)", "data": "2026-04-16", "note": "HORIZON-CL6-2026-01-two-stage" },
-        { "fase": "2° stage – Call 02", "data": "2026-09-15", "note": "Solo se ammessi al 1° stage" },
-        { "fase": "2° stage – Call 01", "data": "2026-09-23", "note": "Solo se ammessi al 1° stage" }
       ],
-      "requisiti": [
-        "Procedura two-stage: prima short proposal, poi full proposal se selezionati",
-        "Consorzio internazionale",
-        "Progetti con impatto su biodiversità, agricoltura sostenibile o bioeconomia circolare"
-      ],
-      "documenti": [
-        "Short proposal (1° stage)",
-        "Full proposal (2° stage)",
-        "Piano di sostenibilità e impatto ambientale"
-      ],
-      "topic_esempio": [
-        "Living labs per ecosistemi",
-        "Agricoltura biologica competitiva (max 6 M€)",
-        "Soluzioni circolari in città e regioni"
-      ],
-      "codice_portale": "HORIZON-CL6-2026",
-      "link_work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
-      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?order=DESC&pageNumber=1&pageSize=50&searchText=HORIZON-CL6-2026",
-      "checklist": [
-        "Preparare short proposal entro scadenza 1° stage",
-        "Pianificare budget max per topic (es. 4,5–8 M€)"
-      ]
-    },
-    {
-      "id": "eic-accelerator-2026",
-      "nome": "EIC Accelerator 2026 – Startup e PMI innovative",
-      "programma": "Horizon Europe / EIC",
-      "livello": "europeo",
-      "settori": ["tecnologia", "startup", "industria", "green"],
-      "stato": "aperto",
-      "budget_totale": "634 milioni € (2026)",
-      "cofinanziamento": "Grant fino a 2,5 M€ + Equity fino a 10 M€ (blended finance)",
-      "beneficiari": ["Startup", "PMI (<250 dipendenti)", "Small mid-cap fino a 499 addetti (solo equity)"],
-      "territorio": "Stati UE e Paesi associati Horizon Europe",
-      "scadenze": [
-        { "fase": "Short application", "data": null, "note": "Sempre aperta – feedback in 4-6 settimane" },
-        { "fase": "Full proposal – cut-off 1", "data": "2026-01-07", "note": "Già passata" },
-        { "fase": "Full proposal – cut-off 2", "data": "2026-03-04", "note": "Già passata" },
-        { "fase": "Full proposal – cut-off 3", "data": "2026-05-06", "note": "Prossima rilevante" },
-        { "fase": "Full proposal – cut-off 4", "data": "2026-07-08", "note": "" },
-        { "fase": "Full proposal – cut-off 5", "data": "2026-09-02", "note": "" },
-        { "fase": "Full proposal – cut-off 6", "data": "2026-11-03", "note": "Call aperta fino 17/12/2026" }
-      ],
-      "requisiti": [
-        "TRL minimo 5-6 (tecnologia dimostrata)",
-        "Innovazione breakthrough o disruptive",
-        "Candidatura SINGOLA – no consorzio obbligatorio",
-        "Ambizione di scalabilità europea/globale",
-        "Pitch deck e video (full application)"
-      ],
-      "documenti": [
-        "Short application (10 pagine circa)",
-        "Full proposal (~20 pagine nel 2026)",
-        "Pitch deck",
-        "Video pitch (3 min)",
-        "Business plan / financials"
-      ],
-      "topic_esempio": [
-        "EIC Accelerator Open: qualsiasi settore tecnologico",
-        "EIC Accelerator Challenges: topic predefiniti (budget 220 M€)"
-      ],
-      "link_ufficiale": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
-      "checklist": [
-        "Verificare TRL e readiness commerciale",
-        "Inviare short application quando il progetto è maturo",
-        "Preparare pitch per jury interview se short è positiva",
-        "Scegliere tra grant only, blended o investment only"
-      ]
-    },
-    {
-      "id": "digital-europe-bestuse-2026",
-      "nome": "Digital Europe – Accelerating the Best Use of Technologies",
-      "programma": "Digital Europe Programme",
-      "livello": "europeo",
-      "settori": ["tecnologia", "commercio", "industria"],
-      "stato": "in_arrivo",
-      "budget_totale": "~33,2 milioni € (intera call SO5)",
-      "cofinanziamento": "50% generale | 75% per PMI (SME Support Actions)",
-      "beneficiari": ["PMI", "Startup", "Enti pubblici", "Università", "Associazioni"],
-      "territorio": "UE e Paesi associati DIGITAL",
-      "scadenze": [
-        { "fase": "Apertura call", "data": "2026-04-21", "note": "" },
-        { "fase": "Scadenza presentazione", "data": "2026-10-01", "note": "Ore 17:00 CEST" }
-      ],
-      "requisiti": [
-        "Entità legale in Paese ammissibile",
-        "Progetti di trasformazione digitale e deployment tecnologie",
-        "Consorzio secondo requisiti del topic specifico"
-      ],
-      "documenti": [
-        "Application form DIGITAL",
-        "Budget per partner",
-        "Descrizione impatto su PMI e PA"
-      ],
-      "topic_esempio": [
-        "EDIC Support Hub (MCP)",
-        "Supporto deployment capacità digitali per PMI"
-      ],
-      "codice_portale": "DIGITAL-2026-BESTUSE",
-      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?order=DESC&pageNumber=1&pageSize=50&searchText=DIGITAL-2026-BESTUSE",
-      "checklist": [
-        "Verificare topic DIGITAL-2026-BESTUSE-*",
-        "Valutare se la tua impresa è SME per aliquota 75%"
-      ]
-    },
-    {
-      "id": "digital-europe-ai-cyber-sme",
-      "nome": "Digital Europe – Cybersecurity AI per PMI europee",
-      "programma": "Digital Europe Programme",
-      "livello": "europeo",
-      "settori": ["tecnologia", "commercio", "industria"],
-      "stato": "in_arrivo",
-      "budget_totale": "~20 milioni €",
-      "cofinanziamento": "50-75% costi ammissibili",
-      "beneficiari": ["PMI", "Startup cybersecurity", "Università", "Cyber Hubs", "PA"],
-      "territorio": "UE, EFTA/EEA, Paesi associati",
-      "scadenze": [
-        { "fase": "Pubblicazione call (indicativa)", "data": "2026-06-01", "note": "Q2 2026" },
-        { "fase": "Scadenza (indicativa)", "data": "2026-09-30", "note": "Q3 2026 – confermare su portale UE" }
-      ],
-      "requisiti": [
-        "Soluzioni AI-powered per cybersecurity delle PMI",
-        "Miglioramento resilienza cyber e risk management",
-        "SME Support Action"
-      ],
-      "documenti": [
-        "Call fiche ufficiale (quando pubblicata)",
-        "Piano di disseminazione verso PMI"
-      ],
-      "topic_esempio": [
-        "Tool AI per detection attacchi",
-        "Interfacce SME per incident reporting"
-      ],
-      "codice_portale": "DIGITAL-2026",
-      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?order=DESC&pageNumber=1&pageSize=50&searchText=DIGITAL-2026%20cybersecurity%20SME",
-      "checklist": [
-        "Preparare partnership con EDIH o Cyber Hub locali"
-      ]
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-04-HUMAN-01"
     },
     {
       "id": "mimit-investimenti-sostenibili-40-2026",
       "nome": "Investimenti Sostenibili 4.0 – PMI del Mezzogiorno",
       "programma": "MIMIT / Invitalia",
       "livello": "nazionale",
-      "settori": ["tecnologia", "industria", "artigianato", "green", "commercio"],
+      "settori": [
+        "tecnologia",
+        "industria",
+        "artigianato",
+        "green",
+        "commercio"
+      ],
       "stato": "aperto",
       "budget_totale": "448 milioni €",
       "cofinanziamento": "Fino al 75%: 35% fondo perduto + 40% finanziamento agevolato a tasso zero (max 7 anni)",
-      "beneficiari": ["Micro imprese", "PMI"],
+      "beneficiari": [
+        "Micro imprese",
+        "PMI"
+      ],
       "territorio": "Basilicata, Calabria, Campania, Molise, Puglia, Sicilia, Sardegna",
-      "regioni_ammesse": ["sicilia", "mezzogiorno"],
+      "regioni_ammesse": [
+        "sicilia",
+        "mezzogiorno"
+      ],
       "scadenze": [
-        { "fase": "Sportello domande", "data": null, "note": "Procedura a sportello – verificare apertura su Invitalia/GU" }
+        {
+          "fase": "Sportello domande",
+          "data": null,
+          "note": "Procedura a sportello – verificare apertura su Invitalia/GU"
+        }
       ],
       "requisiti": [
         "MPMI con sede operativa nelle regioni ammesse",
@@ -247,23 +1048,752 @@
         "Calcolare % agevolabile (max 70% fatturato)",
         "Raccogliere preventivi conformi Transizione 4.0",
         "Presentare su piattaforma Invitalia appena aperto sportello"
-      ]
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-sostenibili-40-bando-2025"
+    },
+    {
+      "id": "ue-funding-opportunities-life-calls-for-proposals-2025",
+      "nome": "LIFE Calls for proposals 2025",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The LIFE programme 2021-2027 is divided into four sub-programmes: “Nature and biodiversity”, “Circular economy and quality of life”, “Climate change mitigation and adaptation” and “Clean energy transition”.LIFE Calls for proposals 2025",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando LIFE Calls for proposals 2025. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://cinea.ec.europa.eu/life-calls-proposals-2025_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "d42827f833ed0590a401baa6f0b39bbd9b53400e"
+    },
+    {
+      "id": "ue-funding-opportunities-life-programme-2021-2027",
+      "nome": "LIFE programme 2021-2027",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The LIFE programme 2021-2027 is divided into four sub-programmes: “Nature and biodiversity”, “Circular economy and quality of life”, “Climate change mitigation and adaptation” and “Clean energy transition”.LIFE Calls for proposals 2025",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando LIFE programme 2021-2027. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://climate.ec.europa.eu/eu-action/funding-climate-action/life-climate-change-mitigation-and-adaptation_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "e19aff73c09d1102261fb5fa7867ae0c657f20a7"
+    },
+    {
+      "id": "ue-funding-opportunities-open-and-upcoming-calls-for-horizon-europe",
+      "nome": "Open and upcoming calls for Horizon Europe",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Horizon EuropeHorizon Europe is the EU's research and innovation programme for 2021-2027 with a budget of €95.5 billion.It tackles climate change, helps to achieve the UN’s Sustainable Development Goals and boosts the EU’s competitiveness and growth.The progra",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Open and upcoming calls for Horizon Europe. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search;callCode=null;freeTextSearchKeyword=;matchWholeText=true;typeCodes=1;statusCodes=31094501,31094502,31094503;programmePeriod=2021%20-%202027;programCcm2Id=43108390;programDivisionCode=null;focusAreaCode=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "a3560c765eb7772a365acb3806b0347a655c6fe9"
+    },
+    {
+      "id": "ue-funding-opportunities-open-and-upcoming-calls-for-rfcs",
+      "nome": "Open and upcoming calls for RFCS",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The Research Fund for Coal and Steel supports research projects in coal and steel sectors. Every year around €55 million (€47.7 million for 2015) is made available to universities, research centres and private companies to fund projects.Open and upcoming calls",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Open and upcoming calls for RFCS. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search;freeTextSearchKeyword=;typeCodes=1;statusCodes=31094501,31094502;programCode=RFCS;programDivisionCode=null;focusAreaCode=null;crossCuttingPriorityCode=null;callCode=Default;sortQuery=openingDate;orderBy=asc;onlyTenders=false",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "c2380f6bf5276e94361dd3696cb84445ddc41632"
+    },
+    {
+      "id": "sicilia-fesr-132-investimenti-regionali-zes",
+      "nome": "PR FESR Sicilia – Azione 1.3.2 regionale (investimenti e ZES)",
+      "programma": "Regione Siciliana – PR FESR 2021-2027",
+      "livello": "regionale",
+      "settori": [
+        "industria",
+        "tecnologia",
+        "green",
+        "export"
+      ],
+      "stato": "in_arrivo",
+      "budget_totale": "21 milioni €",
+      "cofinanziamento": "Contributi a fondo perduto + finanza agevolata",
+      "beneficiari": [
+        "Imprese con investimenti su scala regionale",
+        "Priorità ZES e aree crisi industriale"
+      ],
+      "territorio": "Sicilia – ZES Unica e aree di crisi industriale complessa",
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "scadenze": [
+        {
+          "fase": "Pubblicazione avviso",
+          "data": null,
+          "note": "2026"
+        }
+      ],
+      "requisiti": [
+        "Quota riservata a imprese in ZES e aree di crisi industriale",
+        "Investimenti produttivi su scala regionale",
+        "Combinazione contributi e finanziamenti agevolati"
+      ],
+      "documenti": [
+        "Programma investimento",
+        "Certificazioni ZES se richieste"
+      ],
+      "topic_esempio": [
+        "Insediamento o ampliamento in area ZES",
+        "Rilancio sito industriale in area crisi complessa"
+      ],
+      "link_ufficiale": "https://www.euroinfosicilia.it/bandi-in-corso/",
+      "checklist": [
+        "Verificare se la sede rientra in ZES o area crisi",
+        "Preparare studio di investimento e occupazione"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.euroinfosicilia.it/bandi-in-corso/"
+    },
+    {
+      "id": "sicilia-fesr-132-investimenti-territoriali",
+      "nome": "PR FESR Sicilia – Azione 1.3.2 territorializzata (imprese esistenti)",
+      "programma": "Regione Siciliana – PR FESR 2021-2027",
+      "livello": "regionale",
+      "settori": [
+        "industria",
+        "artigianato",
+        "commercio",
+        "tecnologia",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "budget_totale": "Quota PR FESR (importo in avviso)",
+      "cofinanziamento": "Contributo + eventuale finanza agevolata",
+      "beneficiari": [
+        "Imprese esistenti nei territori siciliani"
+      ],
+      "territorio": "Sicilia (territorializzato)",
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "scadenze": [
+        {
+          "fase": "Pubblicazione avviso",
+          "data": null,
+          "note": "2026 – dopo consultazione territoriale"
+        }
+      ],
+      "requisiti": [
+        "Programmi di investimento tra 500.000 € e 3.000.000 €",
+        "Innovazione, ampliamento, riconversione produttiva"
+      ],
+      "documenti": [
+        "Programma investimento",
+        "Bilanci e visura",
+        "Preventivi"
+      ],
+      "topic_esempio": [
+        "Ammodernamento laboratorio artigiano",
+        "Digitalizzazione punto vendita",
+        "Riconversione produttiva green"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/la-regione-informa/attivita-produttive-presentati-4-nuovi-bandi-sviluppo-imprese-innovazione",
+      "checklist": [
+        "Dimensionare investimento tra 500k e 3M€",
+        "Allineare progetto a priorità territoriali del bando"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.regione.sicilia.it/la-regione-informa/attivita-produttive-presentati-4-nuovi-bandi-sviluppo-imprese-innovazione"
+    },
+    {
+      "id": "ue-funding-opportunities-research-and-innovation-funding-2007-2013",
+      "nome": "Research and Innovation funding 2007 - 2013",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The previous programmes (Horizon 2020 and FP7)Horizon 2020Research and Innovation funding 2007 - 2013 (Archived site)",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Research and Innovation funding 2007 - 2013. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://wayback.archive-it.org/12090/20191127213419/https:/ec.europa.eu/research/fp7/index_en.cfm",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "780436cd14d4958bb63437bd71ac51ce06f23738"
+    },
+    {
+      "id": "ue-funding-opportunities-research-fund-for-coal-and-steel",
+      "nome": "Research Fund for Coal and Steel",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The Research Fund for Coal and Steel supports research projects in coal and steel sectors. Every year around €55 million (€47.7 million for 2015) is made available to universities, research centres and private companies to fund projects.Open and upcoming calls",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Research Fund for Coal and Steel. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/research-fund-coal-and-steel-rfcs_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-05-26",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "739dbdaf06c56b96f37634ec0126a8e83422142e"
+    },
+    {
+      "id": "resto-al-sud-20",
+      "nome": "Resto al Sud 2.0 – Nuove attività under 35",
+      "programma": "Invitalia",
+      "livello": "nazionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "tecnologia",
+        "turismo",
+        "agricoltura"
+      ],
+      "stato": "aperto",
+      "budget_totale": "Variabile (misura strutturale)",
+      "cofinanziamento": "Fondo perduto fino a 50% investimenti (max 200.000 € in alcune configurazioni)",
+      "beneficiari": [
+        "Under 35",
+        "Nuove imprese",
+        "Liberi professionisti",
+        "Autoimprenditori"
+      ],
+      "territorio": "Abruzzo, Basilicata, Calabria, Campania, Molise, Puglia, Sardegna, Sicilia + aree svantaggiate Centro-Nord",
+      "regioni_ammesse": [
+        "sicilia",
+        "mezzogiorno"
+      ],
+      "scadenze": [
+        {
+          "fase": "Sportello",
+          "data": null,
+          "note": "Verificare disponibilità fondi su Invitalia"
+        }
+      ],
+      "requisiti": [
+        "Età compresa tra 18 e 35 anni (non compiuti 36)",
+        "Non occupazione o disoccupazione al momento domanda",
+        "Iscrizione previdenziale INPS",
+        "Avvio nuova attività nei settori ammessi"
+      ],
+      "documenti": [
+        "Domanda Invitalia",
+        "Piano economico-finanziario",
+        "Documento identità e requisiti under 35"
+      ],
+      "topic_esempio": [
+        "Avvio laboratorio artigiano",
+        "E-commerce / negozio",
+        "Servizi digitali"
+      ],
+      "link_ufficiale": "https://www.invitalia.it/cosa-facciamo/creiamo-nuove-aziende/resto-al-sud",
+      "checklist": [
+        "Verificare requisito età e stato occupazionale",
+        "Preparare business plan",
+        "Controllare massimali per tipologia spesa"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.invitalia.it/cosa-facciamo/creiamo-nuove-aziende/resto-al-sud"
+    },
+    {
+      "id": "pnrr-edih",
+      "nome": "Rete EDIH – European Digital Innovation Hubs",
+      "programma": "Digital Europe / PNRR",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "commercio",
+        "artigianato",
+        "industria"
+      ],
+      "stato": "aperto",
+      "budget_totale": "Servizi tramite hub (non bando diretto classico)",
+      "cofinanziamento": "Servizi di test before invest, formazione, accesso a laboratori – spesso gratuiti o subventionati",
+      "beneficiari": [
+        "PMI",
+        "PA",
+        "Startup"
+      ],
+      "territorio": "Italia (hub territoriali)",
+      "scadenze": [
+        {
+          "fase": "Accesso servizi",
+          "data": null,
+          "note": "Contattare EDIH di riferimento per la tua regione"
+        }
+      ],
+      "requisiti": [
+        "Impresa o ente interessato a digitalizzazione / AI / HPC / cybersecurity",
+        "Contatto con hub locale (es. FIT EDIH, hub regionali)"
+      ],
+      "documenti": [
+        "Richiesta servizio all'EDIH",
+        "Descrizione esigenza aziendale"
+      ],
+      "topic_esempio": [
+        "Test tecnologie AI",
+        "Cybersecurity assessment",
+        "Formazione digitale dipendenti"
+      ],
+      "link_ufficiale": "https://digital-innovation-hub.ec.europa.eu/edih-network",
+      "checklist": [
+        "Trovare EDIH nella tua regione su mappa UE",
+        "Prenotare assessment iniziale gratuito",
+        "Usare EDIH come trampolino verso bandi Horizon/DIGITAL"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://digital-innovation-hub.ec.europa.eu/edih-network"
+    },
+    {
+      "id": "sicilia-aree-artigianali",
+      "nome": "Riqualificazione aree artigianali – Comuni e enti",
+      "programma": "Regione Siciliana – POC / PAC",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "industria"
+      ],
+      "stato": "aperto",
+      "budget_totale": "75 milioni € (57 progetti finanziati)",
+      "cofinanziamento": "Finanziamento interventi infrastrutturali su aree artigianali",
+      "beneficiari": [
+        "Comuni",
+        "Enti locali",
+        "Gestori aree artigianali"
+      ],
+      "territorio": "Sicilia",
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "scadenze": [
+        {
+          "fase": "Aggiudicazione definitiva lavori",
+          "data": "2026-07-31",
+          "note": "Per beneficiari ammessi in graduatoria"
+        },
+        {
+          "fase": "Completamento opere",
+          "data": "2026-12-31",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Progetti ammessi in graduatoria definitiva (78 istanze, 57 finanziate)",
+        "Interventi efficientamento energetico, servizi, viabilità nelle aree artigianali"
+      ],
+      "documenti": [
+        "Progetto tecnico",
+        "Documentazione aggiudicazione"
+      ],
+      "topic_esempio": [
+        "Efficientamento energetico zona artigianale",
+        "Potenziamento servizi e accessi"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "checklist": [
+        "Per artigiani: verificare con il tuo comune se l'area è inclusa",
+        "Chiedere alla camera di commercio aggiornamenti su servizi nell'area"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi"
+    },
+    {
+      "id": "simest-export",
+      "nome": "SIMEST – Finanziamenti internazionalizzazione PMI",
+      "programma": "SIMEST / MIMIT",
+      "livello": "nazionale",
+      "settori": [
+        "export",
+        "commercio",
+        "industria",
+        "artigianato"
+      ],
+      "stato": "aperto",
+      "budget_totale": "Fondi rotativi",
+      "cofinanziamento": "Finanziamenti agevolati e contributi per fiere, e-commerce export, filiere",
+      "beneficiari": [
+        "PMI italiane"
+      ],
+      "territorio": "Italia",
+      "scadenze": [
+        {
+          "fase": "Varie misure",
+          "data": null,
+          "note": "Consultare catalogo misure SIMEST aggiornato"
+        }
+      ],
+      "requisiti": [
+        "PMI con sede in Italia",
+        "Progetto di internazionalizzazione concreto",
+        "Requisiti specifici per ogni fondo (Tempo reale, Futura, E-commerce, ecc.)"
+      ],
+      "documenti": [
+        "Domanda SIMEST online",
+        "Piano export",
+        "Dati bilancio e mercati target"
+      ],
+      "topic_esempio": [
+        "Partecipazione fiere estere",
+        "Apertura mercati extra-UE",
+        "E-commerce internazionale"
+      ],
+      "link_ufficiale": "https://www.simest.it/per-le-imprese/finanziamenti/",
+      "checklist": [
+        "Scegliere la misura SIMEST più adatta",
+        "Preparare piano mercati e budget export",
+        "Verificare scadenze fondo specifico"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.simest.it/per-le-imprese/finanziamenti/"
+    },
+    {
+      "id": "smart-sud",
+      "nome": "Smart&Start Italia – Startup innovative",
+      "programma": "Invitalia / MIMIT",
+      "livello": "nazionale",
+      "settori": [
+        "startup",
+        "tecnologia"
+      ],
+      "stato": "aperto",
+      "budget_totale": "Variabile",
+      "cofinanziamento": "Finanziamento agevolato a tasso zero + contributo fondo perduto (fino 80% costi, max 1,4 M€)",
+      "beneficiari": [
+        "Startup innovative costituite da max 60 mesi"
+      ],
+      "territorio": "Italia (premialità Sud)",
+      "scadenze": [
+        {
+          "fase": "Sportello",
+          "data": null,
+          "note": "Domande continue – verificare disponibilità risorse"
+        }
+      ],
+      "requisiti": [
+        "Startup innovativa iscritta sezione speciale Registro Imprese",
+        "Costituita da non più di 60 mesi",
+        "Team con competenze tecniche e manageriali",
+        "Piano sviluppo con milestone"
+      ],
+      "documenti": [
+        "Domanda Invitalia",
+        "Business plan e pitch",
+        "Statuto e visura camerale",
+        "CV fondatori"
+      ],
+      "topic_esempio": [
+        "Deep tech",
+        "Digital",
+        "Life sciences"
+      ],
+      "link_ufficiale": "https://www.invitalia.it/cosa-facciamo/creiamo-nuove-aziende/smartstart-italia",
+      "checklist": [
+        "Ottenere qualifica startup innovativa",
+        "Preparare piano con KPI e milestone",
+        "Verificare mix finanziamento/perduto per area geografica"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.invitalia.it/cosa-facciamo/creiamo-nuove-aziende/smartstart-italia"
+    },
+    {
+      "id": "sicilia-step-fesr-2026",
+      "nome": "STEP Sicilia – Deep-tech, biotech e cleantech (PR FESR)",
+      "programma": "Regione Siciliana – PR FESR 2021-2027",
+      "livello": "regionale",
+      "settori": [
+        "tecnologia",
+        "industria",
+        "green",
+        "startup"
+      ],
+      "stato": "aperto",
+      "budget_totale": "315,2 milioni €",
+      "cofinanziamento": "Contributo fondo perduto fino al 50-80% (RI/SS/investimenti produttivi, con premialità PMI)",
+      "beneficiari": [
+        "Imprese con sede in Sicilia",
+        "Aggregazioni fino a 5 soggetti",
+        "Startup innovative con brevetti"
+      ],
+      "territorio": "Sicilia",
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "scadenze": [
+        {
+          "fase": "Fase II – Progetto definitivo (riapertura)",
+          "data": "2026-06-13",
+          "note": "Ore 12:00 – solo soggetti ammessi da Fase I"
+        },
+        {
+          "fase": "Fase I (chiusa)",
+          "data": "2026-02-13",
+          "note": "Manifestazione di interesse già conclusa"
+        }
+      ],
+      "requisiti": [
+        "Sede operativa in Sicilia; GI: min 2 bilanci; MPMI: min 3 bilanci e ricavi medi ≥ 1 M€",
+        "Investimento minimo: 3-5 M€ a seconda classe impresa (ridotto di 2 M€ per deep-tech/digi-tech)",
+        "Durata progetto max 36 mesi; attività RI/SS verso TRL 9 (max 20% costi)",
+        "Presentazione su piattaforma regionale con SPID/CIE/CNS"
+      ],
+      "documenti": [
+        "Progetto definitivo e perizia tecnica asseverata",
+        "Business plan e piano economico-finanziario",
+        "Allegati amministrativi PDF firmati digitalmente",
+        "FAQ e modulistica su euroinfosicilia.it"
+      ],
+      "topic_esempio": [
+        "Azione 1.6.1 – Tecnologie digitali, deep-tech, biotecnologie",
+        "Azione 2.9.1 – Tecnologie pulite ed efficienti sotto il profilo delle risorse"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-step-strategic-technologies-europe-platform-cohesion-policy-azioni-161-291-pr-fesr-20212027",
+      "checklist": [
+        "Verificare se sei tra i soggetti ammessi alla Fase I",
+        "Scaricare FAQ aggiornate (febbraio 2026)",
+        "Predisporre perizia asseverata e business plan",
+        "Inviare entro 13/06/2026 ore 12:00"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-step-strategic-technologies-europe-platform-cohesion-policy-azioni-161-291-pr-fesr-20212027"
     },
     {
       "id": "mimit-competenze-pmi-sud-2026",
       "nome": "Sviluppo Competenze Specialistiche PMI – Mezzogiorno",
       "programma": "MIMIT / Invitalia",
       "livello": "nazionale",
-      "settori": ["formazione", "tecnologia", "green", "artigianato", "commercio"],
+      "settori": [
+        "formazione",
+        "tecnologia",
+        "green",
+        "artigianato",
+        "commercio"
+      ],
       "stato": "aperto",
       "budget_totale": "50 milioni €",
       "cofinanziamento": "50% spese (fino 70% con premialità sovraregionale)",
-      "beneficiari": ["Piccole e medie imprese"],
+      "beneficiari": [
+        "Piccole e medie imprese"
+      ],
       "territorio": "Basilicata, Calabria, Campania, Molise, Puglia, Sardegna, Sicilia",
-      "regioni_ammesse": ["sicilia", "mezzogiorno"],
+      "regioni_ammesse": [
+        "sicilia",
+        "mezzogiorno"
+      ],
       "scadenze": [
-        { "fase": "Apertura sportello", "data": "2026-04-21", "note": "Ore 12:00" },
-        { "fase": "Chiusura sportello", "data": "2026-06-23", "note": "Valutazione a graduatoria di merito" }
+        {
+          "fase": "Apertura sportello",
+          "data": "2026-04-21",
+          "note": "Ore 12:00"
+        },
+        {
+          "fase": "Chiusura sportello",
+          "data": "2026-06-23",
+          "note": "Valutazione a graduatoria di merito"
+        }
       ],
       "requisiti": [
         "PMI iscritte al Registro Imprese, non in liquidazione",
@@ -289,479 +1819,35 @@
         "Scegliere ente formativo accreditato",
         "Presentare entro 23 giugno 2026",
         "Pianificare erogazione in 2 quote (50% ore completate)"
-      ]
-    },
-    {
-      "id": "resto-al-sud-20",
-      "nome": "Resto al Sud 2.0 – Nuove attività under 35",
-      "programma": "Invitalia",
-      "livello": "nazionale",
-      "settori": ["artigianato", "commercio", "tecnologia", "turismo", "agricoltura"],
-      "stato": "aperto",
-      "budget_totale": "Variabile (misura strutturale)",
-      "cofinanziamento": "Fondo perduto fino a 50% investimenti (max 200.000 € in alcune configurazioni)",
-      "beneficiari": ["Under 35", "Nuove imprese", "Liberi professionisti", "Autoimprenditori"],
-      "territorio": "Abruzzo, Basilicata, Calabria, Campania, Molise, Puglia, Sardegna, Sicilia + aree svantaggiate Centro-Nord",
-      "regioni_ammesse": ["sicilia", "mezzogiorno"],
-      "scadenze": [
-        { "fase": "Sportello", "data": null, "note": "Verificare disponibilità fondi su Invitalia" }
       ],
-      "requisiti": [
-        "Età compresa tra 18 e 35 anni (non compiuti 36)",
-        "Non occupazione o disoccupazione al momento domanda",
-        "Iscrizione previdenziale INPS",
-        "Avvio nuova attività nei settori ammessi"
-      ],
-      "documenti": [
-        "Domanda Invitalia",
-        "Piano economico-finanziario",
-        "Documento identità e requisiti under 35"
-      ],
-      "topic_esempio": [
-        "Avvio laboratorio artigiano",
-        "E-commerce / negozio",
-        "Servizi digitali"
-      ],
-      "link_ufficiale": "https://www.invitalia.it/cosa-facciamo/creiamo-nuove-aziende/resto-al-sud",
-      "checklist": [
-        "Verificare requisito età e stato occupazionale",
-        "Preparare business plan",
-        "Controllare massimali per tipologia spesa"
-      ]
-    },
-    {
-      "id": "credito-imposta-40",
-      "nome": "Credito d'imposta Transizione 4.0 e 5.0",
-      "programma": "Agenzia delle Entrate / MIMIT",
-      "livello": "nazionale",
-      "settori": ["tecnologia", "industria", "artigianato", "green"],
-      "stato": "aperto",
-      "budget_totale": "N/A (agevolazione fiscale)",
-      "cofinanziamento": "Credito d'imposta su beni strumentali 4.0 e formazione (aliquote variabili per legge di bilancio)",
-      "beneficiari": ["Imprese residenti in Italia"],
-      "territorio": "Italia",
-      "scadenze": [
-        { "fase": "Acquisto beni / interventi", "data": null, "note": "Verificare Legge di Bilancio annuale per aliquote e plafond" }
-      ],
-      "requisiti": [
-        "Beni in elenco Allegato A (beni materiali 4.0)",
-        "Interconnessione e requisiti tecnici per software",
-        "Pagamento tracciabile",
-        "Perizia asseverata (quando richiesta)"
-      ],
-      "documenti": [
-        "Fatture acquisto",
-        "Certificazione fornitore / perizia",
-        "Comunicazione o modello F24 secondo normativa vigente"
-      ],
-      "topic_esempio": [
-        "Macchinari interconnessi",
-        "Software e sistemi IT",
-        "Formazione personale dipendente"
-      ],
-      "link_ufficiale": "https://www.mimit.gov.it/it/incentivi/credito-d-imposta-per-investimenti-in-beni-strumentali",
-      "checklist": [
-        "Verificare aliquota vigente per l'anno fiscale",
-        "Acquistare solo da fornitori conformi",
-        "Conservare perizie e documentazione per controlli"
-      ]
-    },
-    {
-      "id": "lazio-valore-artigiano",
-      "nome": "Valore Artigiano – Regione Lazio",
-      "programma": "Regione Lazio / Lazio Innova",
-      "livello": "regionale",
-      "settori": ["artigianato"],
-      "stato": "chiuso",
-      "budget_totale": "6 milioni €",
-      "cofinanziamento": "Fondo perduto 60% (innovazione) o 80% (artigianato artistico); max 12.000 € / 10.000 €",
-      "beneficiari": ["Imprese artigiane iscritte all'Albo da almeno 5 anni"],
-      "territorio": "Lazio",
-      "scadenze": [
-        { "fase": "Presentazione domande", "data": "2025-04-15", "note": "Edizione 2025 chiusa – monitorare nuova edizione 2026" }
-      ],
-      "requisiti": [
-        "Iscrizione Albo Imprese Artigiane ≥ 5 anni",
-        "Investimenti in macchinari, ICT, fotovoltaico, opere murarie",
-        "Progetti valorizzazione artigianato artistico e vendite online"
-      ],
-      "documenti": [
-        "Domanda GeCoWEB Plus (Lazio Innova)",
-        "Preventivi e documentazione spese"
-      ],
-      "topic_esempio": [
-        "Ammodernamento laboratorio",
-        "E-commerce prodotti artigianali tradizionali"
-      ],
-      "link_ufficiale": "https://www.lazioinnova.it/lazio-valore/",
-      "checklist": [
-        "Monitorare bandi 2026 su lazioinnova.it",
-        "Tenere pronta documentazione Albo Artigiani",
-        "Preparare preventivi macchinari/digital"
-      ]
-    },
-    {
-      "id": "smart-sud",
-      "nome": "Smart&Start Italia – Startup innovative",
-      "programma": "Invitalia / MIMIT",
-      "livello": "nazionale",
-      "settori": ["startup", "tecnologia"],
-      "stato": "aperto",
-      "budget_totale": "Variabile",
-      "cofinanziamento": "Finanziamento agevolato a tasso zero + contributo fondo perduto (fino 80% costi, max 1,4 M€)",
-      "beneficiari": ["Startup innovative costituite da max 60 mesi"],
-      "territorio": "Italia (premialità Sud)",
-      "scadenze": [
-        { "fase": "Sportello", "data": null, "note": "Domande continue – verificare disponibilità risorse" }
-      ],
-      "requisiti": [
-        "Startup innovativa iscritta sezione speciale Registro Imprese",
-        "Costituita da non più di 60 mesi",
-        "Team con competenze tecniche e manageriali",
-        "Piano sviluppo con milestone"
-      ],
-      "documenti": [
-        "Domanda Invitalia",
-        "Business plan e pitch",
-        "Statuto e visura camerale",
-        "CV fondatori"
-      ],
-      "topic_esempio": [
-        "Deep tech",
-        "Digital",
-        "Life sciences"
-      ],
-      "link_ufficiale": "https://www.invitalia.it/cosa-facciamo/creiamo-nuove-aziende/smartstart-italia",
-      "checklist": [
-        "Ottenere qualifica startup innovativa",
-        "Preparare piano con KPI e milestone",
-        "Verificare mix finanziamento/perduto per area geografica"
-      ]
-    },
-    {
-      "id": "simest-export",
-      "nome": "SIMEST – Finanziamenti internazionalizzazione PMI",
-      "programma": "SIMEST / MIMIT",
-      "livello": "nazionale",
-      "settori": ["export", "commercio", "industria", "artigianato"],
-      "stato": "aperto",
-      "budget_totale": "Fondi rotativi",
-      "cofinanziamento": "Finanziamenti agevolati e contributi per fiere, e-commerce export, filiere",
-      "beneficiari": ["PMI italiane"],
-      "territorio": "Italia",
-      "scadenze": [
-        { "fase": "Varie misure", "data": null, "note": "Consultare catalogo misure SIMEST aggiornato" }
-      ],
-      "requisiti": [
-        "PMI con sede in Italia",
-        "Progetto di internazionalizzazione concreto",
-        "Requisiti specifici per ogni fondo (Tempo reale, Futura, E-commerce, ecc.)"
-      ],
-      "documenti": [
-        "Domanda SIMEST online",
-        "Piano export",
-        "Dati bilancio e mercati target"
-      ],
-      "topic_esempio": [
-        "Partecipazione fiere estere",
-        "Apertura mercati extra-UE",
-        "E-commerce internazionale"
-      ],
-      "link_ufficiale": "https://www.simest.it/per-le-imprese/finanziamenti/",
-      "checklist": [
-        "Scegliere la misura SIMEST più adatta",
-        "Preparare piano mercati e budget export",
-        "Verificare scadenze fondo specifico"
-      ]
-    },
-    {
-      "id": "pnrr-edih",
-      "nome": "Rete EDIH – European Digital Innovation Hubs",
-      "programma": "Digital Europe / PNRR",
-      "livello": "europeo",
-      "settori": ["tecnologia", "commercio", "artigianato", "industria"],
-      "stato": "aperto",
-      "budget_totale": "Servizi tramite hub (non bando diretto classico)",
-      "cofinanziamento": "Servizi di test before invest, formazione, accesso a laboratori – spesso gratuiti o subventionati",
-      "beneficiari": ["PMI", "PA", "Startup"],
-      "territorio": "Italia (hub territoriali)",
-      "scadenze": [
-        { "fase": "Accesso servizi", "data": null, "note": "Contattare EDIH di riferimento per la tua regione" }
-      ],
-      "requisiti": [
-        "Impresa o ente interessato a digitalizzazione / AI / HPC / cybersecurity",
-        "Contatto con hub locale (es. FIT EDIH, hub regionali)"
-      ],
-      "documenti": [
-        "Richiesta servizio all'EDIH",
-        "Descrizione esigenza aziendale"
-      ],
-      "topic_esempio": [
-        "Test tecnologie AI",
-        "Cybersecurity assessment",
-        "Formazione digitale dipendenti"
-      ],
-      "link_ufficiale": "https://digital-innovation-hub.ec.europa.eu/edih-network",
-      "checklist": [
-        "Trovare EDIH nella tua regione su mappa UE",
-        "Prenotare assessment iniziale gratuito",
-        "Usare EDIH come trampolino verso bandi Horizon/DIGITAL"
-      ]
-    },
-    {
-      "id": "eic-pathfinder-2026",
-      "nome": "EIC Pathfinder – Ricerca breakthrough",
-      "programma": "Horizon Europe / EIC",
-      "livello": "europeo",
-      "settori": ["tecnologia", "startup", "green"],
-      "stato": "aperto",
-      "budget_totale": "Parte del WP EIC 2026",
-      "cofinanziamento": "100% costi ammissibili (grant ricerca)",
-      "beneficiari": ["Consorzi ricerca", "Università", "PMI", "Startup deep tech"],
-      "territorio": "UE e associati",
-      "scadenze": [
-        { "fase": "Open call", "data": null, "note": "Verificare cut-off nel Work Programme EIC 2026" }
-      ],
-      "requisiti": [
-        "Idee radicalmente nuove (TRL basso, 1-4)",
-        "Consorzio multidisciplinare",
-        "Science-towards-technology breakthrough"
-      ],
-      "documenti": [
-        "Proposal EIC Pathfinder",
-        "Consortium agreement"
-      ],
-      "topic_esempio": [
-        "Pathfinder Open",
-        "Pathfinder Challenges tematici"
-      ],
-      "link_ufficiale": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en",
-      "checklist": [
-        "Valutare se il progetto è troppo early-stage per Accelerator",
-        "Costruire consorzio accademico-industriale",
-        "Pianificare percorso Pathfinder → Transition → Accelerator"
-      ]
-    },
-    {
-      "id": "sicilia-fondo-sicilia-commercio-2026",
-      "nome": "Fondo Sicilia – Finanziamenti commercio (investimenti e circolante)",
-      "programma": "Regione Siciliana / IRFIS FinSicilia",
-      "livello": "regionale",
-      "settori": ["commercio", "tecnologia"],
-      "stato": "aperto",
-      "budget_totale": "13,5 milioni € (PSC 2014-2020)",
-      "cofinanziamento": "Finanziamento agevolato tasso max 0,25% annuo (regime de minimis UE)",
-      "beneficiari": ["Micro, piccole e medie imprese del commercio (ATECO 46 e 47)"],
-      "territorio": "Sicilia – almeno una sede operativa nell'Isola",
-      "regioni_ammesse": ["sicilia"],
-      "scadenze": [
-        { "fase": "Apertura sportello investimenti", "data": "2026-05-05", "note": "Ore 12:00 – procedura a sportello fino esaurimento fondi" },
-        { "fase": "Capitale circolante", "data": "2026-05-05", "note": "Stessa piattaforma IRFIS, prodotto dedicato" }
-      ],
-      "requisiti": [
-        "Sede operativa in Sicilia, iscrizione CCIAA attiva",
-        "Almeno 2 bilanci depositati, regolarità contributiva e antimafia",
-        "Esclusi artigiani e cooperative (per questa linea commercio)",
-        "Investimenti: max 400.000 € (15 anni); Circolante: max 200.000 € (5 anni)",
-        "Garanzie reali, fideiussioni o Fondo di Garanzia PMI"
-      ],
-      "documenti": [
-        "Domanda online portale IRFIS – codice prodotto 5023 (investimenti)",
-        "Business plan del programma di investimento",
-        "Dichiarazioni sostitutive requisiti",
-        "IBAN e documentazione fiscale/contabile"
-      ],
-      "topic_esempio": [
-        "Ristrutturazione punti vendita (opere fino al 70%)",
-        "Macchinari, software (fino 20%), spese tecniche (4%)",
-        "Capitale circolante per liquidità commerciale"
-      ],
-      "link_ufficiale": "https://www.irfis.it/finanziamenti-agevolati-per-la-realizzazione-di-programmi-di-investimento-in-favore-di-imprese-operanti-nel-settore-del-commercio/",
-      "checklist": [
-        "Verificare codice ATECO 46 o 47",
-        "Preparare business plan prima dell'apertura sportello",
-        "Controllare plafond de minimis già fruito",
-        "Registrarsi sul portale IRFIS / Fondo Sicilia",
-        "Presentare domanda appena apre lo sportello (risorse limitate)"
-      ]
-    },
-    {
-      "id": "sicilia-step-fesr-2026",
-      "nome": "STEP Sicilia – Deep-tech, biotech e cleantech (PR FESR)",
-      "programma": "Regione Siciliana – PR FESR 2021-2027",
-      "livello": "regionale",
-      "settori": ["tecnologia", "industria", "green", "startup"],
-      "stato": "aperto",
-      "budget_totale": "315,2 milioni €",
-      "cofinanziamento": "Contributo fondo perduto fino al 50-80% (RI/SS/investimenti produttivi, con premialità PMI)",
-      "beneficiari": ["Imprese con sede in Sicilia", "Aggregazioni fino a 5 soggetti", "Startup innovative con brevetti"],
-      "territorio": "Sicilia",
-      "regioni_ammesse": ["sicilia"],
-      "scadenze": [
-        { "fase": "Fase II – Progetto definitivo (riapertura)", "data": "2026-06-13", "note": "Ore 12:00 – solo soggetti ammessi da Fase I" },
-        { "fase": "Fase I (chiusa)", "data": "2026-02-13", "note": "Manifestazione di interesse già conclusa" }
-      ],
-      "requisiti": [
-        "Sede operativa in Sicilia; GI: min 2 bilanci; MPMI: min 3 bilanci e ricavi medi ≥ 1 M€",
-        "Investimento minimo: 3-5 M€ a seconda classe impresa (ridotto di 2 M€ per deep-tech/digi-tech)",
-        "Durata progetto max 36 mesi; attività RI/SS verso TRL 9 (max 20% costi)",
-        "Presentazione su piattaforma regionale con SPID/CIE/CNS"
-      ],
-      "documenti": [
-        "Progetto definitivo e perizia tecnica asseverata",
-        "Business plan e piano economico-finanziario",
-        "Allegati amministrativi PDF firmati digitalmente",
-        "FAQ e modulistica su euroinfosicilia.it"
-      ],
-      "topic_esempio": [
-        "Azione 1.6.1 – Tecnologie digitali, deep-tech, biotecnologie",
-        "Azione 2.9.1 – Tecnologie pulite ed efficienti sotto il profilo delle risorse"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-step-strategic-technologies-europe-platform-cohesion-policy-azioni-161-291-pr-fesr-20212027",
-      "checklist": [
-        "Verificare se sei tra i soggetti ammessi alla Fase I",
-        "Scaricare FAQ aggiornate (febbraio 2026)",
-        "Predisporre perizia asseverata e business plan",
-        "Inviare entro 13/06/2026 ore 12:00"
-      ]
-    },
-    {
-      "id": "sicilia-fesr-131-nuove-imprese-territoriali",
-      "nome": "PR FESR Sicilia – Azione 1.3.1 territorializzata (nuove micro/piccole imprese)",
-      "programma": "Regione Siciliana – PR FESR 2021-2027",
-      "livello": "regionale",
-      "settori": ["artigianato", "commercio", "tecnologia", "industria", "turismo"],
-      "stato": "in_arrivo",
-      "budget_totale": "Oltre 40 milioni €",
-      "cofinanziamento": "Contributo a fondo perduto fino all'80% delle spese ammissibili",
-      "beneficiari": ["Nuove micro e piccole imprese nei territori siciliani"],
-      "territorio": "Sicilia (approccio territorializzato)",
-      "regioni_ammesse": ["sicilia"],
-      "scadenze": [
-        { "fase": "Pubblicazione avviso definitivo", "data": null, "note": "Previsto dopo consultazione aprile 2026 – monitorare regione.sicilia.it" }
-      ],
-      "requisiti": [
-        "Nascita di nuove imprese nei territori individuati dal bando",
-        "Requisiti in definizione – consultazione con associazioni di categoria conclusa ad aprile 2026"
-      ],
-      "documenti": [
-        "Avviso pubblico (da pubblicare)",
-        "Domanda su piattaforma Incentivi Sicilia / regionale"
-      ],
-      "topic_esempio": [
-        "Avvio attività artigianale o commerciale in area territoriale ammessa",
-        "Nuova impresa manifatturiera o dei servizi"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/la-regione-informa/attivita-produttive-presentati-4-nuovi-bandi-sviluppo-imprese-innovazione",
-      "checklist": [
-        "Iscriversi agli alert su regione.sicilia.it e euroinfosicilia.it",
-        "Preparare business plan di nuova impresa",
-        "Verificare vincoli territoriali quando uscirà l'avviso"
-      ]
-    },
-    {
-      "id": "sicilia-fesr-131-nuove-imprese-innovative",
-      "nome": "PR FESR Sicilia – Azione 1.3.1 regionale (nuove imprese innovative)",
-      "programma": "Regione Siciliana – PR FESR 2021-2027",
-      "livello": "regionale",
-      "settori": ["startup", "tecnologia", "industria"],
-      "stato": "in_arrivo",
-      "budget_totale": "Circa 22,3 milioni €",
-      "cofinanziamento": "Contributo a fondo perduto (aliquote da avviso)",
-      "beneficiari": ["Nuove imprese innovative su scala regionale"],
-      "territorio": "Sicilia",
-      "regioni_ammesse": ["sicilia"],
-      "scadenze": [
-        { "fase": "Pubblicazione avviso", "data": null, "note": "In definizione – 2026" }
-      ],
-      "requisiti": [
-        "Creazione e sviluppo imprese innovative in Sicilia",
-        "Dettaglio requisiti con pubblicazione bando definitivo"
-      ],
-      "documenti": ["Business plan innovativo", "Documentazione costituzione impresa"],
-      "topic_esempio": ["Startup tecnologica", "Spin-off universitario", "Impresa innovativa iscritta sezione speciale REA"],
-      "link_ufficiale": "https://www.euroinfosicilia.it/bandi-in-corso/",
-      "checklist": [
-        "Valutare iscrizione startup innovativa",
-        "Monitorare pubblicazione avviso su EuroInfoSicilia"
-      ]
-    },
-    {
-      "id": "sicilia-fesr-132-investimenti-territoriali",
-      "nome": "PR FESR Sicilia – Azione 1.3.2 territorializzata (imprese esistenti)",
-      "programma": "Regione Siciliana – PR FESR 2021-2027",
-      "livello": "regionale",
-      "settori": ["industria", "artigianato", "commercio", "tecnologia", "green"],
-      "stato": "in_arrivo",
-      "budget_totale": "Quota PR FESR (importo in avviso)",
-      "cofinanziamento": "Contributo + eventuale finanza agevolata",
-      "beneficiari": ["Imprese esistenti nei territori siciliani"],
-      "territorio": "Sicilia (territorializzato)",
-      "regioni_ammesse": ["sicilia"],
-      "scadenze": [
-        { "fase": "Pubblicazione avviso", "data": null, "note": "2026 – dopo consultazione territoriale" }
-      ],
-      "requisiti": [
-        "Programmi di investimento tra 500.000 € e 3.000.000 €",
-        "Innovazione, ampliamento, riconversione produttiva"
-      ],
-      "documenti": ["Programma investimento", "Bilanci e visura", "Preventivi"],
-      "topic_esempio": [
-        "Ammodernamento laboratorio artigiano",
-        "Digitalizzazione punto vendita",
-        "Riconversione produttiva green"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/la-regione-informa/attivita-produttive-presentati-4-nuovi-bandi-sviluppo-imprese-innovazione",
-      "checklist": [
-        "Dimensionare investimento tra 500k e 3M€",
-        "Allineare progetto a priorità territoriali del bando"
-      ]
-    },
-    {
-      "id": "sicilia-fesr-132-investimenti-regionali-zes",
-      "nome": "PR FESR Sicilia – Azione 1.3.2 regionale (investimenti e ZES)",
-      "programma": "Regione Siciliana – PR FESR 2021-2027",
-      "livello": "regionale",
-      "settori": ["industria", "tecnologia", "green", "export"],
-      "stato": "in_arrivo",
-      "budget_totale": "21 milioni €",
-      "cofinanziamento": "Contributi a fondo perduto + finanza agevolata",
-      "beneficiari": ["Imprese con investimenti su scala regionale", "Priorità ZES e aree crisi industriale"],
-      "territorio": "Sicilia – ZES Unica e aree di crisi industriale complessa",
-      "regioni_ammesse": ["sicilia"],
-      "scadenze": [
-        { "fase": "Pubblicazione avviso", "data": null, "note": "2026" }
-      ],
-      "requisiti": [
-        "Quota riservata a imprese in ZES e aree di crisi industriale",
-        "Investimenti produttivi su scala regionale",
-        "Combinazione contributi e finanziamenti agevolati"
-      ],
-      "documenti": ["Programma investimento", "Certificazioni ZES se richieste"],
-      "topic_esempio": [
-        "Insediamento o ampliamento in area ZES",
-        "Rilancio sito industriale in area crisi complessa"
-      ],
-      "link_ufficiale": "https://www.euroinfosicilia.it/bandi-in-corso/",
-      "checklist": [
-        "Verificare se la sede rientra in ZES o area crisi",
-        "Preparare studio di investimento e occupazione"
-      ]
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.invitalia.it/cosa-facciamo/sosteniamo-lo-sviluppo-competenze-delle-imprese"
     },
     {
       "id": "sicilia-turismo-strutture-ricettive",
       "nome": "Turismo – Investimenti strutture ricettive siciliane",
       "programma": "Regione Siciliana / IRFIS – Fondo sociale di coesione",
       "livello": "regionale",
-      "settori": ["turismo", "commercio"],
+      "settori": [
+        "turismo",
+        "commercio"
+      ],
       "stato": "chiuso",
       "budget_totale": "135 milioni € (dotazione bando)",
       "cofinanziamento": "Contributo a fondo perduto (de minimis o in esenzione)",
-      "beneficiari": ["Micro, piccole, medie e grandi imprese turistiche con sede in Sicilia"],
+      "beneficiari": [
+        "Micro, piccole, medie e grandi imprese turistiche con sede in Sicilia"
+      ],
       "territorio": "Sicilia",
-      "regioni_ammesse": ["sicilia"],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
       "scadenze": [
-        { "fase": "Presentazione domande (chiusa)", "data": "2026-02-28", "note": "Graduatoria provvisoria aprile 2026 – 2.689 progetti ammessi" }
+        {
+          "fase": "Presentazione domande (chiusa)",
+          "data": "2026-02-28",
+          "note": "Graduatoria provvisoria aprile 2026 – 2.689 progetti ammessi"
+        }
       ],
       "requisiti": [
         "Alberghi, B&B, ostelli, campeggi, villaggi, case vacanze, rifugi, reti e cooperative",
@@ -781,72 +1867,55 @@
       "checklist": [
         "Monitorare esiti graduatoria e possibili riaperture",
         "Per future edizioni: preparare perizia e punteggi in anticipo"
-      ]
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.regione.sicilia.it/la-regione-informa/bando-turismo-pronta-graduatoria-provvisoria-progetti-investimento-nelle-strutture"
     },
     {
-      "id": "sicilia-aree-artigianali",
-      "nome": "Riqualificazione aree artigianali – Comuni e enti",
-      "programma": "Regione Siciliana – POC / PAC",
+      "id": "lazio-valore-artigiano",
+      "nome": "Valore Artigiano – Regione Lazio",
+      "programma": "Regione Lazio / Lazio Innova",
       "livello": "regionale",
-      "settori": ["artigianato", "industria"],
-      "stato": "aperto",
-      "budget_totale": "75 milioni € (57 progetti finanziati)",
-      "cofinanziamento": "Finanziamento interventi infrastrutturali su aree artigianali",
-      "beneficiari": ["Comuni", "Enti locali", "Gestori aree artigianali"],
-      "territorio": "Sicilia",
-      "regioni_ammesse": ["sicilia"],
+      "settori": [
+        "artigianato"
+      ],
+      "stato": "chiuso",
+      "budget_totale": "6 milioni €",
+      "cofinanziamento": "Fondo perduto 60% (innovazione) o 80% (artigianato artistico); max 12.000 € / 10.000 €",
+      "beneficiari": [
+        "Imprese artigiane iscritte all'Albo da almeno 5 anni"
+      ],
+      "territorio": "Lazio",
       "scadenze": [
-        { "fase": "Aggiudicazione definitiva lavori", "data": "2026-07-31", "note": "Per beneficiari ammessi in graduatoria" },
-        { "fase": "Completamento opere", "data": "2026-12-31", "note": "" }
+        {
+          "fase": "Presentazione domande",
+          "data": "2025-04-15",
+          "note": "Edizione 2025 chiusa – monitorare nuova edizione 2026"
+        }
       ],
       "requisiti": [
-        "Progetti ammessi in graduatoria definitiva (78 istanze, 57 finanziate)",
-        "Interventi efficientamento energetico, servizi, viabilità nelle aree artigianali"
-      ],
-      "documenti": ["Progetto tecnico", "Documentazione aggiudicazione"],
-      "topic_esempio": [
-        "Efficientamento energetico zona artigianale",
-        "Potenziamento servizi e accessi"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "checklist": [
-        "Per artigiani: verificare con il tuo comune se l'area è inclusa",
-        "Chiedere alla camera di commercio aggiornamenti su servizi nell'area"
-      ]
-    },
-    {
-      "id": "sicilia-fondo-sicilia-plafond-imprese",
-      "nome": "Fondo Sicilia – Crescita dimensionale imprese (D.A. 31/2025)",
-      "programma": "Regione Siciliana / IRFIS",
-      "livello": "regionale",
-      "settori": ["industria", "artigianato", "commercio", "tecnologia"],
-      "stato": "aperto",
-      "budget_totale": "Plafond dedicato (verificare disponibilità IRFIS)",
-      "cofinanziamento": "Finanziamenti agevolati, minibond, consolidamento passività",
-      "beneficiari": ["Imprese di qualsiasi dimensione con operatività in Sicilia"],
-      "territorio": "Sicilia",
-      "regioni_ammesse": ["sicilia"],
-      "scadenze": [
-        { "fase": "Sportello continuo", "data": null, "note": "Domande via portale IRFIS o PEC" }
-      ],
-      "requisiti": [
-        "Interventi per accrescere dimensione e competitività (L.R. e D.A. 31/2025)",
-        "Nuovi investimenti, circolante, minibond, ristrutturazione debiti"
+        "Iscrizione Albo Imprese Artigiane ≥ 5 anni",
+        "Investimenti in macchinari, ICT, fotovoltaico, opere murarie",
+        "Progetti valorizzazione artigianato artistico e vendite online"
       ],
       "documenti": [
-        "Domanda portale online IRFIS",
-        "Business plan e documentazione garanzie"
+        "Domanda GeCoWEB Plus (Lazio Innova)",
+        "Preventivi e documentazione spese"
       ],
       "topic_esempio": [
-        "Fusione o acquisizione",
-        "Investimento per crescita dimensionale",
-        "Emissione minibond"
+        "Ammodernamento laboratorio",
+        "E-commerce prodotti artigianali tradizionali"
       ],
-      "link_ufficiale": "https://www.irfis.it/fondo-sicilia/imprese/",
+      "link_ufficiale": "https://www.lazioinnova.it/lazio-valore/",
       "checklist": [
-        "Scegliere linea prodotto su fondosicilia.irfis.it",
-        "Contattare IRFIS per appuntamento: fondosicilia@irfis.it"
-      ]
+        "Monitorare bandi 2026 su lazioinnova.it",
+        "Tenere pronta documentazione Albo Artigiani",
+        "Preparare preventivi macchinari/digital"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
-  ]
+  ],
+  "changed": true,
+  "source_errors": []
 }
