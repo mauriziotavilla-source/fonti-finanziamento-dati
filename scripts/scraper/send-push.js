@@ -36,6 +36,33 @@ function bodyForItems(items) {
     .join(' • ');
 }
 
+function isTestMode() {
+  return process.argv.includes('--test');
+}
+
+function getTestTopic() {
+  const arg = process.argv.find((a) => a.startsWith('--topic='));
+  const topic = arg ? arg.slice('--topic='.length).trim() : 'bandi_regionali';
+  const allowed = new Set(['bandi_europei', 'bandi_nazionali', 'bandi_regionali']);
+  return allowed.has(topic) ? topic : 'bandi_regionali';
+}
+
+function buildTestNovita(topic) {
+  return {
+    generated_at: new Date().toISOString(),
+    source_run: 'test-push-github-actions',
+    nuovi: [
+      {
+        id: 'test-push-github-actions',
+        nome: 'Test automatico – nuovo bando (prova GitHub Actions)',
+        livello:
+          topic === 'bandi_europei' ? 'europeo' : topic === 'bandi_nazionali' ? 'nazionale' : 'regionale',
+        notifica_topics: [topic],
+      },
+    ],
+  };
+}
+
 async function main() {
   const serviceAccount = loadServiceAccount();
   if (!serviceAccount) {
@@ -43,7 +70,13 @@ async function main() {
     return;
   }
 
-  const novita = readJson(NOVITA_FILE, null);
+  const testMode = isTestMode();
+  const novita = testMode ? buildTestNovita(getTestTopic()) : readJson(NOVITA_FILE, null);
+
+  if (testMode) {
+    console.log(`Modalità test: invio push di prova al topic "${getTestTopic()}"`);
+  }
+
   if (!novita?.nuovi?.length) {
     console.log('Nessun nuovo bando da notificare.');
     return;

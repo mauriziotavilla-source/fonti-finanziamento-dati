@@ -5,6 +5,7 @@
     "scraper:run": "node scraper/run.js --write",
     "scraper:dry": "node scraper/run.js",
     "scraper:push": "node scraper/send-push.js",
+    "scraper:push:test": "node scraper/send-push.js --test",
     "scraper:publish": "node scraper/publish-data-repo.js"
   },
   "dependencies": {
