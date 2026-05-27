@@ -90,6 +90,8 @@ async function main() {
 
   const grouped = groupByTopic(novita.nuovi);
   for (const [topic, items] of grouped.entries()) {
+    const ids = items.map((item) => item.id).filter(Boolean);
+    const primaryId = ids[0] || '';
     const payload = {
       notification: {
         title: titleForTopic(topic, items.length),
@@ -99,6 +101,8 @@ async function main() {
         kind: 'nuovi_bandi',
         topic,
         count: String(items.length),
+        bando_id: primaryId,
+        bando_ids: ids.join(','),
         generatedAt: novita.generated_at || '',
       },
       android: {
