@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-05-26",
-  "versione": 2,
+  "ultimo_aggiornamento": "2026-05-29",
+  "versione": 3,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "8d1795e634d5a9e9a83ea4465042fa8316bd5460",
-  "generated_at": "2026-05-28T23:00:36.262Z",
+  "catalog_hash": "9f8d917f2e50eda6520f6937cd2cd1d01acbe4fe",
+  "generated_at": "2026-05-29T11:58:51.547Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -48,7 +48,7 @@
       "data_uscita": "2026-06-12",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-05-28",
+      "rilevato_il": "2026-05-29",
       "notifica_topics": [
         "bandi_regionali"
       ],
@@ -95,7 +95,7 @@
       "data_uscita": "",
       "fonte_scraper": "invitalia-incentivi",
       "url_origine": "https://www.invitalia.it/",
-      "rilevato_il": "2026-05-28",
+      "rilevato_il": "2026-05-29",
       "notifica_topics": [
         "bandi_nazionali"
       ],
@@ -142,58 +142,11 @@
       "data_uscita": "2026-05-30",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-05-28",
+      "rilevato_il": "2026-05-29",
       "notifica_topics": [
         "bandi_regionali"
       ],
       "hash_contenuto": "d4ee18a01f2f2dcc91b059a303aeccb505399c08"
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-prot-38213-del-15-04-2026-procedura-per-la-concessione-temporane",
-      "nome": "Avviso pubblico prot. 38213 del 15/04/2026 Procedura per la concessione temporanea di aree demaniali gestite dal Dipartimento Regionale dello Sviluppo Rurale e Territoriale- Servizio 11- Servizio per il Territorio di Catania, per la collocazione di Arnie",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Avvisi pubblici Avviso pubblico prot. 38213 del 15/04/2026 Procedura per la concessione temporanea di aree demaniali gestite dal Dipartimento Regionale dello Sviluppo Rurale e Territoriale- Servizio 11- Servizio per il Territorio di Catania, per la collocazion",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso pubblico prot. 38213 del 15/04/2026 Procedura per la concessione temporanea di aree demaniali gestite dal Dipartimento Regionale dello Sviluppo Rurale e Territoriale- Servizio 11- Servizio per il Territorio di Catania, per la collocazione di Arnie. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-prot-38213-15042026-procedura-concessione-temporanea-aree-demaniali-gestite-dipartimento-regionale-sviluppo-rurale-territoriale-servizio-11",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-04-15",
-      "data_uscita": "2026-04-15",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-05-28",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "da832e7a59be10c8625ff578ff4ec80ff65c479a"
     },
     {
       "id": "credito-imposta-40",
@@ -286,7 +239,7 @@
       "data_uscita": "2026-04-02",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-05-28",
+      "rilevato_il": "2026-05-29",
       "notifica_topics": [
         "bandi_regionali"
       ],
@@ -491,8 +444,8 @@
         "commercio",
         "turismo"
       ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici Errata corrige criteri di selezione del bando SRG10 “Promozione dei Prodotti di Qualità” Rettifica dei criteri \"A7\" e \"A8\". Scade il: 28/05/2026 - 23:59 Leggi di più",
+      "stato": "chiuso",
+      "descrizione_breve": "Avvisi pubblici Errata corrige criteri di selezione del bando SRG10 “Promozione dei Prodotti di Qualità” Rettifica dei criteri \"A7\" e \"A8\". Scaduto Leggi di più",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Errata corrige criteri di selezione del bando SRG10 “Promozione dei Prodotti di Qualità” Rettifica dei criteri \"A7\" e \"A8\".. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -518,15 +471,15 @@
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-05-28",
-      "data_uscita": "2026-05-28",
+      "data_pubblicazione": "",
+      "data_uscita": "",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-05-28",
+      "rilevato_il": "2026-05-29",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "4d467fcbf499ba69aa5d3604daa9dc752c1353af"
+      "hash_contenuto": "2a1586868cecf01df6a4bb0b03a2c7bb13bf27ba"
     },
     {
       "id": "ue-funding-opportunities-eu4health",
@@ -570,7 +523,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-05-28",
+      "rilevato_il": "2026-05-29",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -618,7 +571,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-05-28",
+      "rilevato_il": "2026-05-29",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -666,7 +619,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-05-28",
+      "rilevato_il": "2026-05-29",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -823,7 +776,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-05-28",
+      "rilevato_il": "2026-05-29",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -871,7 +824,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-05-28",
+      "rilevato_il": "2026-05-29",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -919,7 +872,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-05-28",
+      "rilevato_il": "2026-05-29",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1094,7 +1047,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-05-28",
+      "rilevato_il": "2026-05-29",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1142,7 +1095,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-05-28",
+      "rilevato_il": "2026-05-29",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1190,7 +1143,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-05-28",
+      "rilevato_il": "2026-05-29",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1238,7 +1191,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-05-28",
+      "rilevato_il": "2026-05-29",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1387,7 +1340,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-05-28",
+      "rilevato_il": "2026-05-29",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1435,7 +1388,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-05-28",
+      "rilevato_il": "2026-05-29",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1700,6 +1653,100 @@
       "url_origine": "https://www.invitalia.it/cosa-facciamo/creiamo-nuove-aziende/smartstart-italia"
     },
     {
+      "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-successiva-p",
+      "nome": "ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi di manutenzione str",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi di manut",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi di manutenzione str. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-indagine-mercato-partecipazione-alla-successiva-procedura-negoziata-norma-art-50-comma-1-lettera-c-dlgs-n362023-ssmmii-finalizzata-all-0",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-06-19",
+      "data_uscita": "2026-06-19",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-05-29",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "79d051b29a3b729688aaf0592d9633908423b7c2"
+    },
+    {
+      "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-successiva-p",
+      "nome": "ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi manutenzione str.",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi manutenz",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi manutenzione str.. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-indagine-mercato-partecipazione-alla-successiva-procedura-negoziata-norma-art-50-comma-1-lettera-c-dlgs-n362023-ssmmii-finalizzata-all",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-06-19",
+      "data_uscita": "2026-06-19",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-05-29",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "b9545135951cfbc4d778528b0dd31cfa0430d9e2"
+    },
+    {
       "id": "sicilia-step-fesr-2026",
       "nome": "STEP Sicilia – Deep-tech, biotech e cleantech (PR FESR)",
       "programma": "Regione Siciliana – PR FESR 2021-2027",
@@ -1916,6 +1963,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }

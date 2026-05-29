@@ -1,12 +1,53 @@
 {
-  "generated_at": "2026-05-28T23:00:36.262Z",
+  "generated_at": "2026-05-29T11:58:51.548Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "8d1795e634d5a9e9a83ea4465042fa8316bd5460",
+  "catalog_hash": "9f8d917f2e50eda6520f6937cd2cd1d01acbe4fe",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 0
+    "nuovi": 2,
+    "aggiornati": 1
   },
-  "nuovi": [],
-  "aggiornati": [],
+  "nuovi": [
+    {
+      "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-successiva-p",
+      "nome": "ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi di manutenzione str",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-indagine-mercato-partecipazione-alla-successiva-procedura-negoziata-norma-art-50-comma-1-lettera-c-dlgs-n362023-ssmmii-finalizzata-all-0",
+      "data_pubblicazione": "2026-06-19",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "79d051b29a3b729688aaf0592d9633908423b7c2",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-successiva-p",
+      "nome": "ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi manutenzione str.",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-indagine-mercato-partecipazione-alla-successiva-procedura-negoziata-norma-art-50-comma-1-lettera-c-dlgs-n362023-ssmmii-finalizzata-all",
+      "data_pubblicazione": "2026-06-19",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "b9545135951cfbc4d778528b0dd31cfa0430d9e2",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
+  "aggiornati": [
+    {
+      "id": "regione-sicilia-bandi-errata-corrige-criteri-di-selezione-del-bando-srg10-promozione-dei-prodotti-di-q",
+      "nome": "Errata corrige criteri di selezione del bando SRG10 “Promozione dei Prodotti di Qualità” Rettifica dei criteri \"A7\" e \"A8\".",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-errata-corrige-criteri-selezione-bando-srg10",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "2a1586868cecf01df6a4bb0b03a2c7bb13bf27ba",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "errori_fonti": []
 }
