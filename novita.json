@@ -1,13 +1,26 @@
 {
-  "generated_at": "2026-05-31T13:06:34.734Z",
+  "generated_at": "2026-05-31T18:58:42.778Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "9f8d917f2e50eda6520f6937cd2cd1d01acbe4fe",
+  "catalog_hash": "02f11ad655ab117f55dd90d38e10bcf0a6b9fad3",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 1
+    "aggiornati": 2
   },
   "nuovi": [],
   "aggiornati": [
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-per-l-affidamento-in-concessione-temporanea-di-terreni-gestiti-d",
+      "nome": "avviso pubblico per l’affidamento in concessione temporanea di terreni gestiti dal dipartimento dello sviluppo rurale e territoriale per la decortica di sughereta anno 2026",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-l-affidamento-concessione-temporanea-terreni-gestiti-dipartimento-sviluppo-rurale-territoriale-decortica-sughereta-anno-2026",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "8f52d974431f21b01c25ad9449f93ecb47bad951",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
     {
       "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-successiva-p",
       "nome": "ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi di manutenzione str",

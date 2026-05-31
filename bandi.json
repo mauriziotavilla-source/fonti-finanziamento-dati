@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-05-29",
-  "versione": 3,
+  "ultimo_aggiornamento": "2026-05-31",
+  "versione": 4,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "9f8d917f2e50eda6520f6937cd2cd1d01acbe4fe",
-  "generated_at": "2026-05-31T13:06:34.734Z",
+  "catalog_hash": "02f11ad655ab117f55dd90d38e10bcf0a6b9fad3",
+  "generated_at": "2026-05-31T18:58:42.777Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -111,8 +111,8 @@
         "commercio",
         "turismo"
       ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici avviso pubblico per l’affidamento in concessione temporanea di terreni gestiti dal dipartimento dello sviluppo rurale e territoriale per la decortica di sughereta anno 2026 Scade il: 30/05/2026 - 00:00 Leggi di più",
+      "stato": "chiuso",
+      "descrizione_breve": "Avvisi pubblici avviso pubblico per l’affidamento in concessione temporanea di terreni gestiti dal dipartimento dello sviluppo rurale e territoriale per la decortica di sughereta anno 2026 Scaduto Leggi di più",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando avviso pubblico per l’affidamento in concessione temporanea di terreni gestiti dal dipartimento dello sviluppo rurale e territoriale per la decortica di sughereta anno 2026. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -138,15 +138,15 @@
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-05-30",
-      "data_uscita": "2026-05-30",
+      "data_pubblicazione": "",
+      "data_uscita": "",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-05-31",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "d4ee18a01f2f2dcc91b059a303aeccb505399c08"
+      "hash_contenuto": "8f52d974431f21b01c25ad9449f93ecb47bad951"
     },
     {
       "id": "credito-imposta-40",
@@ -1963,6 +1963,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
