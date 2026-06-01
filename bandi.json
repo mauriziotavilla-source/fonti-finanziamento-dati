@@ -1,12 +1,59 @@
 {
   "ultimo_aggiornamento": "2026-06-01",
-  "versione": 6,
+  "versione": 7,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "06c35834a120262fd159df139a63edb175574889",
-  "generated_at": "2026-06-01T17:10:11.471Z",
+  "catalog_hash": "97fe96c5a0df8687e28d9bd489bfbf05db9b216b",
+  "generated_at": "2026-06-01T21:19:19.270Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
+    {
+      "id": "regione-sicilia-bandi-25-maggio-2026-st-pa-avviso-di-indagine-di-mercato-comune-di-palermo-distretto-f",
+      "nome": "25 maggio 2026 - ST PA - AVVISO DI INDAGINE DI MERCATO - Comune di Palermo – Distretto forestale n. 1 - Località \"Piano Montagna\"",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici 25 maggio 2026 - ST PA - AVVISO DI INDAGINE DI MERCATO - Comune di Palermo – Distretto forestale n. 1 - Località \"Piano Montagna\" Scade il: 12/06/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando 25 maggio 2026 - ST PA - AVVISO DI INDAGINE DI MERCATO - Comune di Palermo – Distretto forestale n. 1 - Località \"Piano Montagna\". Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/25-maggio-2026-st-pa-avviso-indagine-mercato-comune-palermo-distretto-forestale-n-1-localita-piano-montagna",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-06-12",
+      "data_uscita": "2026-06-12",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-01",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "c3300ef21fd9fc54955f8ecf6e5513484bdbb060"
+    },
     {
       "id": "invitalia-incentivi-approfondisci",
       "nome": "Approfondisci",
@@ -53,6 +100,100 @@
         "bandi_nazionali"
       ],
       "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-a-sportello-per-il-finanziamento-del-r-d-l-da-destinare-alle-don",
+      "nome": "AVVISO PUBBLICO A SPORTELLO PER IL FINANZIAMENTO DEL R. D. L. DA DESTINARE ALLE DONNE VITTIME DI VIOLENZA",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO A SPORTELLO PER IL FINANZIAMENTO DEL R. D. L. DA DESTINARE ALLE DONNE VITTIME DI VIOLENZA Scade il: 31/07/2026 - 00:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO A SPORTELLO PER IL FINANZIAMENTO DEL R. D. L. DA DESTINARE ALLE DONNE VITTIME DI VIOLENZA. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-sportello-finanziamento-r-d-l-destinare-alle-donne-vittime-violenza",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-07-31",
+      "data_uscita": "2026-07-31",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-01",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "7c5d2326edc4f839713ed090f69bc9b1dd6d8e91"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-per-l-affidamento-in-concessione-temporanea-di-terreni-gestiti-d",
+      "nome": "avviso pubblico per l’affidamento in concessione temporanea di terreni gestiti dal dipartimento dello sviluppo rurale e territoriale per la decortica di sughereta anno 2026",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "chiuso",
+      "descrizione_breve": "Avvisi pubblici avviso pubblico per l’affidamento in concessione temporanea di terreni gestiti dal dipartimento dello sviluppo rurale e territoriale per la decortica di sughereta anno 2026 Scaduto Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando avviso pubblico per l’affidamento in concessione temporanea di terreni gestiti dal dipartimento dello sviluppo rurale e territoriale per la decortica di sughereta anno 2026. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-l-affidamento-concessione-temporanea-terreni-gestiti-dipartimento-sviluppo-rurale-territoriale-decortica-sughereta-anno-2026",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-01",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "8f52d974431f21b01c25ad9449f93ecb47bad951"
     },
     {
       "id": "credito-imposta-40",
@@ -103,6 +244,53 @@
       ],
       "fonte_scraper": "manual_seed",
       "url_origine": "https://www.mimit.gov.it/it/incentivi/credito-d-imposta-per-investimenti-in-beni-strumentali"
+    },
+    {
+      "id": "regione-sicilia-bandi-ddg-1112-del-02-04-2026-aggiornamento-avviso-pubblico-n-4-2024-per-l-attuazione-",
+      "nome": "DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR)",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR) Scade il: 30/06/2026 - 00:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR). Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/ddg-1112-02042026-aggiornamento-avviso-pubblico-n-42024-l-attuazione-par-gol-sicilia-finanziare-nell-ambito-piano-nazionale-ripresa-resilienza-pnrr",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-04-02",
+      "data_uscita": "2026-04-02",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-01",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "d90f6e5bfd9e9ecf5e93d36fe684fa57f80267fd"
     },
     {
       "id": "digital-europe-ai-cyber-sme",
@@ -292,6 +480,53 @@
       ],
       "fonte_scraper": "manual_seed",
       "url_origine": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en"
+    },
+    {
+      "id": "regione-sicilia-bandi-errata-corrige-criteri-di-selezione-del-bando-srg10-promozione-dei-prodotti-di-q",
+      "nome": "Errata corrige criteri di selezione del bando SRG10 “Promozione dei Prodotti di Qualità” Rettifica dei criteri \"A7\" e \"A8\".",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "chiuso",
+      "descrizione_breve": "Avvisi pubblici Errata corrige criteri di selezione del bando SRG10 “Promozione dei Prodotti di Qualità” Rettifica dei criteri \"A7\" e \"A8\". Scaduto Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Errata corrige criteri di selezione del bando SRG10 “Promozione dei Prodotti di Qualità” Rettifica dei criteri \"A7\" e \"A8\".. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-errata-corrige-criteri-selezione-bando-srg10",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-01",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "2a1586868cecf01df6a4bb0b03a2c7bb13bf27ba"
     },
     {
       "id": "ue-funding-opportunities-eu4health",
@@ -1465,6 +1700,100 @@
       "url_origine": "https://www.invitalia.it/cosa-facciamo/creiamo-nuove-aziende/smartstart-italia"
     },
     {
+      "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-successiva-p",
+      "nome": "ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi di manutenzione str",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi di manut",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi di manutenzione str. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-indagine-mercato-partecipazione-alla-successiva-procedura-negoziata-norma-art-50-comma-1-lettera-c-dlgs-n362023-ssmmii-finalizzata-all-0",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-06-19",
+      "data_uscita": "2026-06-19",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-01",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "79d051b29a3b729688aaf0592d9633908423b7c2"
+    },
+    {
+      "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-successiva-p",
+      "nome": "ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi manutenzione str.",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi manutenz",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi manutenzione str.. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-indagine-mercato-partecipazione-alla-successiva-procedura-negoziata-norma-art-50-comma-1-lettera-c-dlgs-n362023-ssmmii-finalizzata-all",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-06-19",
+      "data_uscita": "2026-06-19",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-01",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "b9545135951cfbc4d778528b0dd31cfa0430d9e2"
+    },
+    {
       "id": "sicilia-step-fesr-2026",
       "nome": "STEP Sicilia – Deep-tech, biotech e cleantech (PR FESR)",
       "programma": "Regione Siciliana – PR FESR 2021-2027",
@@ -1682,10 +2011,5 @@
     }
   ],
   "changed": true,
-  "source_errors": [
-    {
-      "source": "regione-sicilia-bandi",
-      "message": "fetch failed"
-    }
-  ]
+  "source_errors": []
 }
