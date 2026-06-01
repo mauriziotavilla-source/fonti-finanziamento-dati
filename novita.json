@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-01T02:11:12.431Z",
+  "generated_at": "2026-06-01T11:03:51.318Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "02f11ad655ab117f55dd90d38e10bcf0a6b9fad3",
+  "catalog_hash": "97fe96c5a0df8687e28d9bd489bfbf05db9b216b",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 1,
     "aggiornati": 1
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-a-sportello-per-il-finanziamento-del-r-d-l-da-destinare-alle-don",
+      "nome": "AVVISO PUBBLICO A SPORTELLO PER IL FINANZIAMENTO DEL R. D. L. DA DESTINARE ALLE DONNE VITTIME DI VIOLENZA",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-sportello-finanziamento-r-d-l-destinare-alle-donne-vittime-violenza",
+      "data_pubblicazione": "2026-07-31",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "7c5d2326edc4f839713ed090f69bc9b1dd6d8e91",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-successiva-p",
