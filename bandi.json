@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-06-01",
-  "versione": 7,
+  "ultimo_aggiornamento": "2026-06-03",
+  "versione": 8,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "97fe96c5a0df8687e28d9bd489bfbf05db9b216b",
-  "generated_at": "2026-06-03T02:29:24.552Z",
+  "catalog_hash": "b3a0781625ea144b8f5957b9f2ef859c0fd955d3",
+  "generated_at": "2026-06-03T10:28:32.619Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -149,18 +149,19 @@
       "hash_contenuto": "7c5d2326edc4f839713ed090f69bc9b1dd6d8e91"
     },
     {
-      "id": "regione-sicilia-bandi-avviso-pubblico-per-l-affidamento-in-concessione-temporanea-di-terreni-gestiti-d",
-      "nome": "avviso pubblico per l’affidamento in concessione temporanea di terreni gestiti dal dipartimento dello sviluppo rurale e territoriale per la decortica di sughereta anno 2026",
+      "id": "regione-sicilia-bandi-avviso-pubblico-per-la-concessione-di-contributi-a-valere-sul-fondo-di-solidarie",
+      "nome": "Avviso pubblico per la concessione di contributi a valere sul “Fondo di solidarietà regionale della pesca e dell’acquacoltura” di cui all’art. 39 della L.R. Sicilia 20 giugno 2019, n. 9 e ss.mm.ii e all’art. 1 della L.R. Sicilia 30 gennaio 2026, n. 3 “I",
       "programma": "Regione Siciliana",
       "livello": "regionale",
       "settori": [
         "artigianato",
         "commercio",
-        "turismo"
+        "turismo",
+        "tecnologia"
       ],
-      "stato": "chiuso",
-      "descrizione_breve": "Avvisi pubblici avviso pubblico per l’affidamento in concessione temporanea di terreni gestiti dal dipartimento dello sviluppo rurale e territoriale per la decortica di sughereta anno 2026 Scaduto Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando avviso pubblico per l’affidamento in concessione temporanea di terreni gestiti dal dipartimento dello sviluppo rurale e territoriale per la decortica di sughereta anno 2026. Territorio: Sicilia.",
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici Avviso pubblico per la concessione di contributi a valere sul “Fondo di solidarietà regionale della pesca e dell’acquacoltura” di cui all’art. 39 della L.R. Sicilia 20 giugno 2019, n. 9 e ss.mm.ii e all’art. 1 della L.R. Sicilia 30 gennaio 2026",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso pubblico per la concessione di contributi a valere sul “Fondo di solidarietà regionale della pesca e dell’acquacoltura” di cui all’art. 39 della L.R. Sicilia 20 giugno 2019, n. 9 e ss.mm.ii e all’art. 1 della L.R. Sicilia 30 gennaio 2026, n. 3 “I. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
       "beneficiari": [
@@ -179,21 +180,21 @@
         "Documenti richiesti dal portale"
       ],
       "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-l-affidamento-concessione-temporanea-terreni-gestiti-dipartimento-sviluppo-rurale-territoriale-decortica-sughereta-anno-2026",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-concessione-contributi-valere-fondo-solidarieta-regionale-pesca-acquacoltura",
       "checklist": [
         "Aprire il link ufficiale e verificare l'avviso completo",
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "",
-      "data_uscita": "",
+      "data_pubblicazione": "2026-06-30",
+      "data_uscita": "2026-06-30",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-06-03",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "8f52d974431f21b01c25ad9449f93ecb47bad951"
+      "hash_contenuto": "d00f3afe23fae51a860108576cd81cf922e638ec"
     },
     {
       "id": "credito-imposta-40",
@@ -2010,6 +2011,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
