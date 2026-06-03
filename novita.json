@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-06-03T10:28:32.620Z",
+  "generated_at": "2026-06-03T16:09:59.625Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "b3a0781625ea144b8f5957b9f2ef859c0fd955d3",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 1
   },
-  "nuovi": [
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-per-la-concessione-di-contributi-a-valere-sul-fondo-di-solidarie",
-      "nome": "Avviso pubblico per la concessione di contributi a valere sul “Fondo di solidarietà regionale della pesca e dell’acquacoltura” di cui all’art. 39 della L.R. Sicilia 20 giugno 2019, n. 9 e ss.mm.ii e all’art. 1 della L.R. Sicilia 30 gennaio 2026, n. 3 “I",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-concessione-contributi-valere-fondo-solidarieta-regionale-pesca-acquacoltura",
-      "data_pubblicazione": "2026-06-30",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "d00f3afe23fae51a860108576cd81cf922e638ec",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-successiva-p",
