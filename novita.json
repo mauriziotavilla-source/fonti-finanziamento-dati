@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-06-04T09:38:56.937Z",
+  "generated_at": "2026-06-04T14:27:24.590Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "bcd09d13548c558482ba21504b11eb3f881cc394",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 1
   },
-  "nuovi": [
-    {
-      "id": "regione-sicilia-bandi-bando-avviso-obiettivo-2-2-azione-4-cod-inter-222402-26",
-      "nome": "BANDO/AVVISO Obiettivo 2.2 – Azione 4 – Cod. inter. 222402/26",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bandoavviso-obiettivo-22-azione-4-cod-inter-22240226",
-      "data_pubblicazione": "2026-06-14",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "928b84b210f4701a1f8e0ddaca9c205338aff38e",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-successiva-p",
