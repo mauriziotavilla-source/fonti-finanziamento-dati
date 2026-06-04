@@ -2,8 +2,36 @@ const path = require('path');
 const admin = require('firebase-admin');
 const { readJson } = require('./lib/io');
 
+const fs = require('fs');
 const ROOT = path.join(__dirname, '..', '..');
-const NOVITA_FILE = path.join(ROOT, 'data', 'novita.json');
+
+/** Stesso percorso di run.js: repo dati ha bandi.json/novita.json in root, app ha data/*. */
+function resolveNovitaFile() {
+  const bandiCandidates = [
+    path.join(ROOT, 'data', 'bandi.json'),
+    path.join(ROOT, 'bandi.json'),
+  ];
+  let bandiFile = bandiCandidates[0];
+  for (const candidate of bandiCandidates) {
+    if (fs.existsSync(candidate)) {
+      bandiFile = candidate;
+      break;
+    }
+  }
+  if (path.dirname(bandiFile) === ROOT) {
+    return path.join(ROOT, 'novita.json');
+  }
+  const novitaCandidates = [
+    path.join(ROOT, 'data', 'novita.json'),
+    path.join(ROOT, 'novita.json'),
+  ];
+  for (const candidate of novitaCandidates) {
+    if (fs.existsSync(candidate)) return candidate;
+  }
+  return novitaCandidates[0];
+}
+
+const NOVITA_FILE = resolveNovitaFile();
 
 function loadServiceAccount() {
   const raw = process.env.FIREBASE_SERVICE_ACCOUNT_JSON || '';
@@ -72,6 +100,11 @@ async function main() {
 
   const testMode = isTestMode();
   const novita = testMode ? buildTestNovita(getTestTopic()) : readJson(NOVITA_FILE, null);
+
+  if (!testMode) {
+    console.log(`Lettura novità da: ${NOVITA_FILE}`);
+    console.log(`Nuovi bandi in novita.json: ${novita?.nuovi?.length ?? 0}`);
+  }
 
   if (testMode) {
     console.log(`Modalità test: invio push di prova al topic "${getTestTopic()}"`);

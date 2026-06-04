@@ -1,0 +1,28 @@
+name: Reinvia push da novita.json
+
+on:
+  workflow_dispatch:
+
+jobs:
+  resend-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: scripts/package-lock.json
+
+      - name: Install scraper dependencies
+        working-directory: scripts
+        run: npm ci
+
+      - name: Send push from novita.json
+        working-directory: scripts
+        env:
+          FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+        run: npm run scraper:push
