@@ -1,26 +1,17 @@
 {
-  "generated_at": "2026-06-08T02:12:15.618Z",
+  "generated_at": "2026-06-08T10:11:28.323Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "b3a0781625ea144b8f5957b9f2ef859c0fd955d3",
+  "catalog_hash": "06c35834a120262fd159df139a63edb175574889",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 1
+    "aggiornati": 0
   },
   "nuovi": [],
-  "aggiornati": [
+  "aggiornati": [],
+  "errori_fonti": [
     {
-      "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-successiva-p",
-      "nome": "ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi di manutenzione str",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-indagine-mercato-partecipazione-alla-successiva-procedura-negoziata-norma-art-50-comma-1-lettera-c-dlgs-n362023-ssmmii-finalizzata-all-0",
-      "data_pubblicazione": "2026-06-19",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "79d051b29a3b729688aaf0592d9633908423b7c2",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
+      "source": "regione-sicilia-bandi",
+      "message": "fetch failed"
     }
-  ],
-  "errori_fonti": []
+  ]
 }
