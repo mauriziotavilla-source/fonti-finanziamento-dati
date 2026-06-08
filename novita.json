@@ -1,104 +1,17 @@
 {
-  "generated_at": "2026-06-08T15:21:03.206Z",
+  "generated_at": "2026-06-08T19:57:00.688Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "bda075661e2e1c419b44256c4515f735727b83c9",
+  "catalog_hash": "06c35834a120262fd159df139a63edb175574889",
   "counts": {
-    "nuovi": 7,
+    "nuovi": 0,
     "aggiornati": 0
   },
-  "nuovi": [
-    {
-      "id": "regione-sicilia-bandi-08-giugno-2026-st-catania-avviso-pubblico-per-l-affidamento-in-concessione-per-l",
-      "nome": "08 giugno 2026 - ST CATANIA - Avviso pubblico per l’ affidamento in concessione per l’anno 2026 di aree del demanio forestale del Dipartimento Regionale dello Sviluppo Rurale e Territoriale per la decortica di sughereta.",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/08-giugno-2026-st-catania-avviso-pubblico-l-affidamento-concessione-l-anno-2026-aree-demanio-forestale-dipartimento-regionale-sviluppo-rurale-territoriale",
-      "data_pubblicazione": "2026-08-08",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "294f398f52551306bfa3f3b48e6165de5ca16a3c",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-ob-2-2-azione-4-codice-222402-26-si-2-2026-selezione-progetti-se",
-      "nome": "AVVISO PUBBLICO - Ob. 2.2 Azione 4 codice 222402-26-SI (2-2026) - Selezione progetti sensibilizzazione del pubblico sul consumo di prodotti siciliani attraverso programmi educazione riservati alle scuole e Istituti",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-ob-22-azione-4-codice-222402-26-si-2-2026-selezione-progetti-sensibilizzazione-pubblico-consumo-prodotti-siciliani-attraverso-programmi",
-      "data_pubblicazione": "2026-07-23",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "3c8c92e96b4cc2c79d4bb49498a2003c6d0b81fb",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-a-sportello-per-il-finanziamento-del-r-d-l-da-destinare-alle-don",
-      "nome": "AVVISO PUBBLICO A SPORTELLO PER IL FINANZIAMENTO DEL R. D. L. DA DESTINARE ALLE DONNE VITTIME DI VIOLENZA",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-sportello-finanziamento-r-d-l-destinare-alle-donne-vittime-violenza",
-      "data_pubblicazione": "2026-07-31",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "7c5d2326edc4f839713ed090f69bc9b1dd6d8e91",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-per-la-concessione-di-contributi-a-valere-sul-fondo-di-solidarie",
-      "nome": "Avviso pubblico per la concessione di contributi a valere sul “Fondo di solidarietà regionale della pesca e dell’acquacoltura” di cui all’art. 39 della L.R. Sicilia 20 giugno 2019, n. 9 e ss.mm.ii e all’art. 1 della L.R. Sicilia 30 gennaio 2026, n. 3 “I",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-concessione-contributi-valere-fondo-solidarieta-regionale-pesca-acquacoltura",
-      "data_pubblicazione": "2026-06-30",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "d00f3afe23fae51a860108576cd81cf922e638ec",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-ddg-1112-del-02-04-2026-aggiornamento-avviso-pubblico-n-4-2024-per-l-attuazione-",
-      "nome": "DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR)",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/ddg-1112-02042026-aggiornamento-avviso-pubblico-n-42024-l-attuazione-par-gol-sicilia-finanziare-nell-ambito-piano-nazionale-ripresa-resilienza-pnrr",
-      "data_pubblicazione": "2026-04-02",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "d90f6e5bfd9e9ecf5e93d36fe684fa57f80267fd",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-successiva-p",
-      "nome": "ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi di manutenzione str",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-indagine-mercato-partecipazione-alla-successiva-procedura-negoziata-norma-art-50-comma-1-lettera-c-dlgs-n362023-ssmmii-finalizzata-all-0",
-      "data_pubblicazione": "2026-06-19",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "79d051b29a3b729688aaf0592d9633908423b7c2",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-successiva-p",
-      "nome": "ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi manutenzione str.",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-indagine-mercato-partecipazione-alla-successiva-procedura-negoziata-norma-art-50-comma-1-lettera-c-dlgs-n362023-ssmmii-finalizzata-all",
-      "data_pubblicazione": "2026-06-19",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "b9545135951cfbc4d778528b0dd31cfa0430d9e2",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "regione-sicilia-bandi",
+      "message": "fetch failed"
+    }
+  ]
 }
