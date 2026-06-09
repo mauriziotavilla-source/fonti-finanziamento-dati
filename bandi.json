@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-06-09",
-  "versione": 19,
+  "versione": 20,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "bda075661e2e1c419b44256c4515f735727b83c9",
-  "generated_at": "2026-06-09T08:54:31.814Z",
+  "catalog_hash": "080cc4d97aa9dae25ffce97de53af75103f66f85",
+  "generated_at": "2026-06-09T14:14:22.196Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -100,6 +100,53 @@
         "bandi_nazionali"
       ],
       "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74"
+    },
+    {
+      "id": "regione-sicilia-bandi-approvazione-avviso-fpg-anno-2026",
+      "nome": "Approvazione Avviso FPG anno 2026",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici Approvazione Avviso FPG anno 2026 Scade il: 08/07/2026 - 14:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Approvazione Avviso FPG anno 2026. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/approvazione-avviso-fpg-anno-2026",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-07-08",
+      "data_uscita": "2026-07-08",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-09",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "7e165d9a31e644eb27b6fe8cb7ead24cc5082412"
     },
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-ob-2-2-azione-4-codice-222402-26-si-2-2026-selezione-progetti-se",
@@ -1746,53 +1793,6 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "79d051b29a3b729688aaf0592d9633908423b7c2"
-    },
-    {
-      "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-successiva-p",
-      "nome": "ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi manutenzione str.",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi manutenz",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi manutenzione str.. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-indagine-mercato-partecipazione-alla-successiva-procedura-negoziata-norma-art-50-comma-1-lettera-c-dlgs-n362023-ssmmii-finalizzata-all",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-06-19",
-      "data_uscita": "2026-06-19",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-09",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "b9545135951cfbc4d778528b0dd31cfa0430d9e2"
     },
     {
       "id": "sicilia-step-fesr-2026",
