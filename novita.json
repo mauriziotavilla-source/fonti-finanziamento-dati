@@ -1,40 +1,17 @@
 {
-  "generated_at": "2026-06-09T14:14:22.197Z",
+  "generated_at": "2026-06-09T19:52:43.307Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "080cc4d97aa9dae25ffce97de53af75103f66f85",
+  "catalog_hash": "06c35834a120262fd159df139a63edb175574889",
   "counts": {
-    "nuovi": 1,
-    "aggiornati": 1
+    "nuovi": 0,
+    "aggiornati": 0
   },
-  "nuovi": [
+  "nuovi": [],
+  "aggiornati": [],
+  "errori_fonti": [
     {
-      "id": "regione-sicilia-bandi-approvazione-avviso-fpg-anno-2026",
-      "nome": "Approvazione Avviso FPG anno 2026",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/approvazione-avviso-fpg-anno-2026",
-      "data_pubblicazione": "2026-07-08",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "7e165d9a31e644eb27b6fe8cb7ead24cc5082412",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
+      "source": "regione-sicilia-bandi",
+      "message": "fetch failed"
     }
-  ],
-  "aggiornati": [
-    {
-      "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-successiva-p",
-      "nome": "ST MESSINA - AVVISO DI INDAGINE DI MERCATO per la partecipazione alla successiva procedura negoziata a norma dell'art. 50, comma 1, lettera c) D.Lgs. n.36/2023 e ss.mm.ii. finalizzata all'affidamento dell'appalto dei lavori \"Interventi di manutenzione str",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-indagine-mercato-partecipazione-alla-successiva-procedura-negoziata-norma-art-50-comma-1-lettera-c-dlgs-n362023-ssmmii-finalizzata-all-0",
-      "data_pubblicazione": "2026-06-19",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "79d051b29a3b729688aaf0592d9633908423b7c2",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
-  "errori_fonti": []
+  ]
 }
