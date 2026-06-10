@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-06-10",
-  "versione": 24,
+  "versione": 25,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "612c6c3eb22ead1a5c19e25b1f4dfa5e784f01ad",
-  "generated_at": "2026-06-10T14:45:29.305Z",
+  "catalog_hash": "80593073e797580dd24d6df47466ed6f4e67fa57",
+  "generated_at": "2026-06-10T20:04:19.163Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -196,8 +196,8 @@
       "hash_contenuto": "3c8c92e96b4cc2c79d4bb49498a2003c6d0b81fb"
     },
     {
-      "id": "regione-sicilia-bandi-avviso-pubblico-per-la-concessione-di-contributi-a-valere-sul-fondo-di-solidarie",
-      "nome": "Avviso pubblico per la concessione di contributi a valere sul “Fondo di solidarietà regionale della pesca e dell’acquacoltura” di cui all’art. 39 della L.R. Sicilia 20 giugno 2019, n. 9 e ss.mm.ii e all’art. 1 della L.R. Sicilia 30 gennaio 2026, n. 3 “I",
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-selezione-interna-per-il-conferimento-di-n-3-posizioni-organi",
+      "nome": "Avviso pubblico di selezione interna per il conferimento di n. 3 posizioni organizzative presso il Dipartimento della pesca mediterranea, ai sensi degli artt. 19 e 20 del CCRL 2022-2024 del comparto non dirigenziale.",
       "programma": "Regione Siciliana",
       "livello": "regionale",
       "settori": [
@@ -207,8 +207,8 @@
         "tecnologia"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici Avviso pubblico per la concessione di contributi a valere sul “Fondo di solidarietà regionale della pesca e dell’acquacoltura” di cui all’art. 39 della L.R. Sicilia 20 giugno 2019, n. 9 e ss.mm.ii e all’art. 1 della L.R. Sicilia 30 gennaio 2026",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso pubblico per la concessione di contributi a valere sul “Fondo di solidarietà regionale della pesca e dell’acquacoltura” di cui all’art. 39 della L.R. Sicilia 20 giugno 2019, n. 9 e ss.mm.ii e all’art. 1 della L.R. Sicilia 30 gennaio 2026, n. 3 “I. Territorio: Sicilia.",
+      "descrizione_breve": "Avvisi pubblici Avviso pubblico di selezione interna per il conferimento di n. 3 posizioni organizzative presso il Dipartimento della pesca mediterranea, ai sensi degli artt. 19 e 20 del CCRL 2022-2024 del comparto non dirigenziale. Scade il: 12/06/2026 - 23:5",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso pubblico di selezione interna per il conferimento di n. 3 posizioni organizzative presso il Dipartimento della pesca mediterranea, ai sensi degli artt. 19 e 20 del CCRL 2022-2024 del comparto non dirigenziale.. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
       "beneficiari": [
@@ -227,21 +227,21 @@
         "Documenti richiesti dal portale"
       ],
       "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-concessione-contributi-valere-fondo-solidarieta-regionale-pesca-acquacoltura",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-selezione-interna-conferimento-n-3-posizioni-organizzative",
       "checklist": [
         "Aprire il link ufficiale e verificare l'avviso completo",
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-06-30",
-      "data_uscita": "2026-06-30",
+      "data_pubblicazione": "2026-06-12",
+      "data_uscita": "2026-06-12",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-06-10",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "d00f3afe23fae51a860108576cd81cf922e638ec"
+      "hash_contenuto": "9034669c0880de1eca20dfb541b5808710461c3a"
     },
     {
       "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
