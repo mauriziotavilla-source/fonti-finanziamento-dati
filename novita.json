@@ -1,17 +1,104 @@
 {
-  "generated_at": "2026-06-11T09:59:17.295Z",
+  "generated_at": "2026-06-11T15:27:21.122Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "06c35834a120262fd159df139a63edb175574889",
+  "catalog_hash": "e1c7a904c319de93240717bb2dc6f3d5b3bcda7c",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 7,
     "aggiornati": 0
   },
-  "nuovi": [],
-  "aggiornati": [],
-  "errori_fonti": [
+  "nuovi": [
     {
-      "source": "regione-sicilia-bandi",
-      "message": "fetch failed"
+      "id": "regione-sicilia-bandi-08-giugno-2026-st-catania-avviso-pubblico-per-l-affidamento-in-concessione-per-l",
+      "nome": "08 giugno 2026 - ST CATANIA - Avviso pubblico per l’ affidamento in concessione per l’anno 2026 di aree del demanio forestale del Dipartimento Regionale dello Sviluppo Rurale e Territoriale per la decortica di sughereta.",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/08-giugno-2026-st-catania-avviso-pubblico-l-affidamento-concessione-l-anno-2026-aree-demanio-forestale-dipartimento-regionale-sviluppo-rurale-territoriale",
+      "data_pubblicazione": "2026-08-08",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "294f398f52551306bfa3f3b48e6165de5ca16a3c",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-approvazione-avviso-fpg-anno-2026",
+      "nome": "Approvazione Avviso FPG anno 2026",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/approvazione-avviso-fpg-anno-2026",
+      "data_pubblicazione": "2026-07-09",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "c67f947c23c34eb52f3911b08e2530170adae6a4",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-ob-2-2-azione-4-codice-222402-26-si-2-2026-selezione-progetti-se",
+      "nome": "AVVISO PUBBLICO - Ob. 2.2 Azione 4 codice 222402-26-SI (2-2026) - Selezione progetti sensibilizzazione del pubblico sul consumo di prodotti siciliani attraverso programmi educazione riservati alle scuole e Istituti",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-ob-22-azione-4-codice-222402-26-si-2-2026-selezione-progetti-sensibilizzazione-pubblico-consumo-prodotti-siciliani-attraverso-programmi",
+      "data_pubblicazione": "2026-07-23",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "3c8c92e96b4cc2c79d4bb49498a2003c6d0b81fb",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-selezione-interna-per-il-conferimento-di-n-3-posizioni-organi",
+      "nome": "Avviso pubblico di selezione interna per il conferimento di n. 3 posizioni organizzative presso il Dipartimento della pesca mediterranea, ai sensi degli artt. 19 e 20 del CCRL 2022-2024 del comparto non dirigenziale.",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-selezione-interna-conferimento-n-3-posizioni-organizzative",
+      "data_pubblicazione": "2026-06-12",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "9034669c0880de1eca20dfb541b5808710461c3a",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
+      "nome": "BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bandoavviso-regia-ob-21-az-5-cod-221502acq-imprese-acquicole-investimenti-produttivi-imprese-acquacoltura-avanzati-sotto-profilo-sostenibilita-ambientale-0",
+      "data_pubblicazione": "2026-09-07",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "df23d89a14e3774d4ac08a4a25530f27f2f79104",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-div-imprese-acquicole-diversificazio",
+      "nome": "BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_DIV - Imprese acquicole: diversificazione del reddito tramite sviluppo di attività complementari.",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bandoavviso-regia-ob-21-az-5-cod-221502div-imprese-acquicole-diversificazione-reddito-tramite-sviluppo-attivita-complementari",
+      "data_pubblicazione": "2026-08-08",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "b1c50ec824eca2ddb62e31b7d368220fbfd68a92",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-ddg-1112-del-02-04-2026-aggiornamento-avviso-pubblico-n-4-2024-per-l-attuazione-",
+      "nome": "DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR)",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/ddg-1112-02042026-aggiornamento-avviso-pubblico-n-42024-l-attuazione-par-gol-sicilia-finanziare-nell-ambito-piano-nazionale-ripresa-resilienza-pnrr",
+      "data_pubblicazione": "2026-04-02",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "d90f6e5bfd9e9ecf5e93d36fe684fa57f80267fd",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
     }
-  ]
+  ],
+  "aggiornati": [],
+  "errori_fonti": []
 }
