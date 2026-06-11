@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-06-10T20:04:19.164Z",
+  "generated_at": "2026-06-11T02:12:03.125Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "80593073e797580dd24d6df47466ed6f4e67fa57",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 0
   },
-  "nuovi": [
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-selezione-interna-per-il-conferimento-di-n-3-posizioni-organi",
-      "nome": "Avviso pubblico di selezione interna per il conferimento di n. 3 posizioni organizzative presso il Dipartimento della pesca mediterranea, ai sensi degli artt. 19 e 20 del CCRL 2022-2024 del comparto non dirigenziale.",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-selezione-interna-conferimento-n-3-posizioni-organizzative",
-      "data_pubblicazione": "2026-06-12",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "9034669c0880de1eca20dfb541b5808710461c3a",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [],
   "errori_fonti": []
 }
