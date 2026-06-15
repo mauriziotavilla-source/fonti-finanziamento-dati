@@ -1,21 +1,174 @@
 {
-  "generated_at": "2026-06-15T11:38:56.331Z",
+  "generated_at": "2026-06-15T16:49:10.024Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "8be9453f9dfc3a7c164ef36a058e4b91040c532c",
+  "catalog_hash": "06c35834a120262fd159df139a63edb175574889",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 12,
     "aggiornati": 0
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "ue-funding-opportunities-eu4health",
+      "nome": "EU4Health",
+      "livello": "europeo",
+      "programma": "UE Funding Opportunities",
+      "link_ufficiale": "https://hadea.ec.europa.eu/programmes/eu4health_en",
+      "data_pubblicazione": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "hash_contenuto": "d384b6362e769c5992b949ba4779a264fed9ca69",
+      "notifica_topics": [
+        "bandi_europei"
+      ]
+    },
+    {
+      "id": "ue-funding-opportunities-european-regional-development-fund",
+      "nome": "European Regional Development Fund",
+      "livello": "europeo",
+      "programma": "UE Funding Opportunities",
+      "link_ufficiale": "https://ec.europa.eu/regional_policy/funding/erdf_en",
+      "data_pubblicazione": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "hash_contenuto": "03042e91a51d9f3752f5702f76beb213fabfd34c",
+      "notifica_topics": [
+        "bandi_europei"
+      ]
+    },
+    {
+      "id": "ue-funding-opportunities-european-structural-and-investment-funds-esif",
+      "nome": "European structural and investment funds (ESIF)",
+      "livello": "europeo",
+      "programma": "UE Funding Opportunities",
+      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/funding-opportunities/funding-programmes/overview-funding-programmes/european-structural-and-investment-funds_en",
+      "data_pubblicazione": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "hash_contenuto": "7e72f8774efdf16728d89e099e870d089c7ab890",
+      "notifica_topics": [
+        "bandi_europei"
+      ]
+    },
+    {
+      "id": "ue-funding-opportunities-hadea-call-management",
+      "nome": "HaDEA call management",
+      "livello": "europeo",
+      "programma": "UE Funding Opportunities",
+      "link_ufficiale": "https://hadea.ec.europa.eu/programmes/eu4health/call-management_en",
+      "data_pubblicazione": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "hash_contenuto": "60e013354ba9b18a63823c852ab1a8064fca98ce",
+      "notifica_topics": [
+        "bandi_europei"
+      ]
+    },
+    {
+      "id": "ue-funding-opportunities-horizon-2020",
+      "nome": "Horizon 2020",
+      "livello": "europeo",
+      "programma": "UE Funding Opportunities",
+      "link_ufficiale": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en",
+      "data_pubblicazione": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "hash_contenuto": "d809eeaed6c46777161792b4fba6e3984822044a",
+      "notifica_topics": [
+        "bandi_europei"
+      ]
+    },
+    {
+      "id": "ue-funding-opportunities-horizon-europe",
+      "nome": "Horizon Europe",
+      "livello": "europeo",
+      "programma": "UE Funding Opportunities",
+      "link_ufficiale": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en",
+      "data_pubblicazione": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "hash_contenuto": "040f462d08dfff36030edfafc4f944f470541baf",
+      "notifica_topics": [
+        "bandi_europei"
+      ]
+    },
+    {
+      "id": "ue-funding-opportunities-life-calls-for-proposals-2025",
+      "nome": "LIFE Calls for proposals 2025",
+      "livello": "europeo",
+      "programma": "UE Funding Opportunities",
+      "link_ufficiale": "https://cinea.ec.europa.eu/life-calls-proposals-2025_en",
+      "data_pubblicazione": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "hash_contenuto": "d42827f833ed0590a401baa6f0b39bbd9b53400e",
+      "notifica_topics": [
+        "bandi_europei"
+      ]
+    },
+    {
+      "id": "ue-funding-opportunities-life-programme-2021-2027",
+      "nome": "LIFE programme 2021-2027",
+      "livello": "europeo",
+      "programma": "UE Funding Opportunities",
+      "link_ufficiale": "https://climate.ec.europa.eu/eu-action/funding-climate-action/life-climate-change-mitigation-and-adaptation_en",
+      "data_pubblicazione": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "hash_contenuto": "e19aff73c09d1102261fb5fa7867ae0c657f20a7",
+      "notifica_topics": [
+        "bandi_europei"
+      ]
+    },
+    {
+      "id": "ue-funding-opportunities-open-and-upcoming-calls-for-horizon-europe",
+      "nome": "Open and upcoming calls for Horizon Europe",
+      "livello": "europeo",
+      "programma": "UE Funding Opportunities",
+      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search;callCode=null;freeTextSearchKeyword=;matchWholeText=true;typeCodes=1;statusCodes=31094501,31094502,31094503;programmePeriod=2021%20-%202027;programCcm2Id=43108390;programDivisionCode=null;focusAreaCode=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState",
+      "data_pubblicazione": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "hash_contenuto": "a3560c765eb7772a365acb3806b0347a655c6fe9",
+      "notifica_topics": [
+        "bandi_europei"
+      ]
+    },
+    {
+      "id": "ue-funding-opportunities-open-and-upcoming-calls-for-rfcs",
+      "nome": "Open and upcoming calls for RFCS",
+      "livello": "europeo",
+      "programma": "UE Funding Opportunities",
+      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search;freeTextSearchKeyword=;typeCodes=1;statusCodes=31094501,31094502;programCode=RFCS;programDivisionCode=null;focusAreaCode=null;crossCuttingPriorityCode=null;callCode=Default;sortQuery=openingDate;orderBy=asc;onlyTenders=false",
+      "data_pubblicazione": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "hash_contenuto": "c2380f6bf5276e94361dd3696cb84445ddc41632",
+      "notifica_topics": [
+        "bandi_europei"
+      ]
+    },
+    {
+      "id": "ue-funding-opportunities-research-and-innovation-funding-2007-2013",
+      "nome": "Research and Innovation funding 2007 - 2013",
+      "livello": "europeo",
+      "programma": "UE Funding Opportunities",
+      "link_ufficiale": "https://wayback.archive-it.org/12090/20191127213419/https:/ec.europa.eu/research/fp7/index_en.cfm",
+      "data_pubblicazione": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "hash_contenuto": "780436cd14d4958bb63437bd71ac51ce06f23738",
+      "notifica_topics": [
+        "bandi_europei"
+      ]
+    },
+    {
+      "id": "ue-funding-opportunities-research-fund-for-coal-and-steel",
+      "nome": "Research Fund for Coal and Steel",
+      "livello": "europeo",
+      "programma": "UE Funding Opportunities",
+      "link_ufficiale": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/research-fund-coal-and-steel-rfcs_en",
+      "data_pubblicazione": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "hash_contenuto": "739dbdaf06c56b96f37634ec0126a8e83422142e",
+      "notifica_topics": [
+        "bandi_europei"
+      ]
+    }
+  ],
   "aggiornati": [],
   "errori_fonti": [
     {
       "source": "regione-sicilia-bandi",
       "message": "fetch failed"
-    },
-    {
-      "source": "ue-funding-opportunities",
-      "message": "HTTP 403"
     }
   ]
 }
