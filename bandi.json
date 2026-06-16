@@ -1,12 +1,59 @@
 {
   "ultimo_aggiornamento": "2026-06-16",
-  "versione": 37,
+  "versione": 38,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "8be9453f9dfc3a7c164ef36a058e4b91040c532c",
-  "generated_at": "2026-06-16T02:30:37.002Z",
+  "catalog_hash": "930e75e01948f3f015e07083d4486c0672218eae",
+  "generated_at": "2026-06-16T10:48:57.327Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
+    {
+      "id": "regione-sicilia-bandi-08-giugno-2026-st-catania-avviso-pubblico-per-l-affidamento-in-concessione-per-l",
+      "nome": "08 giugno 2026 - ST CATANIA - Avviso pubblico per l’ affidamento in concessione per l’anno 2026 di aree del demanio forestale del Dipartimento Regionale dello Sviluppo Rurale e Territoriale per la decortica di sughereta.",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici 08 giugno 2026 - ST CATANIA - Avviso pubblico per l’ affidamento in concessione per l’anno 2026 di aree del demanio forestale del Dipartimento Regionale dello Sviluppo Rurale e Territoriale per la decortica di sughereta. Scade il: 08/08/2026 - ",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando 08 giugno 2026 - ST CATANIA - Avviso pubblico per l’ affidamento in concessione per l’anno 2026 di aree del demanio forestale del Dipartimento Regionale dello Sviluppo Rurale e Territoriale per la decortica di sughereta.. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/08-giugno-2026-st-catania-avviso-pubblico-l-affidamento-concessione-l-anno-2026-aree-demanio-forestale-dipartimento-regionale-sviluppo-rurale-territoriale",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-08-08",
+      "data_uscita": "2026-08-08",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "294f398f52551306bfa3f3b48e6165de5ca16a3c"
+    },
     {
       "id": "invitalia-incentivi-approfondisci",
       "nome": "Approfondisci",
@@ -53,6 +100,243 @@
         "bandi_nazionali"
       ],
       "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74"
+    },
+    {
+      "id": "regione-sicilia-bandi-approvazione-avviso-fpg-anno-2026",
+      "nome": "Approvazione Avviso FPG anno 2026",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici Approvazione Avviso FPG anno 2026 Scade il: 09/07/2026 - 14:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Approvazione Avviso FPG anno 2026. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/approvazione-avviso-fpg-anno-2026",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-07-09",
+      "data_uscita": "2026-07-09",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "c67f947c23c34eb52f3911b08e2530170adae6a4"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-ob-2-2-azione-4-codice-222402-26-si-2-2026-selezione-progetti-se",
+      "nome": "AVVISO PUBBLICO - Ob. 2.2 Azione 4 codice 222402-26-SI (2-2026) - Selezione progetti sensibilizzazione del pubblico sul consumo di prodotti siciliani attraverso programmi educazione riservati alle scuole e Istituti",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO - Ob. 2.2 Azione 4 codice 222402-26-SI (2-2026) - Selezione progetti sensibilizzazione del pubblico sul consumo di prodotti siciliani attraverso programmi educazione riservati alle scuole e Istituti Scade il: 23/07/2026 - 23:59 ",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO - Ob. 2.2 Azione 4 codice 222402-26-SI (2-2026) - Selezione progetti sensibilizzazione del pubblico sul consumo di prodotti siciliani attraverso programmi educazione riservati alle scuole e Istituti. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-ob-22-azione-4-codice-222402-26-si-2-2026-selezione-progetti-sensibilizzazione-pubblico-consumo-prodotti-siciliani-attraverso-programmi",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-07-23",
+      "data_uscita": "2026-07-23",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "3c8c92e96b4cc2c79d4bb49498a2003c6d0b81fb"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-selezione-interna-per-il-conferimento-di-n-3-posizioni-organi",
+      "nome": "Avviso pubblico di selezione interna per il conferimento di n. 3 posizioni organizzative presso il Dipartimento della pesca mediterranea, ai sensi degli artt. 19 e 20 del CCRL 2022-2024 del comparto non dirigenziale.",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo",
+        "tecnologia"
+      ],
+      "stato": "chiuso",
+      "descrizione_breve": "Avvisi pubblici Avviso pubblico di selezione interna per il conferimento di n. 3 posizioni organizzative presso il Dipartimento della pesca mediterranea, ai sensi degli artt. 19 e 20 del CCRL 2022-2024 del comparto non dirigenziale. Scaduto Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso pubblico di selezione interna per il conferimento di n. 3 posizioni organizzative presso il Dipartimento della pesca mediterranea, ai sensi degli artt. 19 e 20 del CCRL 2022-2024 del comparto non dirigenziale.. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-selezione-interna-conferimento-n-3-posizioni-organizzative",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "38a3d9259baacd0d7412b3dbd12324b9491cf860"
+    },
+    {
+      "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
+      "nome": "BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Bandi di gara BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione Scade il: 07/09/2026 - 23:59 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bandoavviso-regia-ob-21-az-5-cod-221502acq-imprese-acquicole-investimenti-produttivi-imprese-acquacoltura-avanzati-sotto-profilo-sostenibilita-ambientale-0",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-09-07",
+      "data_uscita": "2026-09-07",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "df23d89a14e3774d4ac08a4a25530f27f2f79104"
+    },
+    {
+      "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-div-imprese-acquicole-diversificazio",
+      "nome": "BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_DIV - Imprese acquicole: diversificazione del reddito tramite sviluppo di attività complementari.",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Bandi di gara BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_DIV - Imprese acquicole: diversificazione del reddito tramite sviluppo di attività complementari. Scade il: 08/08/2026 - 23:59 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_DIV - Imprese acquicole: diversificazione del reddito tramite sviluppo di attività complementari.. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bandoavviso-regia-ob-21-az-5-cod-221502div-imprese-acquicole-diversificazione-reddito-tramite-sviluppo-attivita-complementari",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-08-08",
+      "data_uscita": "2026-08-08",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "b1c50ec824eca2ddb62e31b7d368220fbfd68a92"
     },
     {
       "id": "credito-imposta-40",
@@ -103,6 +387,53 @@
       ],
       "fonte_scraper": "manual_seed",
       "url_origine": "https://www.mimit.gov.it/it/incentivi/credito-d-imposta-per-investimenti-in-beni-strumentali"
+    },
+    {
+      "id": "regione-sicilia-bandi-ddg-1112-del-02-04-2026-aggiornamento-avviso-pubblico-n-4-2024-per-l-attuazione-",
+      "nome": "DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR)",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR) Scade il: 30/06/2026 - 00:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR). Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/ddg-1112-02042026-aggiornamento-avviso-pubblico-n-42024-l-attuazione-par-gol-sicilia-finanziare-nell-ambito-piano-nazionale-ripresa-resilienza-pnrr",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-04-02",
+      "data_uscita": "2026-04-02",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "d90f6e5bfd9e9ecf5e93d36fe684fa57f80267fd"
     },
     {
       "id": "digital-europe-ai-cyber-sme",
@@ -294,6 +625,150 @@
       "url_origine": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en"
     },
     {
+      "id": "ue-funding-opportunities-eu4health",
+      "nome": "EU4Health",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The EU4Health programme, implemented by HaDEA, with a budget of €5.3 billion, is the fourth and largest of the EU health programmes since their launch in 2003.HaDEA call management",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando EU4Health. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://hadea.ec.europa.eu/programmes/eu4health_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "d384b6362e769c5992b949ba4779a264fed9ca69"
+    },
+    {
+      "id": "ue-funding-opportunities-european-regional-development-fund",
+      "nome": "European Regional Development Fund",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The European Regional Development Fund aims to strengthen economic and social cohesion in the European Union by correcting imbalances between its regions. The ERDF focuses its investments on several key priority areas, including innovation and research.",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando European Regional Development Fund. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://ec.europa.eu/regional_policy/funding/erdf_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "03042e91a51d9f3752f5702f76beb213fabfd34c"
+    },
+    {
+      "id": "ue-funding-opportunities-european-structural-and-investment-funds-esif",
+      "nome": "European structural and investment funds (ESIF)",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Over half of EU funding is channelled through the 5 European structural and investment funds (ESIF). They are jointly managed by the European Commission and the EU countries. The purpose of all these funds is to invest in job creation and a sustainable and hea",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando European structural and investment funds (ESIF). Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/funding-opportunities/funding-programmes/overview-funding-programmes/european-structural-and-investment-funds_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "7e72f8774efdf16728d89e099e870d089c7ab890"
+    },
+    {
       "id": "sicilia-fondo-sicilia-plafond-imprese",
       "nome": "Fondo Sicilia – Crescita dimensionale imprese (D.A. 31/2025)",
       "programma": "Regione Siciliana / IRFIS",
@@ -401,6 +876,150 @@
       ],
       "fonte_scraper": "manual_seed",
       "url_origine": "https://www.irfis.it/finanziamenti-agevolati-per-la-realizzazione-di-programmi-di-investimento-in-favore-di-imprese-operanti-nel-settore-del-commercio/"
+    },
+    {
+      "id": "ue-funding-opportunities-hadea-call-management",
+      "nome": "HaDEA call management",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The EU4Health programme, implemented by HaDEA, with a budget of €5.3 billion, is the fourth and largest of the EU health programmes since their launch in 2003.HaDEA call management",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando HaDEA call management. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://hadea.ec.europa.eu/programmes/eu4health/call-management_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "60e013354ba9b18a63823c852ab1a8064fca98ce"
+    },
+    {
+      "id": "ue-funding-opportunities-horizon-2020",
+      "nome": "Horizon 2020",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The previous programmes (Horizon 2020 and FP7)Horizon 2020Research and Innovation funding 2007 - 2013 (Archived site)",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Horizon 2020. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "d809eeaed6c46777161792b4fba6e3984822044a"
+    },
+    {
+      "id": "ue-funding-opportunities-horizon-europe",
+      "nome": "Horizon Europe",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Horizon EuropeHorizon Europe is the EU's research and innovation programme for 2021-2027 with a budget of €95.5 billion.It tackles climate change, helps to achieve the UN’s Sustainable Development Goals and boosts the EU’s competitiveness and growth.The progra",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Horizon Europe. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "040f462d08dfff36030edfafc4f944f470541baf"
     },
     {
       "id": "horizon-cl4-2026-04",
@@ -530,6 +1149,198 @@
       "url_origine": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-sostenibili-40-bando-2025"
     },
     {
+      "id": "ue-funding-opportunities-life-calls-for-proposals-2025",
+      "nome": "LIFE Calls for proposals 2025",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The LIFE programme 2021-2027 is divided into four sub-programmes: “Nature and biodiversity”, “Circular economy and quality of life”, “Climate change mitigation and adaptation” and “Clean energy transition”.LIFE Calls for proposals 2025",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando LIFE Calls for proposals 2025. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://cinea.ec.europa.eu/life-calls-proposals-2025_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "d42827f833ed0590a401baa6f0b39bbd9b53400e"
+    },
+    {
+      "id": "ue-funding-opportunities-life-programme-2021-2027",
+      "nome": "LIFE programme 2021-2027",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The LIFE programme 2021-2027 is divided into four sub-programmes: “Nature and biodiversity”, “Circular economy and quality of life”, “Climate change mitigation and adaptation” and “Clean energy transition”.LIFE Calls for proposals 2025",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando LIFE programme 2021-2027. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://climate.ec.europa.eu/eu-action/funding-climate-action/life-climate-change-mitigation-and-adaptation_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "e19aff73c09d1102261fb5fa7867ae0c657f20a7"
+    },
+    {
+      "id": "ue-funding-opportunities-open-and-upcoming-calls-for-horizon-europe",
+      "nome": "Open and upcoming calls for Horizon Europe",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Horizon EuropeHorizon Europe is the EU's research and innovation programme for 2021-2027 with a budget of €95.5 billion.It tackles climate change, helps to achieve the UN’s Sustainable Development Goals and boosts the EU’s competitiveness and growth.The progra",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Open and upcoming calls for Horizon Europe. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search;callCode=null;freeTextSearchKeyword=;matchWholeText=true;typeCodes=1;statusCodes=31094501,31094502,31094503;programmePeriod=2021%20-%202027;programCcm2Id=43108390;programDivisionCode=null;focusAreaCode=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "a3560c765eb7772a365acb3806b0347a655c6fe9"
+    },
+    {
+      "id": "ue-funding-opportunities-open-and-upcoming-calls-for-rfcs",
+      "nome": "Open and upcoming calls for RFCS",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The Research Fund for Coal and Steel supports research projects in coal and steel sectors. Every year around €55 million (€47.7 million for 2015) is made available to universities, research centres and private companies to fund projects.Open and upcoming calls",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Open and upcoming calls for RFCS. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search;freeTextSearchKeyword=;typeCodes=1;statusCodes=31094501,31094502;programCode=RFCS;programDivisionCode=null;focusAreaCode=null;crossCuttingPriorityCode=null;callCode=Default;sortQuery=openingDate;orderBy=asc;onlyTenders=false",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "c2380f6bf5276e94361dd3696cb84445ddc41632"
+    },
+    {
       "id": "sicilia-fesr-132-investimenti-regionali-zes",
       "nome": "PR FESR Sicilia – Azione 1.3.2 regionale (investimenti e ZES)",
       "programma": "Regione Siciliana – PR FESR 2021-2027",
@@ -629,6 +1440,102 @@
       ],
       "fonte_scraper": "manual_seed",
       "url_origine": "https://www.regione.sicilia.it/la-regione-informa/attivita-produttive-presentati-4-nuovi-bandi-sviluppo-imprese-innovazione"
+    },
+    {
+      "id": "ue-funding-opportunities-research-and-innovation-funding-2007-2013",
+      "nome": "Research and Innovation funding 2007 - 2013",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The previous programmes (Horizon 2020 and FP7)Horizon 2020Research and Innovation funding 2007 - 2013 (Archived site)",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Research and Innovation funding 2007 - 2013. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://wayback.archive-it.org/12090/20191127213419/https:/ec.europa.eu/research/fp7/index_en.cfm",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "780436cd14d4958bb63437bd71ac51ce06f23738"
+    },
+    {
+      "id": "ue-funding-opportunities-research-fund-for-coal-and-steel",
+      "nome": "Research Fund for Coal and Steel",
+      "programma": "UE Funding Opportunities",
+      "livello": "europeo",
+      "settori": [
+        "tecnologia",
+        "startup",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "The Research Fund for Coal and Steel supports research projects in coal and steel sectors. Every year around €55 million (€47.7 million for 2015) is made available to universities, research centres and private companies to fund projects.Open and upcoming calls",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Research Fund for Coal and Steel. Territorio: UE e Paesi associati.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Universita",
+        "Centri di ricerca"
+      ],
+      "territorio": "UE e Paesi associati",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/research-fund-coal-and-steel-rfcs_en",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello europeo",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "ue-funding-opportunities",
+      "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
+      "rilevato_il": "2026-06-16",
+      "notifica_topics": [
+        "bandi_europei"
+      ],
+      "hash_contenuto": "739dbdaf06c56b96f37634ec0126a8e83422142e"
     },
     {
       "id": "resto-al-sud-20",
@@ -1106,14 +2013,5 @@
     }
   ],
   "changed": true,
-  "source_errors": [
-    {
-      "source": "regione-sicilia-bandi",
-      "message": "fetch failed"
-    },
-    {
-      "source": "ue-funding-opportunities",
-      "message": "HTTP 403"
-    }
-  ]
+  "source_errors": []
 }
