@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-06-16",
-  "versione": 40,
+  "ultimo_aggiornamento": "2026-06-18",
+  "versione": 41,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "fc341760af2268dd43070e026bcf90fbaaef5835",
-  "generated_at": "2026-06-18T10:01:07.853Z",
+  "catalog_hash": "608d4fb7449875de95c6f50cd45cc7f7fb0855de",
+  "generated_at": "2026-06-18T14:38:43.608Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -289,6 +289,53 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "38a3d9259baacd0d7412b3dbd12324b9491cf860"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-per-invito-alla-manifestazione-di-interesse-per-la-gestione-in-c",
+      "nome": "Avviso pubblico per invito alla manifestazione di interesse per la gestione in concessione del Castello medievale di Calatabiano (Ct)",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Manifestazioni di interesse Avviso pubblico per invito alla manifestazione di interesse per la gestione in concessione del Castello medievale di Calatabiano (Ct) Scade il: 31/07/2026 - 23:59 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso pubblico per invito alla manifestazione di interesse per la gestione in concessione del Castello medievale di Calatabiano (Ct). Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-invito-alla-manifestazione-interesse-gestione-concessione-castello-medievale-calatabiano-ct",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-07-31",
+      "data_uscita": "2026-07-31",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-18",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "41ee8f0953b663d25903a58bebfd0e57c383d2c8"
     },
     {
       "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
@@ -2059,6 +2106,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }

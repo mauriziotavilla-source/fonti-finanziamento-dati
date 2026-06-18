@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-18T10:01:07.854Z",
+  "generated_at": "2026-06-18T14:38:43.608Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "fc341760af2268dd43070e026bcf90fbaaef5835",
+  "catalog_hash": "608d4fb7449875de95c6f50cd45cc7f7fb0855de",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 1,
     "aggiornati": 0
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-per-invito-alla-manifestazione-di-interesse-per-la-gestione-in-c",
+      "nome": "Avviso pubblico per invito alla manifestazione di interesse per la gestione in concessione del Castello medievale di Calatabiano (Ct)",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-invito-alla-manifestazione-interesse-gestione-concessione-castello-medievale-calatabiano-ct",
+      "data_pubblicazione": "2026-07-31",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "41ee8f0953b663d25903a58bebfd0e57c383d2c8",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "aggiornati": [],
   "errori_fonti": []
 }
