@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-06-19T10:07:49.688Z",
+  "generated_at": "2026-06-19T14:35:37.501Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "80b7eeee2011929a989d86647cec89e0e15c8f97",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 0
   },
-  "nuovi": [
-    {
-      "id": "regione-sicilia-bandi-concessione-temporanea-postazioni-arnie-2-avviso-anno-2026",
-      "nome": "Concessione temporanea postazioni arnie - 2^ AVVISO – anno 2026",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/concessione-temporanea-postazioni-arnie-2-avviso-anno-2026",
-      "data_pubblicazione": "2026-07-03",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "5a12ccfb996d5cc8da6e1362a3d69beb8c2460c0",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [],
   "errori_fonti": []
 }
