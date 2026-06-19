@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-06-18",
-  "versione": 41,
+  "ultimo_aggiornamento": "2026-06-19",
+  "versione": 42,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "608d4fb7449875de95c6f50cd45cc7f7fb0855de",
-  "generated_at": "2026-06-19T02:40:42.697Z",
+  "catalog_hash": "80b7eeee2011929a989d86647cec89e0e15c8f97",
+  "generated_at": "2026-06-19T10:07:49.688Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -196,53 +196,6 @@
       "hash_contenuto": "cf987e94a050e0344ce807aaaf0cb524cf2232b5"
     },
     {
-      "id": "regione-sicilia-bandi-avviso-pubblico-ob-2-2-azione-4-codice-222402-26-si-2-2026-selezione-progetti-se",
-      "nome": "AVVISO PUBBLICO - Ob. 2.2 Azione 4 codice 222402-26-SI (2-2026) - Selezione progetti sensibilizzazione del pubblico sul consumo di prodotti siciliani attraverso programmi educazione riservati alle scuole e Istituti",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO - Ob. 2.2 Azione 4 codice 222402-26-SI (2-2026) - Selezione progetti sensibilizzazione del pubblico sul consumo di prodotti siciliani attraverso programmi educazione riservati alle scuole e Istituti Scade il: 23/07/2026 - 23:59 ",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO - Ob. 2.2 Azione 4 codice 222402-26-SI (2-2026) - Selezione progetti sensibilizzazione del pubblico sul consumo di prodotti siciliani attraverso programmi educazione riservati alle scuole e Istituti. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-ob-22-azione-4-codice-222402-26-si-2-2026-selezione-progetti-sensibilizzazione-pubblico-consumo-prodotti-siciliani-attraverso-programmi",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-07-23",
-      "data_uscita": "2026-07-23",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-19",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "3c8c92e96b4cc2c79d4bb49498a2003c6d0b81fb"
-    },
-    {
       "id": "regione-sicilia-bandi-avviso-pubblico-di-selezione-interna-per-il-conferimento-di-n-3-posizioni-organi",
       "nome": "Avviso pubblico di selezione interna per il conferimento di n. 3 posizioni organizzative presso il Dipartimento della pesca mediterranea, ai sensi degli artt. 19 e 20 del CCRL 2022-2024 del comparto non dirigenziale.",
       "programma": "Regione Siciliana",
@@ -431,6 +384,53 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "b1c50ec824eca2ddb62e31b7d368220fbfd68a92"
+    },
+    {
+      "id": "regione-sicilia-bandi-concessione-temporanea-postazioni-arnie-2-avviso-anno-2026",
+      "nome": "Concessione temporanea postazioni arnie - 2^ AVVISO – anno 2026",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici Concessione temporanea postazioni arnie - 2^ AVVISO – anno 2026 Scade il: 03/07/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Concessione temporanea postazioni arnie - 2^ AVVISO – anno 2026. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/concessione-temporanea-postazioni-arnie-2-avviso-anno-2026",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-07-03",
+      "data_uscita": "2026-07-03",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-19",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "5a12ccfb996d5cc8da6e1362a3d69beb8c2460c0"
     },
     {
       "id": "credito-imposta-40",
@@ -2106,6 +2106,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
