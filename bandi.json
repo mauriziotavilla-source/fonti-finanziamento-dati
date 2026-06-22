@@ -1,59 +1,12 @@
 {
-  "ultimo_aggiornamento": "2026-06-19",
-  "versione": 42,
+  "ultimo_aggiornamento": "2026-06-22",
+  "versione": 43,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "80b7eeee2011929a989d86647cec89e0e15c8f97",
-  "generated_at": "2026-06-22T02:28:18.264Z",
+  "catalog_hash": "1a6b777c21e084f5ad56bb03ffd874474a86b993",
+  "generated_at": "2026-06-22T11:27:56.423Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
-    {
-      "id": "regione-sicilia-bandi-08-giugno-2026-st-catania-avviso-pubblico-per-l-affidamento-in-concessione-per-l",
-      "nome": "08 giugno 2026 - ST CATANIA - Avviso pubblico per l’ affidamento in concessione per l’anno 2026 di aree del demanio forestale del Dipartimento Regionale dello Sviluppo Rurale e Territoriale per la decortica di sughereta.",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici 08 giugno 2026 - ST CATANIA - Avviso pubblico per l’ affidamento in concessione per l’anno 2026 di aree del demanio forestale del Dipartimento Regionale dello Sviluppo Rurale e Territoriale per la decortica di sughereta. Scade il: 08/08/2026 - ",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando 08 giugno 2026 - ST CATANIA - Avviso pubblico per l’ affidamento in concessione per l’anno 2026 di aree del demanio forestale del Dipartimento Regionale dello Sviluppo Rurale e Territoriale per la decortica di sughereta.. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/08-giugno-2026-st-catania-avviso-pubblico-l-affidamento-concessione-l-anno-2026-aree-demanio-forestale-dipartimento-regionale-sviluppo-rurale-territoriale",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-08-08",
-      "data_uscita": "2026-08-08",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-22",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "294f398f52551306bfa3f3b48e6165de5ca16a3c"
-    },
     {
       "id": "invitalia-incentivi-approfondisci",
       "nome": "Approfondisci",
@@ -102,8 +55,8 @@
       "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74"
     },
     {
-      "id": "regione-sicilia-bandi-approvazione-avviso-fpg-anno-2026",
-      "nome": "Approvazione Avviso FPG anno 2026",
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-degli-attuali-utilizzatori-sigg-ri-cicero-g",
+      "nome": "AVVISO PUBBLICO DI VENDITA in favore degli attuali utilizzatori sigg.ri Cicero Grazia e Cosentino Calogero",
       "programma": "Regione Siciliana",
       "livello": "regionale",
       "settori": [
@@ -112,8 +65,8 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici Approvazione Avviso FPG anno 2026 Scade il: 09/07/2026 - 14:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Approvazione Avviso FPG anno 2026. Territorio: Sicilia.",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA in favore degli attuali utilizzatori sigg.ri Cicero Grazia e Cosentino Calogero Scade il: 21/07/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA in favore degli attuali utilizzatori sigg.ri Cicero Grazia e Cosentino Calogero. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
       "beneficiari": [
@@ -132,25 +85,25 @@
         "Documenti richiesti dal portale"
       ],
       "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/approvazione-avviso-fpg-anno-2026",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuali-utilizzatori-siggri-cicero-grazia-cosentino-calogero",
       "checklist": [
         "Aprire il link ufficiale e verificare l'avviso completo",
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-07-09",
-      "data_uscita": "2026-07-09",
+      "data_pubblicazione": "2026-07-21",
+      "data_uscita": "2026-07-21",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "c67f947c23c34eb52f3911b08e2530170adae6a4"
+      "hash_contenuto": "e47e76f7efe3165ddbcc31f444258ca70d19cca9"
     },
     {
-      "id": "regione-sicilia-bandi-avviso-per-manifestazione-di-interesse-finalizza-alla-sezione-di-personale-inter",
-      "nome": "Avviso per manifestazione di interesse finalizza alla sezione di personale interno- SIRACUSA",
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-degli-attuali-utilizzatori-sigg-ri-reina-em",
+      "nome": "AVVISO PUBBLICO DI VENDITA in favore degli attuali utilizzatori sigg.ri Reina Emanuele e Reina Nicoletta",
       "programma": "Regione Siciliana",
       "livello": "regionale",
       "settori": [
@@ -159,8 +112,8 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "Manifestazioni di interesse Avviso per manifestazione di interesse finalizza alla sezione di personale interno- SIRACUSA Scade il: 30/06/2026 - 12:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso per manifestazione di interesse finalizza alla sezione di personale interno- SIRACUSA. Territorio: Sicilia.",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA in favore degli attuali utilizzatori sigg.ri Reina Emanuele e Reina Nicoletta Scade il: 21/07/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA in favore degli attuali utilizzatori sigg.ri Reina Emanuele e Reina Nicoletta. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
       "beneficiari": [
@@ -179,73 +132,25 @@
         "Documenti richiesti dal portale"
       ],
       "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-manifestazione-interesse-finalizza-alla-sezione-personale-interno-siracusa",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuali-utilizzatori-siggri-reina-emanuele-reina-nicoletta",
       "checklist": [
         "Aprire il link ufficiale e verificare l'avviso completo",
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-06-30",
-      "data_uscita": "2026-06-30",
+      "data_pubblicazione": "2026-07-21",
+      "data_uscita": "2026-07-21",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "cf987e94a050e0344ce807aaaf0cb524cf2232b5"
+      "hash_contenuto": "62d7a136a012fb8f65cf0f1ac5cba13018b44c56"
     },
     {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-selezione-interna-per-il-conferimento-di-n-3-posizioni-organi",
-      "nome": "Avviso pubblico di selezione interna per il conferimento di n. 3 posizioni organizzative presso il Dipartimento della pesca mediterranea, ai sensi degli artt. 19 e 20 del CCRL 2022-2024 del comparto non dirigenziale.",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo",
-        "tecnologia"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Avvisi pubblici Avviso pubblico di selezione interna per il conferimento di n. 3 posizioni organizzative presso il Dipartimento della pesca mediterranea, ai sensi degli artt. 19 e 20 del CCRL 2022-2024 del comparto non dirigenziale. Scaduto Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso pubblico di selezione interna per il conferimento di n. 3 posizioni organizzative presso il Dipartimento della pesca mediterranea, ai sensi degli artt. 19 e 20 del CCRL 2022-2024 del comparto non dirigenziale.. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-selezione-interna-conferimento-n-3-posizioni-organizzative",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "",
-      "data_uscita": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-22",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "38a3d9259baacd0d7412b3dbd12324b9491cf860"
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-per-invito-alla-manifestazione-di-interesse-per-la-gestione-in-c",
-      "nome": "Avviso pubblico per invito alla manifestazione di interesse per la gestione in concessione del Castello medievale di Calatabiano (Ct)",
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-dell-attuale-utilizzatore-sig-hamel-mauro-a",
+      "nome": "AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Hamel Mauro Antonio",
       "programma": "Regione Siciliana",
       "livello": "regionale",
       "settori": [
@@ -254,8 +159,8 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "Manifestazioni di interesse Avviso pubblico per invito alla manifestazione di interesse per la gestione in concessione del Castello medievale di Calatabiano (Ct) Scade il: 31/07/2026 - 23:59 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso pubblico per invito alla manifestazione di interesse per la gestione in concessione del Castello medievale di Calatabiano (Ct). Territorio: Sicilia.",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Hamel Mauro Antonio Scade il: 21/07/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Hamel Mauro Antonio. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
       "beneficiari": [
@@ -274,73 +179,25 @@
         "Documenti richiesti dal portale"
       ],
       "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-invito-alla-manifestazione-interesse-gestione-concessione-castello-medievale-calatabiano-ct",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuale-utilizzatore-sig-hamel-mauro-antonio",
       "checklist": [
         "Aprire il link ufficiale e verificare l'avviso completo",
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-07-31",
-      "data_uscita": "2026-07-31",
+      "data_pubblicazione": "2026-07-21",
+      "data_uscita": "2026-07-21",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "41ee8f0953b663d25903a58bebfd0e57c383d2c8"
+      "hash_contenuto": "c4ec436cc3eb99aa4bdb23937556c1ea64ec99ad"
     },
     {
-      "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
-      "nome": "BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo",
-        "green"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Bandi di gara BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione Scade il: 07/09/2026 - 23:59 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bandoavviso-regia-ob-21-az-5-cod-221502acq-imprese-acquicole-investimenti-produttivi-imprese-acquacoltura-avanzati-sotto-profilo-sostenibilita-ambientale-0",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-09-07",
-      "data_uscita": "2026-09-07",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-22",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "df23d89a14e3774d4ac08a4a25530f27f2f79104"
-    },
-    {
-      "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-div-imprese-acquicole-diversificazio",
-      "nome": "BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_DIV - Imprese acquicole: diversificazione del reddito tramite sviluppo di attività complementari.",
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-dell-attuale-utilizzatore-sig-passalacqua-d",
+      "nome": "AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Passalacqua Domenico Silvio",
       "programma": "Regione Siciliana",
       "livello": "regionale",
       "settori": [
@@ -349,8 +206,8 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "Bandi di gara BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_DIV - Imprese acquicole: diversificazione del reddito tramite sviluppo di attività complementari. Scade il: 08/08/2026 - 23:59 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_DIV - Imprese acquicole: diversificazione del reddito tramite sviluppo di attività complementari.. Territorio: Sicilia.",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Passalacqua Domenico Silvio Scade il: 21/07/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Passalacqua Domenico Silvio. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
       "beneficiari": [
@@ -369,25 +226,25 @@
         "Documenti richiesti dal portale"
       ],
       "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bandoavviso-regia-ob-21-az-5-cod-221502div-imprese-acquicole-diversificazione-reddito-tramite-sviluppo-attivita-complementari",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuale-utilizzatore-sig-passalacqua-domenico-silvio",
       "checklist": [
         "Aprire il link ufficiale e verificare l'avviso completo",
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-08-08",
-      "data_uscita": "2026-08-08",
+      "data_pubblicazione": "2026-07-21",
+      "data_uscita": "2026-07-21",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "b1c50ec824eca2ddb62e31b7d368220fbfd68a92"
+      "hash_contenuto": "bf3134f2d337fff261b65906b6f2f001b952ee85"
     },
     {
-      "id": "regione-sicilia-bandi-concessione-temporanea-postazioni-arnie-2-avviso-anno-2026",
-      "nome": "Concessione temporanea postazioni arnie - 2^ AVVISO – anno 2026",
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-dell-attuale-utilizzatore-sig-zaffuto-edoar",
+      "nome": "AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Zaffuto Edoardo",
       "programma": "Regione Siciliana",
       "livello": "regionale",
       "settori": [
@@ -396,8 +253,8 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici Concessione temporanea postazioni arnie - 2^ AVVISO – anno 2026 Scade il: 03/07/2026 - 12:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Concessione temporanea postazioni arnie - 2^ AVVISO – anno 2026. Territorio: Sicilia.",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Zaffuto Edoardo Scade il: 21/07/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Zaffuto Edoardo. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
       "beneficiari": [
@@ -416,21 +273,115 @@
         "Documenti richiesti dal portale"
       ],
       "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/concessione-temporanea-postazioni-arnie-2-avviso-anno-2026",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuale-utilizzatore-sig-zaffuto-edoardo",
       "checklist": [
         "Aprire il link ufficiale e verificare l'avviso completo",
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-07-03",
-      "data_uscita": "2026-07-03",
+      "data_pubblicazione": "2026-07-21",
+      "data_uscita": "2026-07-21",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "5a12ccfb996d5cc8da6e1362a3d69beb8c2460c0"
+      "hash_contenuto": "69d0eb6c63260062beb2a2ad26ed0eb10faa2f61"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-dell-attuale-utilizzatore-sig-ra-rando-mari",
+      "nome": "AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig.ra Rando Maria Eugenia",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig.ra Rando Maria Eugenia Scade il: 21/07/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig.ra Rando Maria Eugenia. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuale-utilizzatore-sigra-rando-maria-eugenia",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-07-21",
+      "data_uscita": "2026-07-21",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-22",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "a8c644788507ee37524f4d3c1c4e62aefcaa45bd"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-dell-attuale-utilizzatore-societa-fuoriluog",
+      "nome": "AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore Società Fuoriluogo s.a.s. di Virzì Giuseppa &amp; C.",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore Società Fuoriluogo s.a.s. di Virzì Giuseppa &amp; C. Scade il: 21/07/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore Società Fuoriluogo s.a.s. di Virzì Giuseppa &amp; C.. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuale-utilizzatore-societa-fuoriluogo-sas-virzi-giuseppa-c",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-07-21",
+      "data_uscita": "2026-07-21",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-22",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "6320ff3819c23f07216478a5870bee5bcc83ee07"
     },
     {
       "id": "credito-imposta-40",
@@ -1339,6 +1290,53 @@
       "hash_contenuto": "e19aff73c09d1102261fb5fa7867ae0c657f20a7"
     },
     {
+      "id": "regione-sicilia-bandi-oggetto-concessione-temporanea-postazioni-arnie-2-avviso-anno-2026-trasmissione-",
+      "nome": "OGGETTO: Concessione temporanea postazioni arnie 2^ AVVISO anno 2026 trasmissione elenco postazioni arnie ancora disponibili.",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici OGGETTO: Concessione temporanea postazioni arnie 2^ AVVISO anno 2026 trasmissione elenco postazioni arnie ancora disponibili. Scade il: 03/07/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando OGGETTO: Concessione temporanea postazioni arnie 2^ AVVISO anno 2026 trasmissione elenco postazioni arnie ancora disponibili.. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/oggetto-concessione-temporanea-postazioni-arnie-2-avviso-anno-2026-trasmissione-elenco-postazioni-arnie-ancora-disponibili",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-07-03",
+      "data_uscita": "2026-07-03",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-22",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "259fbec790581e78bff5eab793c58f6acbb61a26"
+    },
+    {
       "id": "ue-funding-opportunities-open-and-upcoming-calls-for-horizon-europe",
       "nome": "Open and upcoming calls for Horizon Europe",
       "programma": "UE Funding Opportunities",
@@ -2106,6 +2104,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
