@@ -4,7 +4,7 @@
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
   "catalog_hash": "80b7eeee2011929a989d86647cec89e0e15c8f97",
-  "generated_at": "2026-06-21T19:09:07.585Z",
+  "generated_at": "2026-06-22T02:28:18.264Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -48,7 +48,7 @@
       "data_uscita": "2026-08-08",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_regionali"
       ],
@@ -95,7 +95,7 @@
       "data_uscita": "",
       "fonte_scraper": "invitalia-incentivi",
       "url_origine": "https://www.invitalia.it/",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_nazionali"
       ],
@@ -142,7 +142,7 @@
       "data_uscita": "2026-07-09",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_regionali"
       ],
@@ -189,7 +189,7 @@
       "data_uscita": "2026-06-30",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_regionali"
       ],
@@ -237,7 +237,7 @@
       "data_uscita": "",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_regionali"
       ],
@@ -284,7 +284,7 @@
       "data_uscita": "2026-07-31",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_regionali"
       ],
@@ -332,7 +332,7 @@
       "data_uscita": "2026-09-07",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_regionali"
       ],
@@ -379,7 +379,7 @@
       "data_uscita": "2026-08-08",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_regionali"
       ],
@@ -426,7 +426,7 @@
       "data_uscita": "2026-07-03",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_regionali"
       ],
@@ -523,7 +523,7 @@
       "data_uscita": "2026-04-02",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_regionali"
       ],
@@ -760,7 +760,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -808,7 +808,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -856,7 +856,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1013,7 +1013,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1061,7 +1061,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1109,7 +1109,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1284,7 +1284,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1332,7 +1332,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1380,7 +1380,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1428,7 +1428,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1577,7 +1577,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1625,7 +1625,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-06-21",
+      "rilevato_il": "2026-06-22",
       "notifica_topics": [
         "bandi_europei"
       ],
