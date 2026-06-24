@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-06-24",
-  "versione": 45,
+  "versione": 46,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "1a6b777c21e084f5ad56bb03ffd874474a86b993",
-  "generated_at": "2026-06-24T01:55:07.938Z",
+  "catalog_hash": "a5a6deaf731d50ae308b4017fc16c7e12880b721",
+  "generated_at": "2026-06-24T08:49:21.444Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -53,6 +53,54 @@
         "bandi_nazionali"
       ],
       "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-locazione-immobile-denominato-ex-sacos-ubicato-nel-comune-di-",
+      "nome": "AVVISO PUBBLICO DI LOCAZIONE IMMOBILE DENOMINATO “EX SACOS”, ubicato nel Comune di Catania – Zona Industriale.",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo",
+        "industria"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI LOCAZIONE IMMOBILE DENOMINATO “EX SACOS”, ubicato nel Comune di Catania – Zona Industriale. Scade il: 23/07/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI LOCAZIONE IMMOBILE DENOMINATO “EX SACOS”, ubicato nel Comune di Catania – Zona Industriale.. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-locazione-immobile-denominato-ex-sacos-ubicato-nel-comune-catania-zona-industriale",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-07-23",
+      "data_uscita": "2026-07-23",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-24",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "15cb61fac9b47cb1e930519bfa636b7fee302c42"
     },
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-degli-attuali-utilizzatori-sigg-ri-cicero-g",
@@ -241,53 +289,6 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "bf3134f2d337fff261b65906b6f2f001b952ee85"
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-dell-attuale-utilizzatore-sig-zaffuto-edoar",
-      "nome": "AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Zaffuto Edoardo",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Zaffuto Edoardo Scade il: 21/07/2026 - 12:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Zaffuto Edoardo. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuale-utilizzatore-sig-zaffuto-edoardo",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-07-21",
-      "data_uscita": "2026-07-21",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-24",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "69d0eb6c63260062beb2a2ad26ed0eb10faa2f61"
     },
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-dell-attuale-utilizzatore-sig-ra-rando-mari",

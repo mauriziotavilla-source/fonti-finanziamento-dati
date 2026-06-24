@@ -1,125 +1,21 @@
 {
-  "generated_at": "2026-06-24T01:55:07.938Z",
+  "generated_at": "2026-06-24T08:49:21.444Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "1a6b777c21e084f5ad56bb03ffd874474a86b993",
+  "catalog_hash": "a5a6deaf731d50ae308b4017fc16c7e12880b721",
   "counts": {
-    "nuovi": 9,
+    "nuovi": 1,
     "aggiornati": 0
   },
   "nuovi": [
     {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-degli-attuali-utilizzatori-sigg-ri-cicero-g",
-      "nome": "AVVISO PUBBLICO DI VENDITA in favore degli attuali utilizzatori sigg.ri Cicero Grazia e Cosentino Calogero",
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-locazione-immobile-denominato-ex-sacos-ubicato-nel-comune-di-",
+      "nome": "AVVISO PUBBLICO DI LOCAZIONE IMMOBILE DENOMINATO “EX SACOS”, ubicato nel Comune di Catania – Zona Industriale.",
       "livello": "regionale",
       "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuali-utilizzatori-siggri-cicero-grazia-cosentino-calogero",
-      "data_pubblicazione": "2026-07-21",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-locazione-immobile-denominato-ex-sacos-ubicato-nel-comune-catania-zona-industriale",
+      "data_pubblicazione": "2026-07-23",
       "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "e47e76f7efe3165ddbcc31f444258ca70d19cca9",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-degli-attuali-utilizzatori-sigg-ri-reina-em",
-      "nome": "AVVISO PUBBLICO DI VENDITA in favore degli attuali utilizzatori sigg.ri Reina Emanuele e Reina Nicoletta",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuali-utilizzatori-siggri-reina-emanuele-reina-nicoletta",
-      "data_pubblicazione": "2026-07-21",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "62d7a136a012fb8f65cf0f1ac5cba13018b44c56",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-dell-attuale-utilizzatore-sig-hamel-mauro-a",
-      "nome": "AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Hamel Mauro Antonio",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuale-utilizzatore-sig-hamel-mauro-antonio",
-      "data_pubblicazione": "2026-07-21",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "c4ec436cc3eb99aa4bdb23937556c1ea64ec99ad",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-dell-attuale-utilizzatore-sig-passalacqua-d",
-      "nome": "AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Passalacqua Domenico Silvio",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuale-utilizzatore-sig-passalacqua-domenico-silvio",
-      "data_pubblicazione": "2026-07-21",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "bf3134f2d337fff261b65906b6f2f001b952ee85",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-dell-attuale-utilizzatore-sig-zaffuto-edoar",
-      "nome": "AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Zaffuto Edoardo",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuale-utilizzatore-sig-zaffuto-edoardo",
-      "data_pubblicazione": "2026-07-21",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "69d0eb6c63260062beb2a2ad26ed0eb10faa2f61",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-dell-attuale-utilizzatore-sig-ra-rando-mari",
-      "nome": "AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig.ra Rando Maria Eugenia",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuale-utilizzatore-sigra-rando-maria-eugenia",
-      "data_pubblicazione": "2026-07-21",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "a8c644788507ee37524f4d3c1c4e62aefcaa45bd",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-dell-attuale-utilizzatore-societa-fuoriluog",
-      "nome": "AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore Società Fuoriluogo s.a.s. di Virzì Giuseppa &amp; C.",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuale-utilizzatore-societa-fuoriluogo-sas-virzi-giuseppa-c",
-      "data_pubblicazione": "2026-07-21",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "6320ff3819c23f07216478a5870bee5bcc83ee07",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-ddg-1112-del-02-04-2026-aggiornamento-avviso-pubblico-n-4-2024-per-l-attuazione-",
-      "nome": "DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR)",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/ddg-1112-02042026-aggiornamento-avviso-pubblico-n-42024-l-attuazione-par-gol-sicilia-finanziare-nell-ambito-piano-nazionale-ripresa-resilienza-pnrr",
-      "data_pubblicazione": "2026-04-02",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "d90f6e5bfd9e9ecf5e93d36fe684fa57f80267fd",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-oggetto-concessione-temporanea-postazioni-arnie-2-avviso-anno-2026-trasmissione-",
-      "nome": "OGGETTO: Concessione temporanea postazioni arnie 2^ AVVISO anno 2026 trasmissione elenco postazioni arnie ancora disponibili.",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/oggetto-concessione-temporanea-postazioni-arnie-2-avviso-anno-2026-trasmissione-elenco-postazioni-arnie-ancora-disponibili",
-      "data_pubblicazione": "2026-07-03",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "259fbec790581e78bff5eab793c58f6acbb61a26",
+      "hash_contenuto": "15cb61fac9b47cb1e930519bfa636b7fee302c42",
       "notifica_topics": [
         "bandi_regionali"
       ]
