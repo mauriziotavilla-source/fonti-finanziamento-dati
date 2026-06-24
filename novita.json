@@ -1,26 +1,17 @@
 {
-  "generated_at": "2026-06-24T08:49:21.444Z",
+  "generated_at": "2026-06-24T13:59:28.025Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "a5a6deaf731d50ae308b4017fc16c7e12880b721",
+  "catalog_hash": "06c35834a120262fd159df139a63edb175574889",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 0
   },
-  "nuovi": [
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-locazione-immobile-denominato-ex-sacos-ubicato-nel-comune-di-",
-      "nome": "AVVISO PUBBLICO DI LOCAZIONE IMMOBILE DENOMINATO “EX SACOS”, ubicato nel Comune di Catania – Zona Industriale.",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-locazione-immobile-denominato-ex-sacos-ubicato-nel-comune-catania-zona-industriale",
-      "data_pubblicazione": "2026-07-23",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "15cb61fac9b47cb1e930519bfa636b7fee302c42",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "regione-sicilia-bandi",
+      "message": "fetch failed"
+    }
+  ]
 }
