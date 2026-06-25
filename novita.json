@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-06-25T08:43:28.739Z",
+  "generated_at": "2026-06-25T13:56:41.028Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "1ed46cc68b7d1c5e775cec3955f7eb9b6b5c99aa",
+  "catalog_hash": "16b04a2409d9b527688aec4e8f257d7ff7e1a1ae",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 2,
     "aggiornati": 0
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "regione-sicilia-bandi-s-14-pa-avviso-conclusione-di-indagini-di-mercato-monte-cane-cup-g48e25000340006",
+      "nome": "S.14 PA - Avviso conclusione di Indagini di Mercato_Monte Cane_ (CUP G48E25000340006) - Prot. n. 0070573 del 25.06.2026",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/s14-pa-avviso-conclusione-indagini-mercatomonte-cane-cup-g48e25000340006-prot-n-0070573-25062026",
+      "data_pubblicazione": "2026-06-25",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "86b7415bb45227971fe88b2426009e1401ba0df7",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-s-14-pa-avviso-conclusione-indagini-di-mercato-capo-gallo-cup-g78e25000250006-pr",
+      "nome": "S.14 PA - Avviso Conclusione indagini di mercato __Capo Gallo_ (CUP G78E25000250006) .Prot. n. 0070181 del 24.06.2026",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/s14-pa-avviso-conclusione-indagini-mercato-capo-gallo-cup-g78e25000250006-prot-n-0070181-24062026",
+      "data_pubblicazione": "2026-06-24",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "7c009d2d81c0dd3bbf10c5805e57b578b22a6534",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "aggiornati": [],
   "errori_fonti": []
 }
