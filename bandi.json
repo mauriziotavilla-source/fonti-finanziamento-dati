@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-06-24",
-  "versione": 48,
+  "ultimo_aggiornamento": "2026-06-25",
+  "versione": 49,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "a5a6deaf731d50ae308b4017fc16c7e12880b721",
-  "generated_at": "2026-06-25T01:58:27.142Z",
+  "catalog_hash": "1ed46cc68b7d1c5e775cec3955f7eb9b6b5c99aa",
+  "generated_at": "2026-06-25T08:43:28.738Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -197,53 +197,6 @@
       "hash_contenuto": "62d7a136a012fb8f65cf0f1ac5cba13018b44c56"
     },
     {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-dell-attuale-utilizzatore-sig-hamel-mauro-a",
-      "nome": "AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Hamel Mauro Antonio",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Hamel Mauro Antonio Scade il: 21/07/2026 - 12:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Hamel Mauro Antonio. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuale-utilizzatore-sig-hamel-mauro-antonio",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-07-21",
-      "data_uscita": "2026-07-21",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-25",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "c4ec436cc3eb99aa4bdb23937556c1ea64ec99ad"
-    },
-    {
       "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-dell-attuale-utilizzatore-sig-passalacqua-d",
       "nome": "AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig. Passalacqua Domenico Silvio",
       "programma": "Regione Siciliana",
@@ -289,53 +242,6 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "bf3134f2d337fff261b65906b6f2f001b952ee85"
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-dell-attuale-utilizzatore-sig-ra-rando-mari",
-      "nome": "AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig.ra Rando Maria Eugenia",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig.ra Rando Maria Eugenia Scade il: 21/07/2026 - 12:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore sig.ra Rando Maria Eugenia. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuale-utilizzatore-sigra-rando-maria-eugenia",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-07-21",
-      "data_uscita": "2026-07-21",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-25",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "a8c644788507ee37524f4d3c1c4e62aefcaa45bd"
     },
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-dell-attuale-utilizzatore-societa-fuoriluog",
@@ -2105,6 +2011,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
