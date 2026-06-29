@@ -1,59 +1,12 @@
 {
-  "ultimo_aggiornamento": "2026-06-25",
-  "versione": 50,
+  "ultimo_aggiornamento": "2026-06-29",
+  "versione": 51,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "16b04a2409d9b527688aec4e8f257d7ff7e1a1ae",
-  "generated_at": "2026-06-29T02:04:40.522Z",
+  "catalog_hash": "127311191baea1b1992e26dbf9887a6ee6189784",
+  "generated_at": "2026-06-29T10:15:37.323Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
-    {
-      "id": "invitalia-incentivi-approfondisci",
-      "nome": "Approfondisci",
-      "programma": "Invitalia",
-      "livello": "nazionale",
-      "settori": [
-        "startup",
-        "tecnologia",
-        "industria"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Grandi investimentiContratto di sviluppoIl contratto di sviluppo è l'incentivo che sostiene gli investimenti di grandi dimensioni nel settore industriale, agro-industriale, turistico e di tutela ambientale.L’investimento minimo richiesto è di 20 milioni di eur",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Approfondisci. Territorio: Italia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Startup",
-        "Nuove imprese"
-      ],
-      "territorio": "Italia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.invitalia.it/incentivi-e-strumenti/contratto-di-sviluppo",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello nazionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "",
-      "data_uscita": "",
-      "fonte_scraper": "invitalia-incentivi",
-      "url_origine": "https://www.invitalia.it/",
-      "rilevato_il": "2026-06-29",
-      "notifica_topics": [
-        "bandi_nazionali"
-      ],
-      "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74"
-    },
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-di-locazione-immobile-denominato-ex-sacos-ubicato-nel-comune-di-",
       "nome": "AVVISO PUBBLICO DI LOCAZIONE IMMOBILE DENOMINATO “EX SACOS”, ubicato nel Comune di Catania – Zona Industriale.",
@@ -2011,6 +1964,11 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
-  "source_errors": []
+  "changed": true,
+  "source_errors": [
+    {
+      "source": "invitalia-incentivi",
+      "message": "fetch failed"
+    }
+  ]
 }
