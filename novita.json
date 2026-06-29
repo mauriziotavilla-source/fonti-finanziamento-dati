@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-06-29T15:23:22.445Z",
+  "generated_at": "2026-06-29T19:29:36.321Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "16b04a2409d9b527688aec4e8f257d7ff7e1a1ae",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 0
   },
-  "nuovi": [
-    {
-      "id": "invitalia-incentivi-approfondisci",
-      "nome": "Approfondisci",
-      "livello": "nazionale",
-      "programma": "Invitalia",
-      "link_ufficiale": "https://www.invitalia.it/incentivi-e-strumenti/contratto-di-sviluppo",
-      "data_pubblicazione": "",
-      "fonte_scraper": "invitalia-incentivi",
-      "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74",
-      "notifica_topics": [
-        "bandi_nazionali"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [],
   "errori_fonti": []
 }
