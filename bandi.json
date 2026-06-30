@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-06-29",
-  "versione": 52,
+  "ultimo_aggiornamento": "2026-06-30",
+  "versione": 53,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "16b04a2409d9b527688aec4e8f257d7ff7e1a1ae",
-  "generated_at": "2026-06-30T01:59:14.506Z",
+  "catalog_hash": "39b1f7c42f67e2da4dc259994499715a2ae1836b",
+  "generated_at": "2026-06-30T08:51:15.126Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -150,53 +150,6 @@
       "hash_contenuto": "e47e76f7efe3165ddbcc31f444258ca70d19cca9"
     },
     {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-dell-attuale-utilizzatore-societa-fuoriluog",
-      "nome": "AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore Società Fuoriluogo s.a.s. di Virzì Giuseppa &amp; C.",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore Società Fuoriluogo s.a.s. di Virzì Giuseppa &amp; C. Scade il: 21/07/2026 - 12:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA in favore dell'attuale utilizzatore Società Fuoriluogo s.a.s. di Virzì Giuseppa &amp; C.. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuale-utilizzatore-societa-fuoriluogo-sas-virzi-giuseppa-c",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-07-21",
-      "data_uscita": "2026-07-21",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-06-30",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "6320ff3819c23f07216478a5870bee5bcc83ee07"
-    },
-    {
       "id": "credito-imposta-40",
       "nome": "Credito d'imposta Transizione 4.0 e 5.0",
       "programma": "Agenzia delle Entrate / MIMIT",
@@ -256,8 +209,8 @@
         "commercio",
         "turismo"
       ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR) Scade il: 30/06/2026 - 00:00 Leggi di più",
+      "stato": "chiuso",
+      "descrizione_breve": "Avvisi pubblici DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR) Scaduto Leggi di più",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR). Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -291,7 +244,7 @@
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "d90f6e5bfd9e9ecf5e93d36fe684fa57f80267fd"
+      "hash_contenuto": "52cedb08faf5ac6a6d77514c5ca73862a7a5f370"
     },
     {
       "id": "digital-europe-ai-cyber-sme",
@@ -1603,6 +1556,53 @@
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi"
     },
     {
+      "id": "regione-sicilia-bandi-s-14-pa-avviso-di-conclusione-di-indagine-di-mercato-localita-randino-prot-n-007",
+      "nome": "S. 14 PA -Avviso di conclusione di indagine di mercato località Randino - prot. n. 0071665 del 29.06.2026 - (CUP G48E25000330002)",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "chiuso",
+      "descrizione_breve": "Avvisi pubblici S. 14 PA -Avviso di conclusione di indagine di mercato località Randino - prot. n. 0071665 del 29.06.2026 - (CUP G48E25000330002) Scaduto Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando S. 14 PA -Avviso di conclusione di indagine di mercato località Randino - prot. n. 0071665 del 29.06.2026 - (CUP G48E25000330002). Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/s-14-pa-avviso-conclusione-indagine-mercato-localita-randino-prot-n-0071665-29062026-cup-g48e25000330002",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-06-29",
+      "data_uscita": "2026-06-29",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-06-30",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "6d80553dba04772f42b66ec0a14a56a13a682ab3"
+    },
+    {
       "id": "regione-sicilia-bandi-s-14-pa-avviso-conclusione-di-indagini-di-mercato-monte-cane-cup-g48e25000340006",
       "nome": "S.14 PA - Avviso conclusione di Indagini di Mercato_Monte Cane_ (CUP G48E25000340006) - Prot. n. 0070573 del 25.06.2026",
       "programma": "Regione Siciliana",
@@ -2011,6 +2011,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }

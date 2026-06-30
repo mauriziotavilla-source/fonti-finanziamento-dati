@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-06-30T01:59:14.507Z",
+  "generated_at": "2026-06-30T08:51:15.126Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "16b04a2409d9b527688aec4e8f257d7ff7e1a1ae",
+  "catalog_hash": "39b1f7c42f67e2da4dc259994499715a2ae1836b",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 0
+    "nuovi": 1,
+    "aggiornati": 1
   },
-  "nuovi": [],
-  "aggiornati": [],
+  "nuovi": [
+    {
+      "id": "regione-sicilia-bandi-s-14-pa-avviso-di-conclusione-di-indagine-di-mercato-localita-randino-prot-n-007",
+      "nome": "S. 14 PA -Avviso di conclusione di indagine di mercato località Randino - prot. n. 0071665 del 29.06.2026 - (CUP G48E25000330002)",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/s-14-pa-avviso-conclusione-indagine-mercato-localita-randino-prot-n-0071665-29062026-cup-g48e25000330002",
+      "data_pubblicazione": "2026-06-29",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "6d80553dba04772f42b66ec0a14a56a13a682ab3",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
+  "aggiornati": [
+    {
+      "id": "regione-sicilia-bandi-ddg-1112-del-02-04-2026-aggiornamento-avviso-pubblico-n-4-2024-per-l-attuazione-",
+      "nome": "DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR)",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/ddg-1112-02042026-aggiornamento-avviso-pubblico-n-42024-l-attuazione-par-gol-sicilia-finanziare-nell-ambito-piano-nazionale-ripresa-resilienza-pnrr",
+      "data_pubblicazione": "2026-04-02",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "52cedb08faf5ac6a6d77514c5ca73862a7a5f370",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "errori_fonti": []
 }
