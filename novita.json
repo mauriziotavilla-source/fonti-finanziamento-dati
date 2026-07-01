@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-07-01T02:04:37.205Z",
+  "generated_at": "2026-07-01T09:24:11.724Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "39b1f7c42f67e2da4dc259994499715a2ae1836b",
+  "catalog_hash": "27810d890f47d0d0b51cfd66afadc04aa865e994",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 3,
     "aggiornati": 0
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "regione-sicilia-bandi-avviso-sicilia-che-piace-2026-associazioni-enti-del-terzo-settore-ets-seconda-fi",
+      "nome": "Avviso “Sicilia che piace 2026 – Associazioni/Enti del Terzo Settore (ETS) - Seconda finestra”",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-sicilia-piace-2026-associazionienti-terzo-settore-ets-seconda-finestra",
+      "data_pubblicazione": "2026-08-03",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "493533a8b0b2c3d654eaeaeb3c90532f6f85a843",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-sicilia-che-piace-2026-enti-locali-seconda-finestra",
+      "nome": "Avviso “Sicilia che piace 2026 – Enti locali-Seconda finestra”",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-sicilia-piace-2026-enti-locali-seconda-finestra",
+      "data_pubblicazione": "2026-08-03",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "90353854fbd38aa921ad17abd81838f65172eb9b",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-sicilia-che-piace-2026-soggetti-privati-seconda-finestra",
+      "nome": "Avviso “Sicilia che piace 2026 – Soggetti privati - Seconda finestra”",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-sicilia-piace-2026-soggetti-privati-seconda-finestra",
+      "data_pubblicazione": "2026-08-03",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "f893d325cf815451cc089fc3964ee2787fc6a8f1",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "aggiornati": [],
   "errori_fonti": []
 }

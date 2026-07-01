@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-06-30",
-  "versione": 53,
+  "ultimo_aggiornamento": "2026-07-01",
+  "versione": 54,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "39b1f7c42f67e2da4dc259994499715a2ae1836b",
-  "generated_at": "2026-07-01T02:04:37.204Z",
+  "catalog_hash": "27810d890f47d0d0b51cfd66afadc04aa865e994",
+  "generated_at": "2026-07-01T09:24:11.723Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -55,56 +55,8 @@
       "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74"
     },
     {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-locazione-immobile-denominato-ex-sacos-ubicato-nel-comune-di-",
-      "nome": "AVVISO PUBBLICO DI LOCAZIONE IMMOBILE DENOMINATO “EX SACOS”, ubicato nel Comune di Catania – Zona Industriale.",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo",
-        "industria"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI LOCAZIONE IMMOBILE DENOMINATO “EX SACOS”, ubicato nel Comune di Catania – Zona Industriale. Scade il: 23/07/2026 - 12:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI LOCAZIONE IMMOBILE DENOMINATO “EX SACOS”, ubicato nel Comune di Catania – Zona Industriale.. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-locazione-immobile-denominato-ex-sacos-ubicato-nel-comune-catania-zona-industriale",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-07-23",
-      "data_uscita": "2026-07-23",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-01",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "15cb61fac9b47cb1e930519bfa636b7fee302c42"
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-in-favore-degli-attuali-utilizzatori-sigg-ri-cicero-g",
-      "nome": "AVVISO PUBBLICO DI VENDITA in favore degli attuali utilizzatori sigg.ri Cicero Grazia e Cosentino Calogero",
+      "id": "regione-sicilia-bandi-avviso-sicilia-che-piace-2026-associazioni-enti-del-terzo-settore-ets-seconda-fi",
+      "nome": "Avviso “Sicilia che piace 2026 – Associazioni/Enti del Terzo Settore (ETS) - Seconda finestra”",
       "programma": "Regione Siciliana",
       "livello": "regionale",
       "settori": [
@@ -113,8 +65,8 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA in favore degli attuali utilizzatori sigg.ri Cicero Grazia e Cosentino Calogero Scade il: 21/07/2026 - 12:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA in favore degli attuali utilizzatori sigg.ri Cicero Grazia e Cosentino Calogero. Territorio: Sicilia.",
+      "descrizione_breve": "Avvisi pubblici Avviso “Sicilia che piace 2026 – Associazioni/Enti del Terzo Settore (ETS) - Seconda finestra” Scade il: 03/08/2026 - 23:59 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso “Sicilia che piace 2026 – Associazioni/Enti del Terzo Settore (ETS) - Seconda finestra”. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
       "beneficiari": [
@@ -133,21 +85,115 @@
         "Documenti richiesti dal portale"
       ],
       "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-favore-attuali-utilizzatori-siggri-cicero-grazia-cosentino-calogero",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-sicilia-piace-2026-associazionienti-terzo-settore-ets-seconda-finestra",
       "checklist": [
         "Aprire il link ufficiale e verificare l'avviso completo",
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-07-21",
-      "data_uscita": "2026-07-21",
+      "data_pubblicazione": "2026-08-03",
+      "data_uscita": "2026-08-03",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-07-01",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "e47e76f7efe3165ddbcc31f444258ca70d19cca9"
+      "hash_contenuto": "493533a8b0b2c3d654eaeaeb3c90532f6f85a843"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-sicilia-che-piace-2026-enti-locali-seconda-finestra",
+      "nome": "Avviso “Sicilia che piace 2026 – Enti locali-Seconda finestra”",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici Avviso “Sicilia che piace 2026 – Enti locali-Seconda finestra” Scade il: 03/08/2026 - 23:59 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso “Sicilia che piace 2026 – Enti locali-Seconda finestra”. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-sicilia-piace-2026-enti-locali-seconda-finestra",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-08-03",
+      "data_uscita": "2026-08-03",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-07-01",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "90353854fbd38aa921ad17abd81838f65172eb9b"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-sicilia-che-piace-2026-soggetti-privati-seconda-finestra",
+      "nome": "Avviso “Sicilia che piace 2026 – Soggetti privati - Seconda finestra”",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici Avviso “Sicilia che piace 2026 – Soggetti privati - Seconda finestra” Scade il: 03/08/2026 - 12:59 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso “Sicilia che piace 2026 – Soggetti privati - Seconda finestra”. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-sicilia-piace-2026-soggetti-privati-seconda-finestra",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-08-03",
+      "data_uscita": "2026-08-03",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-07-01",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "f893d325cf815451cc089fc3964ee2787fc6a8f1"
     },
     {
       "id": "credito-imposta-40",
@@ -1054,53 +1100,6 @@
         "bandi_europei"
       ],
       "hash_contenuto": "e19aff73c09d1102261fb5fa7867ae0c657f20a7"
-    },
-    {
-      "id": "regione-sicilia-bandi-oggetto-concessione-temporanea-postazioni-arnie-2-avviso-anno-2026-trasmissione-",
-      "nome": "OGGETTO: Concessione temporanea postazioni arnie 2^ AVVISO anno 2026 trasmissione elenco postazioni arnie ancora disponibili.",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici OGGETTO: Concessione temporanea postazioni arnie 2^ AVVISO anno 2026 trasmissione elenco postazioni arnie ancora disponibili. Scade il: 03/07/2026 - 12:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando OGGETTO: Concessione temporanea postazioni arnie 2^ AVVISO anno 2026 trasmissione elenco postazioni arnie ancora disponibili.. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/oggetto-concessione-temporanea-postazioni-arnie-2-avviso-anno-2026-trasmissione-elenco-postazioni-arnie-ancora-disponibili",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-07-03",
-      "data_uscita": "2026-07-03",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-01",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "259fbec790581e78bff5eab793c58f6acbb61a26"
     },
     {
       "id": "ue-funding-opportunities-open-and-upcoming-calls-for-horizon-europe",
@@ -2011,6 +2010,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
