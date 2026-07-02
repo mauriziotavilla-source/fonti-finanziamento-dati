@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-07-01",
-  "versione": 54,
+  "ultimo_aggiornamento": "2026-07-02",
+  "versione": 55,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "27810d890f47d0d0b51cfd66afadc04aa865e994",
-  "generated_at": "2026-07-02T01:57:57.517Z",
+  "catalog_hash": "181dd8ef30f8981591ad718bfd7967626457e69d",
+  "generated_at": "2026-07-02T08:37:40.353Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -1602,53 +1602,6 @@
       "hash_contenuto": "6d80553dba04772f42b66ec0a14a56a13a682ab3"
     },
     {
-      "id": "regione-sicilia-bandi-s-14-pa-avviso-conclusione-di-indagini-di-mercato-monte-cane-cup-g48e25000340006",
-      "nome": "S.14 PA - Avviso conclusione di Indagini di Mercato_Monte Cane_ (CUP G48E25000340006) - Prot. n. 0070573 del 25.06.2026",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Avvisi pubblici S.14 PA - Avviso conclusione di Indagini di Mercato_Monte Cane_ (CUP G48E25000340006) - Prot. n. 0070573 del 25.06.2026 Scaduto Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando S.14 PA - Avviso conclusione di Indagini di Mercato_Monte Cane_ (CUP G48E25000340006) - Prot. n. 0070573 del 25.06.2026. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/s14-pa-avviso-conclusione-indagini-mercatomonte-cane-cup-g48e25000340006-prot-n-0070573-25062026",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-06-25",
-      "data_uscita": "2026-06-25",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-02",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "86b7415bb45227971fe88b2426009e1401ba0df7"
-    },
-    {
       "id": "regione-sicilia-bandi-s-14-pa-avviso-conclusione-indagini-di-mercato-capo-gallo-cup-g78e25000250006-pr",
       "nome": "S.14 PA - Avviso Conclusione indagini di mercato __Capo Gallo_ (CUP G78E25000250006) .Prot. n. 0070181 del 24.06.2026",
       "programma": "Regione Siciliana",
@@ -2010,6 +1963,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
