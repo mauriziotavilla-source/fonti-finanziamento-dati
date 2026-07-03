@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-07-02",
-  "versione": 55,
+  "ultimo_aggiornamento": "2026-07-03",
+  "versione": 56,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "181dd8ef30f8981591ad718bfd7967626457e69d",
-  "generated_at": "2026-07-03T08:43:01.385Z",
+  "catalog_hash": "31f5e5478b6875b6007144ba521d7ba3fc10e1c7",
+  "generated_at": "2026-07-03T13:27:50.849Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -194,6 +194,54 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "f893d325cf815451cc089fc3964ee2787fc6a8f1"
+    },
+    {
+      "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
+      "nome": "BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Bandi di gara BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione Scade il: 07/09/2026 - 23:59 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bandoavviso-regia-ob-21-az-5-cod-221502acq-imprese-acquicole-investimenti-produttivi-imprese-acquacoltura-avanzati-sotto-profilo-sostenibilita-ambientale",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-09-07",
+      "data_uscita": "2026-09-07",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-07-03",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "0ced48c9eac59b80a6e8b169a85d31dbcc27e14f"
     },
     {
       "id": "credito-imposta-40",
@@ -1602,53 +1650,6 @@
       "hash_contenuto": "6d80553dba04772f42b66ec0a14a56a13a682ab3"
     },
     {
-      "id": "regione-sicilia-bandi-s-14-pa-avviso-conclusione-indagini-di-mercato-capo-gallo-cup-g78e25000250006-pr",
-      "nome": "S.14 PA - Avviso Conclusione indagini di mercato __Capo Gallo_ (CUP G78E25000250006) .Prot. n. 0070181 del 24.06.2026",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Avvisi pubblici S.14 PA - Avviso Conclusione indagini di mercato __Capo Gallo_ (CUP G78E25000250006) .Prot. n. 0070181 del 24.06.2026 Scaduto Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando S.14 PA - Avviso Conclusione indagini di mercato __Capo Gallo_ (CUP G78E25000250006) .Prot. n. 0070181 del 24.06.2026. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/s14-pa-avviso-conclusione-indagini-mercato-capo-gallo-cup-g78e25000250006-prot-n-0070181-24062026",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-06-24",
-      "data_uscita": "2026-06-24",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-03",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "7c009d2d81c0dd3bbf10c5805e57b578b22a6534"
-    },
-    {
       "id": "simest-export",
       "nome": "SIMEST – Finanziamenti internazionalizzazione PMI",
       "programma": "SIMEST / MIMIT",
@@ -1963,6 +1964,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
