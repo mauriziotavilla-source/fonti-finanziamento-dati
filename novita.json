@@ -1,17 +1,91 @@
 {
-  "generated_at": "2026-07-05T01:43:38.118Z",
+  "generated_at": "2026-07-05T08:35:37.035Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "06c35834a120262fd159df139a63edb175574889",
+  "catalog_hash": "31f5e5478b6875b6007144ba521d7ba3fc10e1c7",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 6,
     "aggiornati": 0
   },
-  "nuovi": [],
-  "aggiornati": [],
-  "errori_fonti": [
+  "nuovi": [
     {
-      "source": "regione-sicilia-bandi",
-      "message": "fetch failed"
+      "id": "regione-sicilia-bandi-avviso-sicilia-che-piace-2026-associazioni-enti-del-terzo-settore-ets-seconda-fi",
+      "nome": "Avviso “Sicilia che piace 2026 – Associazioni/Enti del Terzo Settore (ETS) - Seconda finestra”",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-sicilia-piace-2026-associazionienti-terzo-settore-ets-seconda-finestra",
+      "data_pubblicazione": "2026-08-03",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "493533a8b0b2c3d654eaeaeb3c90532f6f85a843",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-sicilia-che-piace-2026-enti-locali-seconda-finestra",
+      "nome": "Avviso “Sicilia che piace 2026 – Enti locali-Seconda finestra”",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-sicilia-piace-2026-enti-locali-seconda-finestra",
+      "data_pubblicazione": "2026-08-03",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "90353854fbd38aa921ad17abd81838f65172eb9b",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-sicilia-che-piace-2026-soggetti-privati-seconda-finestra",
+      "nome": "Avviso “Sicilia che piace 2026 – Soggetti privati - Seconda finestra”",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-sicilia-piace-2026-soggetti-privati-seconda-finestra",
+      "data_pubblicazione": "2026-08-03",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "f893d325cf815451cc089fc3964ee2787fc6a8f1",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
+      "nome": "BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bandoavviso-regia-ob-21-az-5-cod-221502acq-imprese-acquicole-investimenti-produttivi-imprese-acquacoltura-avanzati-sotto-profilo-sostenibilita-ambientale",
+      "data_pubblicazione": "2026-09-07",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "0ced48c9eac59b80a6e8b169a85d31dbcc27e14f",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-ddg-1112-del-02-04-2026-aggiornamento-avviso-pubblico-n-4-2024-per-l-attuazione-",
+      "nome": "DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR)",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/ddg-1112-02042026-aggiornamento-avviso-pubblico-n-42024-l-attuazione-par-gol-sicilia-finanziare-nell-ambito-piano-nazionale-ripresa-resilienza-pnrr",
+      "data_pubblicazione": "2026-04-02",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "52cedb08faf5ac6a6d77514c5ca73862a7a5f370",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-s-14-pa-avviso-di-conclusione-di-indagine-di-mercato-localita-randino-prot-n-007",
+      "nome": "S. 14 PA -Avviso di conclusione di indagine di mercato località Randino - prot. n. 0071665 del 29.06.2026 - (CUP G48E25000330002)",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/s-14-pa-avviso-conclusione-indagine-mercato-localita-randino-prot-n-0071665-29062026-cup-g48e25000330002",
+      "data_pubblicazione": "2026-06-29",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "6d80553dba04772f42b66ec0a14a56a13a682ab3",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
     }
-  ]
+  ],
+  "aggiornati": [],
+  "errori_fonti": []
 }
