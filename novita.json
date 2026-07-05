@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-07-04T18:50:32.732Z",
+  "generated_at": "2026-07-05T01:43:38.118Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "31f5e5478b6875b6007144ba521d7ba3fc10e1c7",
+  "catalog_hash": "06c35834a120262fd159df139a63edb175574889",
   "counts": {
     "nuovi": 0,
     "aggiornati": 0
   },
   "nuovi": [],
   "aggiornati": [],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "regione-sicilia-bandi",
+      "message": "fetch failed"
+    }
+  ]
 }
