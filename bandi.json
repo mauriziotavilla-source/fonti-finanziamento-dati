@@ -4,7 +4,7 @@
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
   "catalog_hash": "e87c0c09e43e11ca0b5a62ceee1b7687b6922ded",
-  "generated_at": "2026-07-06T09:49:04.947Z",
+  "generated_at": "2026-07-06T14:50:29.508Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -2058,6 +2058,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": true,
+  "changed": false,
   "source_errors": []
 }
