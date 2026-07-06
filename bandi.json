@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-07-05",
-  "versione": 58,
+  "ultimo_aggiornamento": "2026-07-06",
+  "versione": 59,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "31f5e5478b6875b6007144ba521d7ba3fc10e1c7",
-  "generated_at": "2026-07-06T01:49:25.430Z",
+  "catalog_hash": "e87c0c09e43e11ca0b5a62ceee1b7687b6922ded",
+  "generated_at": "2026-07-06T09:49:04.947Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -102,8 +102,8 @@
       "hash_contenuto": "493533a8b0b2c3d654eaeaeb3c90532f6f85a843"
     },
     {
-      "id": "regione-sicilia-bandi-avviso-sicilia-che-piace-2026-enti-locali-seconda-finestra",
-      "nome": "Avviso “Sicilia che piace 2026 – Enti locali-Seconda finestra”",
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-bene-immobile-sito-nel-comune-di-taormina-c-da-spi",
+      "nome": "AVVISO PUBBLICO DI VENDITA di bene immobile sito nel Comune di Taormina, C/da Spisone",
       "programma": "Regione Siciliana",
       "livello": "regionale",
       "settori": [
@@ -112,8 +112,8 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici Avviso “Sicilia che piace 2026 – Enti locali-Seconda finestra” Scade il: 03/08/2026 - 23:59 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso “Sicilia che piace 2026 – Enti locali-Seconda finestra”. Territorio: Sicilia.",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA di bene immobile sito nel Comune di Taormina, C/da Spisone Scade il: 04/08/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA di bene immobile sito nel Comune di Taormina, C/da Spisone. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
       "beneficiari": [
@@ -132,25 +132,25 @@
         "Documenti richiesti dal portale"
       ],
       "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-sicilia-piace-2026-enti-locali-seconda-finestra",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-taormina-cda-spisone",
       "checklist": [
         "Aprire il link ufficiale e verificare l'avviso completo",
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-08-03",
-      "data_uscita": "2026-08-03",
+      "data_pubblicazione": "2026-08-04",
+      "data_uscita": "2026-08-04",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-07-06",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "90353854fbd38aa921ad17abd81838f65172eb9b"
+      "hash_contenuto": "7e47e9c6a0f64f29060c83f20f0709d5a11d3d86"
     },
     {
-      "id": "regione-sicilia-bandi-avviso-sicilia-che-piace-2026-soggetti-privati-seconda-finestra",
-      "nome": "Avviso “Sicilia che piace 2026 – Soggetti privati - Seconda finestra”",
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-un-bene-immobile-sito-nel-comune-di-aci-castello-l",
+      "nome": "AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Aci Castello, loc.tà Via degli Oleandri",
       "programma": "Regione Siciliana",
       "livello": "regionale",
       "settori": [
@@ -159,8 +159,8 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici Avviso “Sicilia che piace 2026 – Soggetti privati - Seconda finestra” Scade il: 03/08/2026 - 12:59 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso “Sicilia che piace 2026 – Soggetti privati - Seconda finestra”. Territorio: Sicilia.",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Aci Castello, loc.tà Via degli Oleandri Scade il: 04/08/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Aci Castello, loc.tà Via degli Oleandri. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
       "beneficiari": [
@@ -179,21 +179,162 @@
         "Documenti richiesti dal portale"
       ],
       "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-sicilia-piace-2026-soggetti-privati-seconda-finestra",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-aci-castello-locta-oleandri",
       "checklist": [
         "Aprire il link ufficiale e verificare l'avviso completo",
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-08-03",
-      "data_uscita": "2026-08-03",
+      "data_pubblicazione": "2026-08-04",
+      "data_uscita": "2026-08-04",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-07-06",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "f893d325cf815451cc089fc3964ee2787fc6a8f1"
+      "hash_contenuto": "bfa21fec7efbe5b4df497e499c56b8c1b28c608b"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-un-bene-immobile-sito-nel-comune-di-acireale-loc-t",
+      "nome": "AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Acireale, loc.tà Santa Tecla",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Acireale, loc.tà Santa Tecla Scade il: 04/08/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Acireale, loc.tà Santa Tecla. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-acireale-locta-santa-tecla",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-08-04",
+      "data_uscita": "2026-08-04",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-07-06",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "b2a975dbe0adb710fdad17ec20f0c1ed320a3c0e"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-un-bene-immobile-sito-nel-comune-di-messina-loc-ta",
+      "nome": "AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Messina, loc.tà Galati Marina",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Messina, loc.tà Galati Marina Scade il: 04/08/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Messina, loc.tà Galati Marina. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-messina-locta-galati-marina",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-08-04",
+      "data_uscita": "2026-08-04",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-07-06",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "c571234cfb2537361062b1bc3b34da843985e3b2"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-un-bene-immobile-sito-nel-comune-di-messina-loc-ta",
+      "nome": "AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Messina, loc.tà Villaggio Sant'Agata",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Messina, loc.tà Villaggio Sant'Agata Scade il: 04/08/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Messina, loc.tà Villaggio Sant'Agata. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-messina-locta-villaggio-sant-agata",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-08-04",
+      "data_uscita": "2026-08-04",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-07-06",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "68d5bda21226a2ffb423b007aec2128a09edd83b"
     },
     {
       "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
@@ -1603,53 +1744,6 @@
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi"
     },
     {
-      "id": "regione-sicilia-bandi-s-14-pa-avviso-di-conclusione-di-indagine-di-mercato-localita-randino-prot-n-007",
-      "nome": "S. 14 PA -Avviso di conclusione di indagine di mercato località Randino - prot. n. 0071665 del 29.06.2026 - (CUP G48E25000330002)",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Avvisi pubblici S. 14 PA -Avviso di conclusione di indagine di mercato località Randino - prot. n. 0071665 del 29.06.2026 - (CUP G48E25000330002) Scaduto Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando S. 14 PA -Avviso di conclusione di indagine di mercato località Randino - prot. n. 0071665 del 29.06.2026 - (CUP G48E25000330002). Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/s-14-pa-avviso-conclusione-indagine-mercato-localita-randino-prot-n-0071665-29062026-cup-g48e25000330002",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-06-29",
-      "data_uscita": "2026-06-29",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-06",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "6d80553dba04772f42b66ec0a14a56a13a682ab3"
-    },
-    {
       "id": "simest-export",
       "nome": "SIMEST – Finanziamenti internazionalizzazione PMI",
       "programma": "SIMEST / MIMIT",
@@ -1964,6 +2058,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }

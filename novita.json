@@ -1,12 +1,78 @@
 {
-  "generated_at": "2026-07-06T01:49:25.430Z",
+  "generated_at": "2026-07-06T09:49:04.947Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "31f5e5478b6875b6007144ba521d7ba3fc10e1c7",
+  "catalog_hash": "e87c0c09e43e11ca0b5a62ceee1b7687b6922ded",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 5,
     "aggiornati": 0
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-bene-immobile-sito-nel-comune-di-taormina-c-da-spi",
+      "nome": "AVVISO PUBBLICO DI VENDITA di bene immobile sito nel Comune di Taormina, C/da Spisone",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-taormina-cda-spisone",
+      "data_pubblicazione": "2026-08-04",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "7e47e9c6a0f64f29060c83f20f0709d5a11d3d86",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-un-bene-immobile-sito-nel-comune-di-aci-castello-l",
+      "nome": "AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Aci Castello, loc.tà Via degli Oleandri",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-aci-castello-locta-oleandri",
+      "data_pubblicazione": "2026-08-04",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "bfa21fec7efbe5b4df497e499c56b8c1b28c608b",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-un-bene-immobile-sito-nel-comune-di-acireale-loc-t",
+      "nome": "AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Acireale, loc.tà Santa Tecla",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-acireale-locta-santa-tecla",
+      "data_pubblicazione": "2026-08-04",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "b2a975dbe0adb710fdad17ec20f0c1ed320a3c0e",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-un-bene-immobile-sito-nel-comune-di-messina-loc-ta",
+      "nome": "AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Messina, loc.tà Galati Marina",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-messina-locta-galati-marina",
+      "data_pubblicazione": "2026-08-04",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "c571234cfb2537361062b1bc3b34da843985e3b2",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-un-bene-immobile-sito-nel-comune-di-messina-loc-ta",
+      "nome": "AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Messina, loc.tà Villaggio Sant'Agata",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-messina-locta-villaggio-sant-agata",
+      "data_pubblicazione": "2026-08-04",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "68d5bda21226a2ffb423b007aec2128a09edd83b",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "aggiornati": [],
   "errori_fonti": []
 }
