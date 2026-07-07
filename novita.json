@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-07-07T09:01:01.371Z",
+  "generated_at": "2026-07-07T14:00:00.830Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "d9698adc91c7a98124127c359ddc51d54bd6f43e",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 1
   },
-  "nuovi": [
-    {
-      "id": "regione-sicilia-bandi-avviso-sicilia-che-piace-2026-soggetti-privati-seconda-finestra",
-      "nome": "Avviso “Sicilia che piace 2026 – Soggetti privati - Seconda finestra”",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-sicilia-piace-2026-soggetti-privati-seconda-finestra",
-      "data_pubblicazione": "2026-08-03",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "f893d325cf815451cc089fc3964ee2787fc6a8f1",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-un-bene-immobile-sito-nel-comune-di-messina-loc-ta",
