@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-07-07",
-  "versione": 60,
+  "ultimo_aggiornamento": "2026-07-08",
+  "versione": 61,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "d9698adc91c7a98124127c359ddc51d54bd6f43e",
-  "generated_at": "2026-07-08T01:19:33.507Z",
+  "catalog_hash": "120328d2bc1a5f040636b84d86bf4b50f3e5e951",
+  "generated_at": "2026-07-08T08:03:00.559Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -53,100 +53,6 @@
         "bandi_nazionali"
       ],
       "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74"
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-sicilia-che-piace-2026-associazioni-enti-del-terzo-settore-ets-seconda-fi",
-      "nome": "Avviso “Sicilia che piace 2026 – Associazioni/Enti del Terzo Settore (ETS) - Seconda finestra”",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici Avviso “Sicilia che piace 2026 – Associazioni/Enti del Terzo Settore (ETS) - Seconda finestra” Scade il: 03/08/2026 - 23:59 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso “Sicilia che piace 2026 – Associazioni/Enti del Terzo Settore (ETS) - Seconda finestra”. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-sicilia-piace-2026-associazionienti-terzo-settore-ets-seconda-finestra",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-08-03",
-      "data_uscita": "2026-08-03",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-08",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "493533a8b0b2c3d654eaeaeb3c90532f6f85a843"
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-sicilia-che-piace-2026-soggetti-privati-seconda-finestra",
-      "nome": "Avviso “Sicilia che piace 2026 – Soggetti privati - Seconda finestra”",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici Avviso “Sicilia che piace 2026 – Soggetti privati - Seconda finestra” Scade il: 03/08/2026 - 12:59 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso “Sicilia che piace 2026 – Soggetti privati - Seconda finestra”. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-sicilia-piace-2026-soggetti-privati-seconda-finestra",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-08-03",
-      "data_uscita": "2026-08-03",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-08",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "f893d325cf815451cc089fc3964ee2787fc6a8f1"
     },
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-bene-immobile-sito-nel-comune-di-taormina-c-da-spi",
@@ -2058,6 +1964,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
