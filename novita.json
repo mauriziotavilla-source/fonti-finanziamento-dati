@@ -1,38 +1,27 @@
 {
-  "generated_at": "2026-07-09T08:59:23.308Z",
+  "generated_at": "2026-07-09T14:23:04.413Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "120328d2bc1a5f040636b84d86bf4b50f3e5e951",
+  "catalog_hash": "3d74118fcba997c3e499776eb5c79079adf8bd8d",
   "counts": {
-    "nuovi": 6,
-    "aggiornati": 0
+    "nuovi": 1,
+    "aggiornati": 1
   },
   "nuovi": [
     {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-bene-immobile-sito-nel-comune-di-taormina-c-da-spi",
-      "nome": "AVVISO PUBBLICO DI VENDITA di bene immobile sito nel Comune di Taormina, C/da Spisone",
+      "id": "regione-sicilia-bandi-09-luglio-2026-st-catania-concessione-temporanea-postazioni-arnie-ii-avviso-anno",
+      "nome": "09 luglio 2026 - ST CATANIA - Concessione temporanea postazioni arnie – II AVVISO anno 2026 - Determina n.150 del 08/07/2026 di aggiudicazione provvisoria e relativo verbale di gara.",
       "livello": "regionale",
       "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-taormina-cda-spisone",
-      "data_pubblicazione": "2026-08-04",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/09-luglio-2026-st-catania-concessione-temporanea-postazioni-arnie-ii-avviso-anno-2026-determina-n150-08072026-aggiudicazione-provvisoria-relativo-verbale-gara",
+      "data_pubblicazione": "2026-07-08",
       "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "7e47e9c6a0f64f29060c83f20f0709d5a11d3d86",
+      "hash_contenuto": "7f70f72a71ae434062f52e70c6158d3e2a3d4179",
       "notifica_topics": [
         "bandi_regionali"
       ]
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-un-bene-immobile-sito-nel-comune-di-aci-castello-l",
-      "nome": "AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Aci Castello, loc.tà Via degli Oleandri",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-aci-castello-locta-oleandri",
-      "data_pubblicazione": "2026-08-04",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "bfa21fec7efbe5b4df497e499c56b8c1b28c608b",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
+    }
+  ],
+  "aggiornati": [
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-un-bene-immobile-sito-nel-comune-di-messina-loc-ta",
       "nome": "AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Messina, loc.tà Galati Marina",
@@ -45,47 +34,7 @@
       "notifica_topics": [
         "bandi_regionali"
       ]
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-un-bene-immobile-sito-nel-comune-di-messina-loc-ta",
-      "nome": "AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Messina, loc.tà Villaggio Sant'Agata",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-messina-locta-villaggio-sant-agata",
-      "data_pubblicazione": "2026-08-04",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "68d5bda21226a2ffb423b007aec2128a09edd83b",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
-      "nome": "BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bandoavviso-regia-ob-21-az-5-cod-221502acq-imprese-acquicole-investimenti-produttivi-imprese-acquacoltura-avanzati-sotto-profilo-sostenibilita-ambientale",
-      "data_pubblicazione": "2026-09-07",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "0ced48c9eac59b80a6e8b169a85d31dbcc27e14f",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-ddg-1112-del-02-04-2026-aggiornamento-avviso-pubblico-n-4-2024-per-l-attuazione-",
-      "nome": "DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR)",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/ddg-1112-02042026-aggiornamento-avviso-pubblico-n-42024-l-attuazione-par-gol-sicilia-finanziare-nell-ambito-piano-nazionale-ripresa-resilienza-pnrr",
-      "data_pubblicazione": "2026-04-02",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "52cedb08faf5ac6a6d77514c5ca73862a7a5f370",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
     }
   ],
-  "aggiornati": [],
   "errori_fonti": []
 }
