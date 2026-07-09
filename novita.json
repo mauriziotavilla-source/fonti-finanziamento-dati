@@ -1,26 +1,17 @@
 {
-  "generated_at": "2026-07-08T19:01:26.126Z",
+  "generated_at": "2026-07-09T01:27:42.449Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "120328d2bc1a5f040636b84d86bf4b50f3e5e951",
+  "catalog_hash": "06c35834a120262fd159df139a63edb175574889",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 1
+    "aggiornati": 0
   },
   "nuovi": [],
-  "aggiornati": [
+  "aggiornati": [],
+  "errori_fonti": [
     {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-un-bene-immobile-sito-nel-comune-di-messina-loc-ta",
-      "nome": "AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Messina, loc.tà Galati Marina",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-messina-locta-galati-marina",
-      "data_pubblicazione": "2026-08-04",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "c571234cfb2537361062b1bc3b34da843985e3b2",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
+      "source": "regione-sicilia-bandi",
+      "message": "fetch failed"
     }
-  ],
-  "errori_fonti": []
+  ]
 }
