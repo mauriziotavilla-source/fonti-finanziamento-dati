@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-07-09",
-  "versione": 64,
+  "ultimo_aggiornamento": "2026-07-10",
+  "versione": 65,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "3d74118fcba997c3e499776eb5c79079adf8bd8d",
-  "generated_at": "2026-07-10T01:24:59.771Z",
+  "catalog_hash": "76158ccb53575d964a51df4f9b80ec543b107ec0",
+  "generated_at": "2026-07-10T08:55:19.644Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -100,100 +100,6 @@
         "bandi_nazionali"
       ],
       "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74"
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-bene-immobile-sito-nel-comune-di-taormina-c-da-spi",
-      "nome": "AVVISO PUBBLICO DI VENDITA di bene immobile sito nel Comune di Taormina, C/da Spisone",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA di bene immobile sito nel Comune di Taormina, C/da Spisone Scade il: 04/08/2026 - 12:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA di bene immobile sito nel Comune di Taormina, C/da Spisone. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-taormina-cda-spisone",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-08-04",
-      "data_uscita": "2026-08-04",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-10",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "7e47e9c6a0f64f29060c83f20f0709d5a11d3d86"
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-un-bene-immobile-sito-nel-comune-di-aci-castello-l",
-      "nome": "AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Aci Castello, loc.tà Via degli Oleandri",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Aci Castello, loc.tà Via degli Oleandri Scade il: 04/08/2026 - 12:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Aci Castello, loc.tà Via degli Oleandri. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-aci-castello-locta-oleandri",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-08-04",
-      "data_uscita": "2026-08-04",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-10",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "bfa21fec7efbe5b4df497e499c56b8c1b28c608b"
     },
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-un-bene-immobile-sito-nel-comune-di-messina-loc-ta",
@@ -1964,6 +1870,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
