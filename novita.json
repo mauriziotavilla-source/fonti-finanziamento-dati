@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-10T13:49:32.054Z",
+  "generated_at": "2026-07-10T19:11:42.366Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "76158ccb53575d964a51df4f9b80ec543b107ec0",
+  "catalog_hash": "0c31a7ce57dc6fc26c951916db31e1961df1c8e1",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 0
+    "aggiornati": 1
   },
   "nuovi": [],
-  "aggiornati": [],
+  "aggiornati": [
+    {
+      "id": "regione-sicilia-bandi-09-luglio-2026-st-catania-concessione-temporanea-postazioni-arnie-ii-avviso-anno",
+      "nome": "09 luglio 2026 - ST CATANIA - Concessione temporanea postazioni arnie – II AVVISO anno 2026 - Determina n.150 del 08/07/2026 di aggiudicazione provvisoria e relativo verbale di gara.",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/09-luglio-2026-st-catania-concessione-temporanea-postazioni-arnie-ii-avviso-anno-2026-determina-n150-08072026-aggiudicazione-provvisoria-relativo-verbale-gara",
+      "data_pubblicazione": "2026-07-08",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "4b53854e3a3f82046be8749bdb6b1bac9df33d93",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "errori_fonti": []
 }

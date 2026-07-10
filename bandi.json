@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-07-10",
-  "versione": 65,
+  "versione": 66,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "76158ccb53575d964a51df4f9b80ec543b107ec0",
-  "generated_at": "2026-07-10T13:49:32.054Z",
+  "catalog_hash": "0c31a7ce57dc6fc26c951916db31e1961df1c8e1",
+  "generated_at": "2026-07-10T19:11:42.365Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -17,8 +17,8 @@
         "commercio",
         "turismo"
       ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici 09 luglio 2026 - ST CATANIA - Concessione temporanea postazioni arnie – II AVVISO anno 2026 - Determina n.150 del 08/07/2026 di aggiudicazione provvisoria e relativo verbale di gara. Scade il: 10/07/2026 - 20:00 Leggi di più",
+      "stato": "chiuso",
+      "descrizione_breve": "Avvisi pubblici 09 luglio 2026 - ST CATANIA - Concessione temporanea postazioni arnie – II AVVISO anno 2026 - Determina n.150 del 08/07/2026 di aggiudicazione provvisoria e relativo verbale di gara. Scaduto Leggi di più",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando 09 luglio 2026 - ST CATANIA - Concessione temporanea postazioni arnie – II AVVISO anno 2026 - Determina n.150 del 08/07/2026 di aggiudicazione provvisoria e relativo verbale di gara.. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -52,7 +52,7 @@
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "7f70f72a71ae434062f52e70c6158d3e2a3d4179"
+      "hash_contenuto": "4b53854e3a3f82046be8749bdb6b1bac9df33d93"
     },
     {
       "id": "invitalia-incentivi-approfondisci",
@@ -1870,6 +1870,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
