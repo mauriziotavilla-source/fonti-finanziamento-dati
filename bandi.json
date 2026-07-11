@@ -1,59 +1,12 @@
 {
-  "ultimo_aggiornamento": "2026-07-10",
-  "versione": 66,
+  "ultimo_aggiornamento": "2026-07-11",
+  "versione": 67,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "0c31a7ce57dc6fc26c951916db31e1961df1c8e1",
-  "generated_at": "2026-07-10T19:11:42.365Z",
+  "catalog_hash": "06c35834a120262fd159df139a63edb175574889",
+  "generated_at": "2026-07-11T01:18:32.108Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
-    {
-      "id": "regione-sicilia-bandi-09-luglio-2026-st-catania-concessione-temporanea-postazioni-arnie-ii-avviso-anno",
-      "nome": "09 luglio 2026 - ST CATANIA - Concessione temporanea postazioni arnie – II AVVISO anno 2026 - Determina n.150 del 08/07/2026 di aggiudicazione provvisoria e relativo verbale di gara.",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Avvisi pubblici 09 luglio 2026 - ST CATANIA - Concessione temporanea postazioni arnie – II AVVISO anno 2026 - Determina n.150 del 08/07/2026 di aggiudicazione provvisoria e relativo verbale di gara. Scaduto Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando 09 luglio 2026 - ST CATANIA - Concessione temporanea postazioni arnie – II AVVISO anno 2026 - Determina n.150 del 08/07/2026 di aggiudicazione provvisoria e relativo verbale di gara.. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/09-luglio-2026-st-catania-concessione-temporanea-postazioni-arnie-ii-avviso-anno-2026-determina-n150-08072026-aggiudicazione-provvisoria-relativo-verbale-gara",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-07-08",
-      "data_uscita": "2026-07-08",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-10",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "4b53854e3a3f82046be8749bdb6b1bac9df33d93"
-    },
     {
       "id": "invitalia-incentivi-approfondisci",
       "nome": "Approfondisci",
@@ -95,106 +48,11 @@
       "data_uscita": "",
       "fonte_scraper": "invitalia-incentivi",
       "url_origine": "https://www.invitalia.it/",
-      "rilevato_il": "2026-07-10",
+      "rilevato_il": "2026-07-11",
       "notifica_topics": [
         "bandi_nazionali"
       ],
       "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74"
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-di-un-bene-immobile-sito-nel-comune-di-messina-loc-ta",
-      "nome": "AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Messina, loc.tà Galati Marina",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Messina, loc.tà Galati Marina Scade il: 04/08/2026 - 12:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA di un bene immobile sito nel Comune di Messina, loc.tà Galati Marina. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-messina-locta-galati-marina",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-08-04",
-      "data_uscita": "2026-08-04",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-10",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "c571234cfb2537361062b1bc3b34da843985e3b2"
-    },
-    {
-      "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
-      "nome": "BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo",
-        "green"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Bandi di gara BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione Scade il: 07/09/2026 - 23:59 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bandoavviso-regia-ob-21-az-5-cod-221502acq-imprese-acquicole-investimenti-produttivi-imprese-acquacoltura-avanzati-sotto-profilo-sostenibilita-ambientale",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-09-07",
-      "data_uscita": "2026-09-07",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-10",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "0ced48c9eac59b80a6e8b169a85d31dbcc27e14f"
     },
     {
       "id": "credito-imposta-40",
@@ -245,53 +103,6 @@
       ],
       "fonte_scraper": "manual_seed",
       "url_origine": "https://www.mimit.gov.it/it/incentivi/credito-d-imposta-per-investimenti-in-beni-strumentali"
-    },
-    {
-      "id": "regione-sicilia-bandi-ddg-1112-del-02-04-2026-aggiornamento-avviso-pubblico-n-4-2024-per-l-attuazione-",
-      "nome": "DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR)",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Avvisi pubblici DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR) Scaduto Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR). Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/ddg-1112-02042026-aggiornamento-avviso-pubblico-n-42024-l-attuazione-par-gol-sicilia-finanziare-nell-ambito-piano-nazionale-ripresa-resilienza-pnrr",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-04-02",
-      "data_uscita": "2026-04-02",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-10",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "52cedb08faf5ac6a6d77514c5ca73862a7a5f370"
     },
     {
       "id": "digital-europe-ai-cyber-sme",
@@ -524,7 +335,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-10",
+      "rilevato_il": "2026-07-11",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -572,7 +383,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-10",
+      "rilevato_il": "2026-07-11",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -620,7 +431,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-10",
+      "rilevato_il": "2026-07-11",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -777,7 +588,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-10",
+      "rilevato_il": "2026-07-11",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -825,7 +636,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-10",
+      "rilevato_il": "2026-07-11",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -873,7 +684,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-10",
+      "rilevato_il": "2026-07-11",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1048,7 +859,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-10",
+      "rilevato_il": "2026-07-11",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1096,7 +907,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-10",
+      "rilevato_il": "2026-07-11",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1144,7 +955,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-10",
+      "rilevato_il": "2026-07-11",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1192,7 +1003,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-10",
+      "rilevato_il": "2026-07-11",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1341,7 +1152,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-10",
+      "rilevato_il": "2026-07-11",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1389,7 +1200,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-10",
+      "rilevato_il": "2026-07-11",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1871,5 +1682,10 @@
     }
   ],
   "changed": true,
-  "source_errors": []
+  "source_errors": [
+    {
+      "source": "regione-sicilia-bandi",
+      "message": "fetch failed"
+    }
+  ]
 }
