@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-07-13T13:54:36.386Z",
+  "generated_at": "2026-07-13T19:07:31.706Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "6be1b8ef8fe06d9d9b931a4996c82df4f02e4d96",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 0
   },
-  "nuovi": [
-    {
-      "id": "regione-sicilia-bandi-avviso-di-indagine-di-mercato-per-l-affidamento-dei-servizi-di-comunicazione-pro",
-      "nome": "Avviso di indagine di mercato per l'affidamento dei servizi di comunicazione promo-pubblicitaria Celebrazioni belliniane 2026",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-indagine-mercato-l-affidamento-servizi-comunicazione-promo-pubblicitaria-celebrazioni-belliniane-2026",
-      "data_pubblicazione": "2026-07-31",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "4cf92c830afc68a99088575aab5219aa8b02bc09",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [],
   "errori_fonti": []
 }
