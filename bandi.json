@@ -1,59 +1,12 @@
 {
-  "ultimo_aggiornamento": "2026-07-17",
-  "versione": 72,
+  "ultimo_aggiornamento": "2026-07-18",
+  "versione": 73,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "126afa6b281b5cd76c16601685c2f9b2f30e7b69",
-  "generated_at": "2026-07-17T18:48:05.237Z",
+  "catalog_hash": "7a3f751e81ecb0028a1021249547395d0984265d",
+  "generated_at": "2026-07-18T01:12:55.445Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
-    {
-      "id": "regione-sicilia-bandi-09-luglio-2026-st-catania-concessione-temporanea-postazioni-arnie-ii-avviso-anno",
-      "nome": "09 luglio 2026 - ST CATANIA - Concessione temporanea postazioni arnie – II AVVISO anno 2026 - Determina n.150 del 08/07/2026 di aggiudicazione provvisoria e relativo verbale di gara.",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Avvisi pubblici 09 luglio 2026 - ST CATANIA - Concessione temporanea postazioni arnie – II AVVISO anno 2026 - Determina n.150 del 08/07/2026 di aggiudicazione provvisoria e relativo verbale di gara. Scaduto Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando 09 luglio 2026 - ST CATANIA - Concessione temporanea postazioni arnie – II AVVISO anno 2026 - Determina n.150 del 08/07/2026 di aggiudicazione provvisoria e relativo verbale di gara.. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/09-luglio-2026-st-catania-concessione-temporanea-postazioni-arnie-ii-avviso-anno-2026-determina-n150-08072026-aggiudicazione-provvisoria-relativo-verbale-gara",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-07-08",
-      "data_uscita": "2026-07-08",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-17",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "4b53854e3a3f82046be8749bdb6b1bac9df33d93"
-    },
     {
       "id": "invitalia-incentivi-approfondisci",
       "nome": "Approfondisci",
@@ -95,7 +48,7 @@
       "data_uscita": "",
       "fonte_scraper": "invitalia-incentivi",
       "url_origine": "https://www.invitalia.it/",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_nazionali"
       ],
@@ -142,7 +95,7 @@
       "data_uscita": "2026-07-31",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_regionali"
       ],
@@ -190,7 +143,7 @@
       "data_uscita": "2026-09-07",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_regionali"
       ],
@@ -287,7 +240,7 @@
       "data_uscita": "2026-04-02",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_regionali"
       ],
@@ -524,7 +477,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -572,7 +525,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -620,7 +573,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -777,7 +730,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -825,7 +778,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -873,7 +826,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1048,7 +1001,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1096,7 +1049,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1144,7 +1097,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1192,7 +1145,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1240,7 +1193,7 @@
       "data_uscita": "2026-07-22",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_regionali"
       ],
@@ -1389,7 +1342,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1437,7 +1390,7 @@
       "data_uscita": "",
       "fonte_scraper": "ue-funding-opportunities",
       "url_origine": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_europei"
       ],
@@ -1644,7 +1597,7 @@
       "data_uscita": "2026-07-31",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-07-17",
+      "rilevato_il": "2026-07-18",
       "notifica_topics": [
         "bandi_regionali"
       ],
@@ -1965,6 +1918,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
