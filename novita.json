@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-22T01:16:47.478Z",
+  "generated_at": "2026-07-22T08:02:59.973Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "7a3f751e81ecb0028a1021249547395d0984265d",
+  "catalog_hash": "40872ccec9e625d85a21220975eb8ce2cdbb363a",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 0
+    "aggiornati": 1
   },
   "nuovi": [],
-  "aggiornati": [],
+  "aggiornati": [
+    {
+      "id": "regione-sicilia-bandi-partecipazione-allo-stand-istituzionale-richiesta-di-adesione-alla-manifestazion",
+      "nome": "Partecipazione allo Stand Istituzionale. Richiesta di adesione alla manifestazione Seafood Expo Asia -Singapore dal 02 al 04 settembre 2026.",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-partecipazione-allo-stand-istituzionale-manifestazione-seafood-expo-asia",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "45d4edc625b6b8b52358dcf9187c0efb7b58a5b1",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "errori_fonti": []
 }
