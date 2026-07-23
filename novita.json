@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-23T01:24:08.996Z",
+  "generated_at": "2026-07-23T08:05:45.506Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "40872ccec9e625d85a21220975eb8ce2cdbb363a",
+  "catalog_hash": "8463fd0e7e123a391e5185aa5da005ca83931eae",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 0
+    "aggiornati": 1
   },
   "nuovi": [],
-  "aggiornati": [],
+  "aggiornati": [
+    {
+      "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
+      "nome": "BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bandoavviso-regia-ob-21-az-5-cod-221502acq-imprese-acquicole-investimenti-produttivi-imprese-acquacoltura-avanzati-sotto-profilo-sostenibilita-ambientale",
+      "data_pubblicazione": "2026-10-07",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "929df7fdf89366ef61b481383112cd91c5796e87",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "errori_fonti": []
 }

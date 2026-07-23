@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-07-22",
-  "versione": 76,
+  "ultimo_aggiornamento": "2026-07-23",
+  "versione": 77,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "40872ccec9e625d85a21220975eb8ce2cdbb363a",
-  "generated_at": "2026-07-23T01:24:08.995Z",
+  "catalog_hash": "8463fd0e7e123a391e5185aa5da005ca83931eae",
+  "generated_at": "2026-07-23T08:05:45.505Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -113,7 +113,7 @@
         "green"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "Bandi di gara BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione Scade il: 07/09/2026 - 23:59 Leggi di più",
+      "descrizione_breve": "Bandi di gara BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione Scade il: 07/10/2026 - 23:59 Leggi di più",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -139,15 +139,15 @@
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-09-07",
-      "data_uscita": "2026-09-07",
+      "data_pubblicazione": "2026-10-07",
+      "data_uscita": "2026-10-07",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-07-23",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "0ced48c9eac59b80a6e8b169a85d31dbcc27e14f"
+      "hash_contenuto": "929df7fdf89366ef61b481383112cd91c5796e87"
     },
     {
       "id": "credito-imposta-40",
@@ -1918,6 +1918,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
