@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-07-31T08:26:59.185Z",
+  "generated_at": "2026-07-31T13:23:59.689Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "8463fd0e7e123a391e5185aa5da005ca83931eae",
+  "catalog_hash": "2a1b04dcdfdc18823999f8ffb32cda019de25641",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 0
+    "aggiornati": 2
   },
   "nuovi": [],
-  "aggiornati": [],
+  "aggiornati": [
+    {
+      "id": "regione-sicilia-bandi-avviso-di-indagine-di-mercato-per-l-affidamento-dei-servizi-di-comunicazione-pro",
+      "nome": "Avviso di indagine di mercato per l'affidamento dei servizi di comunicazione promo-pubblicitaria Celebrazioni belliniane 2026",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-indagine-mercato-l-affidamento-servizi-comunicazione-promo-pubblicitaria-celebrazioni-belliniane-2026",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "d681472e81f32a6c38ffeea709442769b5a83742",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-s-14-pa-bando-pubblico-locali-a-ficuzza",
+      "nome": "S. 14 PA- Bando Pubblico Locali a Ficuzza -",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/s-14-pa-bando-pubblico-locali-ficuzza-corretto",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "acf71c083e4ea8c2e3ad8f06ffa7e5e9b94c11e9",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "errori_fonti": []
 }

@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-07-31",
-  "versione": 81,
+  "versione": 82,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "8463fd0e7e123a391e5185aa5da005ca83931eae",
-  "generated_at": "2026-07-31T08:26:59.185Z",
+  "catalog_hash": "2a1b04dcdfdc18823999f8ffb32cda019de25641",
+  "generated_at": "2026-07-31T13:23:59.689Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -64,8 +64,8 @@
         "commercio",
         "turismo"
       ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici Avviso di indagine di mercato per l'affidamento dei servizi di comunicazione promo-pubblicitaria Celebrazioni belliniane 2026 Scade il: 31/07/2026 - 12:00 Leggi di più",
+      "stato": "chiuso",
+      "descrizione_breve": "Avvisi pubblici Avviso di indagine di mercato per l'affidamento dei servizi di comunicazione promo-pubblicitaria Celebrazioni belliniane 2026 Scaduto Leggi di più",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso di indagine di mercato per l'affidamento dei servizi di comunicazione promo-pubblicitaria Celebrazioni belliniane 2026. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -91,15 +91,15 @@
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-07-31",
-      "data_uscita": "2026-07-31",
+      "data_pubblicazione": "",
+      "data_uscita": "",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "4cf92c830afc68a99088575aab5219aa8b02bc09"
+      "hash_contenuto": "d681472e81f32a6c38ffeea709442769b5a83742"
     },
     {
       "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
@@ -1566,8 +1566,8 @@
         "commercio",
         "turismo"
       ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Bandi di gara S. 14 PA- Bando Pubblico Locali a Ficuzza - Scade il: 31/07/2026 - 12:00 Leggi di più",
+      "stato": "chiuso",
+      "descrizione_breve": "Bandi di gara S. 14 PA- Bando Pubblico Locali a Ficuzza - Scaduto Leggi di più",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando S. 14 PA- Bando Pubblico Locali a Ficuzza -. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -1593,15 +1593,15 @@
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-07-31",
-      "data_uscita": "2026-07-31",
+      "data_pubblicazione": "",
+      "data_uscita": "",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "473475c4afd0c3553e466cbfc485912173670cc3"
+      "hash_contenuto": "acf71c083e4ea8c2e3ad8f06ffa7e5e9b94c11e9"
     },
     {
       "id": "simest-export",
@@ -1918,6 +1918,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
