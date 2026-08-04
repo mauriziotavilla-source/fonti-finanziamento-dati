@@ -1,17 +1,78 @@
 {
-  "generated_at": "2026-08-04T01:14:42.386Z",
+  "generated_at": "2026-08-04T08:12:38.171Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "06c35834a120262fd159df139a63edb175574889",
+  "catalog_hash": "2a1b04dcdfdc18823999f8ffb32cda019de25641",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 5,
     "aggiornati": 0
   },
-  "nuovi": [],
-  "aggiornati": [],
-  "errori_fonti": [
+  "nuovi": [
     {
-      "source": "regione-sicilia-bandi",
-      "message": "fetch failed"
+      "id": "regione-sicilia-bandi-avviso-di-indagine-di-mercato-per-l-affidamento-dei-servizi-di-comunicazione-pro",
+      "nome": "Avviso di indagine di mercato per l'affidamento dei servizi di comunicazione promo-pubblicitaria Celebrazioni belliniane 2026",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-indagine-mercato-l-affidamento-servizi-comunicazione-promo-pubblicitaria-celebrazioni-belliniane-2026",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "d681472e81f32a6c38ffeea709442769b5a83742",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
+      "nome": "BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bandoavviso-regia-ob-21-az-5-cod-221502acq-imprese-acquicole-investimenti-produttivi-imprese-acquacoltura-avanzati-sotto-profilo-sostenibilita-ambientale",
+      "data_pubblicazione": "2026-10-07",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "929df7fdf89366ef61b481383112cd91c5796e87",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-ddg-1112-del-02-04-2026-aggiornamento-avviso-pubblico-n-4-2024-per-l-attuazione-",
+      "nome": "DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR)",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/ddg-1112-02042026-aggiornamento-avviso-pubblico-n-42024-l-attuazione-par-gol-sicilia-finanziare-nell-ambito-piano-nazionale-ripresa-resilienza-pnrr",
+      "data_pubblicazione": "2026-04-02",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "52cedb08faf5ac6a6d77514c5ca73862a7a5f370",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-partecipazione-allo-stand-istituzionale-richiesta-di-adesione-alla-manifestazion",
+      "nome": "Partecipazione allo Stand Istituzionale. Richiesta di adesione alla manifestazione Seafood Expo Asia -Singapore dal 02 al 04 settembre 2026.",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-partecipazione-allo-stand-istituzionale-manifestazione-seafood-expo-asia",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "45d4edc625b6b8b52358dcf9187c0efb7b58a5b1",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-s-14-pa-bando-pubblico-locali-a-ficuzza",
+      "nome": "S. 14 PA- Bando Pubblico Locali a Ficuzza -",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/s-14-pa-bando-pubblico-locali-ficuzza-corretto",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "acf71c083e4ea8c2e3ad8f06ffa7e5e9b94c11e9",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
     }
-  ]
+  ],
+  "aggiornati": [],
+  "errori_fonti": []
 }
