@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-08-04",
-  "versione": 87,
+  "ultimo_aggiornamento": "2026-08-05",
+  "versione": 88,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "06c35834a120262fd159df139a63edb175574889",
-  "generated_at": "2026-08-05T01:16:59.244Z",
+  "catalog_hash": "61289d21e3bea513a8202092fc565b244e0e390f",
+  "generated_at": "2026-08-05T08:10:54.364Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -55,6 +55,54 @@
       "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74"
     },
     {
+      "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
+      "nome": "BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo",
+        "green"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Bandi di gara BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione Scade il: 07/10/2026 - 23:59 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bandoavviso-regia-ob-21-az-5-cod-221502acq-imprese-acquicole-investimenti-produttivi-imprese-acquacoltura-avanzati-sotto-profilo-sostenibilita-ambientale",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-10-07",
+      "data_uscita": "2026-10-07",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-08-05",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "929df7fdf89366ef61b481383112cd91c5796e87"
+    },
+    {
       "id": "credito-imposta-40",
       "nome": "Credito d'imposta Transizione 4.0 e 5.0",
       "programma": "Agenzia delle Entrate / MIMIT",
@@ -103,6 +151,53 @@
       ],
       "fonte_scraper": "manual_seed",
       "url_origine": "https://www.mimit.gov.it/it/incentivi/credito-d-imposta-per-investimenti-in-beni-strumentali"
+    },
+    {
+      "id": "regione-sicilia-bandi-ddg-1112-del-02-04-2026-aggiornamento-avviso-pubblico-n-4-2024-per-l-attuazione-",
+      "nome": "DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR)",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "chiuso",
+      "descrizione_breve": "Avvisi pubblici DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR) Scaduto Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR). Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/ddg-1112-02042026-aggiornamento-avviso-pubblico-n-42024-l-attuazione-par-gol-sicilia-finanziare-nell-ambito-piano-nazionale-ripresa-resilienza-pnrr",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-04-02",
+      "data_uscita": "2026-04-02",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-08-05",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "52cedb08faf5ac6a6d77514c5ca73862a7a5f370"
     },
     {
       "id": "digital-europe-ai-cyber-sme",
@@ -158,6 +253,56 @@
       ],
       "fonte_scraper": "manual_seed",
       "url_origine": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?order=DESC&pageNumber=1&pageSize=50&searchText=DIGITAL-2026%20cybersecurity%20SME"
+    },
+    {
+      "id": "regione-sicilia-bandi-dipartimento-della-famiglia-e-delle-politiche-sociali-incremento-dotazione-finan",
+      "nome": "Dipartimento della famiglia e delle politiche sociali - Incremento dotazione finanziaria",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "budget_totale": "",
+      "cofinanziamento": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi?f%5B0%5D=group%3A11&f%5B1%5D=group%3A39",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "descrizione_breve": "Dipartimento della famiglia e delle politiche sociali - Incremento dotazione finanziaria",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Dipartimento della famiglia e delle politiche sociali - Incremento dotazione finanziaria. Territorio: Sicilia.",
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "rilevato_il": "2026-08-05",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "362bb3c152bac0a1ad12114b569b4b0d2d0d582c"
     },
     {
       "id": "eic-accelerator-2026",
@@ -1010,6 +1155,54 @@
       "hash_contenuto": "c2380f6bf5276e94361dd3696cb84445ddc41632"
     },
     {
+      "id": "regione-sicilia-bandi-partecipazione-allo-stand-istituzionale-richiesta-di-adesione-alla-manifestazion",
+      "nome": "Partecipazione allo Stand Istituzionale. Richiesta di adesione alla manifestazione Seafood Expo Asia -Singapore dal 02 al 04 settembre 2026.",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo",
+        "agricoltura"
+      ],
+      "stato": "chiuso",
+      "descrizione_breve": "Avvisi pubblici Partecipazione allo Stand Istituzionale. Richiesta di adesione alla manifestazione Seafood Expo Asia -Singapore dal 02 al 04 settembre 2026. Scaduto Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Partecipazione allo Stand Istituzionale. Richiesta di adesione alla manifestazione Seafood Expo Asia -Singapore dal 02 al 04 settembre 2026.. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-partecipazione-allo-stand-istituzionale-manifestazione-seafood-expo-asia",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-08-05",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "45d4edc625b6b8b52358dcf9187c0efb7b58a5b1"
+    },
+    {
       "id": "sicilia-fesr-132-investimenti-regionali-zes",
       "nome": "PR FESR Sicilia – Azione 1.3.2 regionale (investimenti e ZES)",
       "programma": "Regione Siciliana – PR FESR 2021-2027",
@@ -1314,57 +1507,51 @@
       "url_origine": "https://digital-innovation-hub.ec.europa.eu/edih-network"
     },
     {
-      "id": "sicilia-aree-artigianali",
-      "nome": "Riqualificazione aree artigianali – Comuni e enti",
-      "programma": "Regione Siciliana – POC / PAC",
+      "id": "regione-sicilia-bandi-s-14-pa-bando-pubblico-locali-a-ficuzza",
+      "nome": "S. 14 PA- Bando Pubblico Locali a Ficuzza -",
+      "programma": "Regione Siciliana",
       "livello": "regionale",
       "settori": [
         "artigianato",
-        "industria"
+        "commercio",
+        "turismo"
       ],
-      "stato": "aperto",
-      "budget_totale": "75 milioni € (57 progetti finanziati)",
-      "cofinanziamento": "Finanziamento interventi infrastrutturali su aree artigianali",
+      "stato": "chiuso",
+      "descrizione_breve": "Bandi di gara S. 14 PA- Bando Pubblico Locali a Ficuzza - Scaduto Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando S. 14 PA- Bando Pubblico Locali a Ficuzza -. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
       "beneficiari": [
-        "Comuni",
-        "Enti locali",
-        "Gestori aree artigianali"
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
       ],
       "territorio": "Sicilia",
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "scadenze": [
-        {
-          "fase": "Aggiudicazione definitiva lavori",
-          "data": "2026-07-31",
-          "note": "Per beneficiari ammessi in graduatoria"
-        },
-        {
-          "fase": "Completamento opere",
-          "data": "2026-12-31",
-          "note": ""
-        }
-      ],
+      "scadenze": [],
       "requisiti": [
-        "Progetti ammessi in graduatoria definitiva (78 istanze, 57 finanziate)",
-        "Interventi efficientamento energetico, servizi, viabilità nelle aree artigianali"
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
       ],
       "documenti": [
-        "Progetto tecnico",
-        "Documentazione aggiudicazione"
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
       ],
-      "topic_esempio": [
-        "Efficientamento energetico zona artigianale",
-        "Potenziamento servizi e accessi"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/s-14-pa-bando-pubblico-locali-ficuzza-corretto",
       "checklist": [
-        "Per artigiani: verificare con il tuo comune se l'area è inclusa",
-        "Chiedere alla camera di commercio aggiornamenti su servizi nell'area"
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
       ],
-      "fonte_scraper": "manual_seed",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi"
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-08-05",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "acf71c083e4ea8c2e3ad8f06ffa7e5e9b94c11e9"
     },
     {
       "id": "simest-export",
@@ -1463,6 +1650,53 @@
       ],
       "fonte_scraper": "manual_seed",
       "url_origine": "https://www.invitalia.it/cosa-facciamo/creiamo-nuove-aziende/smartstart-italia"
+    },
+    {
+      "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-procedura-ne",
+      "nome": "ST-MESSINA - Avviso di indagine di mercato per la partecipazione alla procedura negoziata finalizzata all'affidamento dei lavori per interventi di mantenzione straordinaria strada/pista forestale Monte Fossa delle Felci, Isola di Salina, Comune di Leni",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici ST-MESSINA - Avviso di indagine di mercato per la partecipazione alla procedura negoziata finalizzata all'affidamento dei lavori per interventi di mantenzione straordinaria strada/pista forestale Monte Fossa delle Felci, Isola di Salina, Comune",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando ST-MESSINA - Avviso di indagine di mercato per la partecipazione alla procedura negoziata finalizzata all'affidamento dei lavori per interventi di mantenzione straordinaria strada/pista forestale Monte Fossa delle Felci, Isola di Salina, Comune di Leni. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-indagine-mercato-partecipazione-alla-procedura-negoziata-finalizzata-all-affidamento-lavori-interventi-mantenzione-straordinaria-stradapista",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-08-14",
+      "data_uscita": "2026-08-14",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-08-05",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "8340e7d46e803aeaaa70e815f3509c31247c8b88"
     },
     {
       "id": "sicilia-step-fesr-2026",
@@ -1681,11 +1915,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
-  "source_errors": [
-    {
-      "source": "regione-sicilia-bandi",
-      "message": "fetch failed"
-    }
-  ]
+  "changed": true,
+  "source_errors": []
 }
