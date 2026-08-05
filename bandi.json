@@ -4,7 +4,7 @@
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
   "catalog_hash": "61289d21e3bea513a8202092fc565b244e0e390f",
-  "generated_at": "2026-08-05T08:10:54.364Z",
+  "generated_at": "2026-08-05T13:28:45.350Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -265,17 +265,16 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "budget_totale": "",
+      "descrizione_breve": "Dipartimento della famiglia e delle politiche sociali - Incremento dotazione finanziaria",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Dipartimento della famiglia e delle politiche sociali - Incremento dotazione finanziaria. Territorio: Sicilia.",
       "cofinanziamento": "",
+      "budget_totale": "",
       "beneficiari": [
         "PMI",
         "Imprese siciliane",
         "Enti locali"
       ],
       "territorio": "Sicilia",
-      "regioni_ammesse": [
-        "sicilia"
-      ],
       "scadenze": [],
       "requisiti": [
         "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
@@ -292,12 +291,10 @@
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "descrizione_breve": "Dipartimento della famiglia e delle politiche sociali - Incremento dotazione finanziaria",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Dipartimento della famiglia e delle politiche sociali - Incremento dotazione finanziaria. Territorio: Sicilia.",
       "data_pubblicazione": "",
       "data_uscita": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-08-05",
       "notifica_topics": [
         "bandi_regionali"
@@ -1915,6 +1912,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": true,
+  "changed": false,
   "source_errors": []
 }
