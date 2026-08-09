@@ -1,78 +1,12 @@
 {
-  "generated_at": "2026-08-09T06:33:32.648Z",
+  "generated_at": "2026-08-09T12:21:43.592Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "f2caba4155f5030e4ceed3c7d2f80d258bc74a78",
   "counts": {
-    "nuovi": 5,
+    "nuovi": 0,
     "aggiornati": 0
   },
-  "nuovi": [
-    {
-      "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
-      "nome": "BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bandoavviso-regia-ob-21-az-5-cod-221502acq-imprese-acquicole-investimenti-produttivi-imprese-acquacoltura-avanzati-sotto-profilo-sostenibilita-ambientale",
-      "data_pubblicazione": "2026-10-07",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "929df7fdf89366ef61b481383112cd91c5796e87",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-ddg-1112-del-02-04-2026-aggiornamento-avviso-pubblico-n-4-2024-per-l-attuazione-",
-      "nome": "DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR)",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/ddg-1112-02042026-aggiornamento-avviso-pubblico-n-42024-l-attuazione-par-gol-sicilia-finanziare-nell-ambito-piano-nazionale-ripresa-resilienza-pnrr",
-      "data_pubblicazione": "2026-04-02",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "52cedb08faf5ac6a6d77514c5ca73862a7a5f370",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-partecipazione-allo-stand-istituzionale-richiesta-di-adesione-alla-manifestazion",
-      "nome": "Partecipazione allo Stand Istituzionale. Richiesta di adesione alla manifestazione Seafood Expo Asia -Singapore dal 02 al 04 settembre 2026.",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-partecipazione-allo-stand-istituzionale-manifestazione-seafood-expo-asia",
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "45d4edc625b6b8b52358dcf9187c0efb7b58a5b1",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-s-14-pa-bando-pubblico-locali-a-ficuzza",
-      "nome": "S. 14 PA- Bando Pubblico Locali a Ficuzza -",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/s-14-pa-bando-pubblico-locali-ficuzza-corretto",
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "acf71c083e4ea8c2e3ad8f06ffa7e5e9b94c11e9",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-procedura-ne",
-      "nome": "ST-MESSINA - Avviso di indagine di mercato per la partecipazione alla procedura negoziata finalizzata all'affidamento dei lavori per interventi di mantenzione straordinaria strada/pista forestale Monte Fossa delle Felci, Isola di Salina, Comune di Leni",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-indagine-mercato-partecipazione-alla-procedura-negoziata-finalizzata-all-affidamento-lavori-interventi-mantenzione-straordinaria-stradapista",
-      "data_pubblicazione": "2026-08-14",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "8340e7d46e803aeaaa70e815f3509c31247c8b88",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [],
   "errori_fonti": []
 }
