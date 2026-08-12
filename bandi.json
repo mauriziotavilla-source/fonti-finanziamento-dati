@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-08-10",
-  "versione": 93,
+  "ultimo_aggiornamento": "2026-08-12",
+  "versione": 94,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "f2caba4155f5030e4ceed3c7d2f80d258bc74a78",
-  "generated_at": "2026-08-12T12:37:34.523Z",
+  "catalog_hash": "ac872959298bfdbfe37fe3805668e72fed2a0ff8",
+  "generated_at": "2026-08-12T18:43:11.347Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -1457,53 +1457,6 @@
       "url_origine": "https://digital-innovation-hub.ec.europa.eu/edih-network"
     },
     {
-      "id": "regione-sicilia-bandi-s-14-pa-bando-pubblico-locali-a-ficuzza",
-      "nome": "S. 14 PA- Bando Pubblico Locali a Ficuzza -",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Bandi di gara S. 14 PA- Bando Pubblico Locali a Ficuzza - Scaduto Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando S. 14 PA- Bando Pubblico Locali a Ficuzza -. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/s-14-pa-bando-pubblico-locali-ficuzza-corretto",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "",
-      "data_uscita": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-08-12",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "acf71c083e4ea8c2e3ad8f06ffa7e5e9b94c11e9"
-    },
-    {
       "id": "simest-export",
       "nome": "SIMEST – Finanziamenti internazionalizzazione PMI",
       "programma": "SIMEST / MIMIT",
@@ -1865,6 +1818,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
