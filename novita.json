@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-08-14T12:34:21.027Z",
+  "generated_at": "2026-08-14T18:37:13.922Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "7aefaffbc05802f38385da72a69ff5aacff1dd79",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 1
+    "aggiornati": 0
   },
   "nuovi": [],
-  "aggiornati": [
-    {
-      "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-procedura-ne",
-      "nome": "ST-MESSINA - Avviso di indagine di mercato per la partecipazione alla procedura negoziata finalizzata all'affidamento dei lavori per interventi di mantenzione straordinaria strada/pista forestale Monte Fossa delle Felci, Isola di Salina, Comune di Leni",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-indagine-mercato-partecipazione-alla-procedura-negoziata-finalizzata-all-affidamento-lavori-interventi-mantenzione-straordinaria-stradapista",
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "69f3a30c1f24047c7efe1bd93d9f56d846440b01",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "aggiornati": [],
   "errori_fonti": []
 }
