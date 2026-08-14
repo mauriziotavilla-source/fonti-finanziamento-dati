@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-08-14",
-  "versione": 98,
+  "versione": 99,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "29cca9c1621b10ebfe245d667fb3e1dbbd2e2b06",
-  "generated_at": "2026-08-14T07:03:08.412Z",
+  "catalog_hash": "7aefaffbc05802f38385da72a69ff5aacff1dd79",
+  "generated_at": "2026-08-14T12:34:21.027Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -1611,7 +1611,7 @@
         "commercio",
         "turismo"
       ],
-      "stato": "in_arrivo",
+      "stato": "chiuso",
       "descrizione_breve": "Avvisi pubblici ST-MESSINA - Avviso di indagine di mercato per la partecipazione alla procedura negoziata finalizzata all'affidamento dei lavori per interventi di mantenzione straordinaria strada/pista forestale Monte Fossa delle Felci, Isola di Salina, Comune",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando ST-MESSINA - Avviso di indagine di mercato per la partecipazione alla procedura negoziata finalizzata all'affidamento dei lavori per interventi di mantenzione straordinaria strada/pista forestale Monte Fossa delle Felci, Isola di Salina, Comune di Leni. Territorio: Sicilia.",
       "cofinanziamento": "",
@@ -1638,15 +1638,15 @@
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-08-14",
-      "data_uscita": "2026-08-14",
+      "data_pubblicazione": "",
+      "data_uscita": "",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-08-14",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "8340e7d46e803aeaaa70e815f3509c31247c8b88"
+      "hash_contenuto": "69f3a30c1f24047c7efe1bd93d9f56d846440b01"
     },
     {
       "id": "sicilia-step-fesr-2026",

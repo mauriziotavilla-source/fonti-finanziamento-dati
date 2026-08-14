@@ -1,78 +1,26 @@
 {
-  "generated_at": "2026-08-14T07:03:08.413Z",
+  "generated_at": "2026-08-14T12:34:21.027Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "29cca9c1621b10ebfe245d667fb3e1dbbd2e2b06",
+  "catalog_hash": "7aefaffbc05802f38385da72a69ff5aacff1dd79",
   "counts": {
-    "nuovi": 5,
-    "aggiornati": 0
+    "nuovi": 0,
+    "aggiornati": 1
   },
-  "nuovi": [
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-trattativa-privata-alla-convenzione-per-l-affidamento-in-conc",
-      "nome": "Avviso pubblico di TRATTATIVA PRIVATA ALLA CONVENZIONE PER L’AFFIDAMENTO IN CONCESSIONE TEMPORANEA DI TERRENI DEL DEMANIO FORESTALE REGIONALE GESTITI DAL DIPARTIMENTO DELLO SVILUPPO RURALE E TERRITORIALE PER LO SFALCIO DI PRODOTTI ERBOSI SPONTANE Catania",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-trattativa-privata-alla-convenzione-l-affidamento-concessione-temporanea-terreni-demanio-forestale-regionale-gestiti-dipartimento-sviluppo-rurale",
-      "data_pubblicazione": "2026-08-31",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "bdef528a24ee8cf41f7277fe81c8475eaab6b753",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
-      "nome": "BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bandoavviso-regia-ob-21-az-5-cod-221502acq-imprese-acquicole-investimenti-produttivi-imprese-acquacoltura-avanzati-sotto-profilo-sostenibilita-ambientale",
-      "data_pubblicazione": "2026-10-07",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "929df7fdf89366ef61b481383112cd91c5796e87",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-ddg-1112-del-02-04-2026-aggiornamento-avviso-pubblico-n-4-2024-per-l-attuazione-",
-      "nome": "DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR)",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/ddg-1112-02042026-aggiornamento-avviso-pubblico-n-42024-l-attuazione-par-gol-sicilia-finanziare-nell-ambito-piano-nazionale-ripresa-resilienza-pnrr",
-      "data_pubblicazione": "2026-04-02",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "52cedb08faf5ac6a6d77514c5ca73862a7a5f370",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-partecipazione-allo-stand-istituzionale-richiesta-di-adesione-alla-manifestazion",
-      "nome": "Partecipazione allo Stand Istituzionale. Richiesta di adesione alla manifestazione Seafood Expo Asia -Singapore dal 02 al 04 settembre 2026.",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-partecipazione-allo-stand-istituzionale-manifestazione-seafood-expo-asia",
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "45d4edc625b6b8b52358dcf9187c0efb7b58a5b1",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
+  "nuovi": [],
+  "aggiornati": [
     {
       "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-procedura-ne",
       "nome": "ST-MESSINA - Avviso di indagine di mercato per la partecipazione alla procedura negoziata finalizzata all'affidamento dei lavori per interventi di mantenzione straordinaria strada/pista forestale Monte Fossa delle Felci, Isola di Salina, Comune di Leni",
       "livello": "regionale",
       "programma": "Regione Siciliana",
       "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-indagine-mercato-partecipazione-alla-procedura-negoziata-finalizzata-all-affidamento-lavori-interventi-mantenzione-straordinaria-stradapista",
-      "data_pubblicazione": "2026-08-14",
+      "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "8340e7d46e803aeaaa70e815f3509c31247c8b88",
+      "hash_contenuto": "69f3a30c1f24047c7efe1bd93d9f56d846440b01",
       "notifica_topics": [
         "bandi_regionali"
       ]
     }
   ],
-  "aggiornati": [],
   "errori_fonti": []
 }
