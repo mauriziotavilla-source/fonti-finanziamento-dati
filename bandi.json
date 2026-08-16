@@ -1,12 +1,59 @@
 {
   "ultimo_aggiornamento": "2026-08-16",
-  "versione": 100,
+  "versione": 101,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "8b886e7835b178d28003e71d4dcbf72c91aa4580",
-  "generated_at": "2026-08-16T00:30:05.091Z",
+  "catalog_hash": "7aefaffbc05802f38385da72a69ff5aacff1dd79",
+  "generated_at": "2026-08-16T06:18:00.810Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
+    {
+      "id": "invitalia-incentivi-approfondisci",
+      "nome": "Approfondisci",
+      "programma": "Invitalia",
+      "livello": "nazionale",
+      "settori": [
+        "startup",
+        "tecnologia",
+        "industria"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Grandi investimentiContratto di sviluppoIl contratto di sviluppo è l'incentivo che sostiene gli investimenti di grandi dimensioni nel settore industriale, agro-industriale, turistico e di tutela ambientale.L’investimento minimo richiesto è di 20 milioni di eur",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Approfondisci. Territorio: Italia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Startup",
+        "Nuove imprese"
+      ],
+      "territorio": "Italia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.invitalia.it/incentivi-e-strumenti/contratto-di-sviluppo",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello nazionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "",
+      "data_uscita": "",
+      "fonte_scraper": "invitalia-incentivi",
+      "url_origine": "https://www.invitalia.it/",
+      "rilevato_il": "2026-08-16",
+      "notifica_topics": [
+        "bandi_nazionali"
+      ],
+      "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74"
+    },
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-di-trattativa-privata-alla-convenzione-per-l-affidamento-in-conc",
       "nome": "Avviso pubblico di TRATTATIVA PRIVATA ALLA CONVENZIONE PER L’AFFIDAMENTO IN CONCESSIONE TEMPORANEA DI TERRENI DEL DEMANIO FORESTALE REGIONALE GESTITI DAL DIPARTIMENTO DELLO SVILUPPO RURALE E TERRITORIALE PER LO SFALCIO DI PRODOTTI ERBOSI SPONTANE Catania",
@@ -1819,10 +1866,5 @@
     }
   ],
   "changed": true,
-  "source_errors": [
-    {
-      "source": "invitalia-incentivi",
-      "message": "fetch failed"
-    }
-  ]
+  "source_errors": []
 }
