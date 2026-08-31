@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-08-16",
-  "versione": 101,
+  "ultimo_aggiornamento": "2026-08-31",
+  "versione": 102,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "7aefaffbc05802f38385da72a69ff5aacff1dd79",
-  "generated_at": "2026-08-31T01:50:54.295Z",
+  "catalog_hash": "1a5185638d2cdf269704ea6d31537b47a6feb405",
+  "generated_at": "2026-08-31T11:56:58.923Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -64,7 +64,7 @@
         "commercio",
         "turismo"
       ],
-      "stato": "in_arrivo",
+      "stato": "chiuso",
       "descrizione_breve": "Avvisi pubblici Avviso pubblico di TRATTATIVA PRIVATA ALLA CONVENZIONE PER L’AFFIDAMENTO IN CONCESSIONE TEMPORANEA DI TERRENI DEL DEMANIO FORESTALE REGIONALE GESTITI DAL DIPARTIMENTO DELLO SVILUPPO RURALE E TERRITORIALE PER LO SFALCIO DI PRODOTTI ERBOSI SPONTA",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso pubblico di TRATTATIVA PRIVATA ALLA CONVENZIONE PER L’AFFIDAMENTO IN CONCESSIONE TEMPORANEA DI TERRENI DEL DEMANIO FORESTALE REGIONALE GESTITI DAL DIPARTIMENTO DELLO SVILUPPO RURALE E TERRITORIALE PER LO SFALCIO DI PRODOTTI ERBOSI SPONTANE Catania. Territorio: Sicilia.",
       "cofinanziamento": "",
@@ -91,15 +91,15 @@
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-08-31",
-      "data_uscita": "2026-08-31",
+      "data_pubblicazione": "",
+      "data_uscita": "",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-08-31",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "bdef528a24ee8cf41f7277fe81c8475eaab6b753"
+      "hash_contenuto": "9bde4e45f5bc3a8ae9c9d07ef4cc6fc84d52ecd4"
     },
     {
       "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
@@ -1200,6 +1200,53 @@
       "hash_contenuto": "45d4edc625b6b8b52358dcf9187c0efb7b58a5b1"
     },
     {
+      "id": "regione-sicilia-bandi-partecipazione-manifestazione-fieristica-fruit-attraction-anno-2026",
+      "nome": "PARTECIPAZIONE MANIFESTAZIONE FIERISTICA FRUIT ATTRACTION ANNO 2026",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici PARTECIPAZIONE MANIFESTAZIONE FIERISTICA FRUIT ATTRACTION ANNO 2026 Scade il: 31/08/2026 - 23:55 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando PARTECIPAZIONE MANIFESTAZIONE FIERISTICA FRUIT ATTRACTION ANNO 2026. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/fiera-agroalimentare-fruit-attraction-anno-2026",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-08-31",
+      "data_uscita": "2026-08-31",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-08-31",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "a0222815352a45d074299db0823b524c3226894f"
+    },
+    {
       "id": "sicilia-fesr-132-investimenti-regionali-zes",
       "nome": "PR FESR Sicilia – Azione 1.3.2 regionale (investimenti e ZES)",
       "programma": "Regione Siciliana – PR FESR 2021-2027",
@@ -1865,6 +1912,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
