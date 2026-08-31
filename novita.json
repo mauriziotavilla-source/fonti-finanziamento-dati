@@ -1,40 +1,12 @@
 {
-  "generated_at": "2026-08-31T11:56:58.924Z",
+  "generated_at": "2026-08-31T18:30:22.860Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "1a5185638d2cdf269704ea6d31537b47a6feb405",
   "counts": {
-    "nuovi": 1,
-    "aggiornati": 1
+    "nuovi": 0,
+    "aggiornati": 0
   },
-  "nuovi": [
-    {
-      "id": "regione-sicilia-bandi-partecipazione-manifestazione-fieristica-fruit-attraction-anno-2026",
-      "nome": "PARTECIPAZIONE MANIFESTAZIONE FIERISTICA FRUIT ATTRACTION ANNO 2026",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/fiera-agroalimentare-fruit-attraction-anno-2026",
-      "data_pubblicazione": "2026-08-31",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "a0222815352a45d074299db0823b524c3226894f",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
-  "aggiornati": [
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-trattativa-privata-alla-convenzione-per-l-affidamento-in-conc",
-      "nome": "Avviso pubblico di TRATTATIVA PRIVATA ALLA CONVENZIONE PER L’AFFIDAMENTO IN CONCESSIONE TEMPORANEA DI TERRENI DEL DEMANIO FORESTALE REGIONALE GESTITI DAL DIPARTIMENTO DELLO SVILUPPO RURALE E TERRITORIALE PER LO SFALCIO DI PRODOTTI ERBOSI SPONTANE Catania",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-trattativa-privata-alla-convenzione-l-affidamento-concessione-temporanea-terreni-demanio-forestale-regionale-gestiti-dipartimento-sviluppo-rurale",
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "9bde4e45f5bc3a8ae9c9d07ef4cc6fc84d52ecd4",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "nuovi": [],
+  "aggiornati": [],
   "errori_fonti": []
 }
