@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-09-01T02:13:47.933Z",
+  "generated_at": "2026-09-01T10:36:27.303Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "1a5185638d2cdf269704ea6d31537b47a6feb405",
+  "catalog_hash": "ba2f2327bf71db71ce22c4865e407706c8ca5c0c",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 0
+    "nuovi": 1,
+    "aggiornati": 1
   },
-  "nuovi": [],
-  "aggiornati": [],
+  "nuovi": [
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-bene-immobile-sito-nel-comune-di-acireale-loc-ta-sant",
+      "nome": "AVVISO PUBBLICO DI VENDITA bene immobile sito nel Comune di Acireale, loc.tà Santa Tecla in favore degli attuali utilizzatori Sigg.ri Leonardi Maria, Leonardi Michelangelo e Miceli Emiddia",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-acireale-locta-santa-tecla-0",
+      "data_pubblicazione": "2026-10-01",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "e41facca88be9a25b278e615cfba107c33537bb3",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
+  "aggiornati": [
+    {
+      "id": "regione-sicilia-bandi-partecipazione-manifestazione-fieristica-fruit-attraction-anno-2026",
+      "nome": "PARTECIPAZIONE MANIFESTAZIONE FIERISTICA FRUIT ATTRACTION ANNO 2026",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/fiera-agroalimentare-fruit-attraction-anno-2026",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "c0bef45e95d5eb007ab25285cf638931aa263e2b",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "errori_fonti": []
 }

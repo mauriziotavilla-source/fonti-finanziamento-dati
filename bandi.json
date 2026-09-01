@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-08-31",
-  "versione": 102,
+  "ultimo_aggiornamento": "2026-09-01",
+  "versione": 103,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "1a5185638d2cdf269704ea6d31537b47a6feb405",
-  "generated_at": "2026-09-01T02:13:47.933Z",
+  "catalog_hash": "ba2f2327bf71db71ce22c4865e407706c8ca5c0c",
+  "generated_at": "2026-09-01T10:36:27.302Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -100,6 +100,53 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "9bde4e45f5bc3a8ae9c9d07ef4cc6fc84d52ecd4"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-bene-immobile-sito-nel-comune-di-acireale-loc-ta-sant",
+      "nome": "AVVISO PUBBLICO DI VENDITA bene immobile sito nel Comune di Acireale, loc.tà Santa Tecla in favore degli attuali utilizzatori Sigg.ri Leonardi Maria, Leonardi Michelangelo e Miceli Emiddia",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA bene immobile sito nel Comune di Acireale, loc.tà Santa Tecla in favore degli attuali utilizzatori Sigg.ri Leonardi Maria, Leonardi Michelangelo e Miceli Emiddia Scade il: 01/10/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA bene immobile sito nel Comune di Acireale, loc.tà Santa Tecla in favore degli attuali utilizzatori Sigg.ri Leonardi Maria, Leonardi Michelangelo e Miceli Emiddia. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-acireale-locta-santa-tecla-0",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-10-01",
+      "data_uscita": "2026-10-01",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-09-01",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "e41facca88be9a25b278e615cfba107c33537bb3"
     },
     {
       "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
@@ -1152,54 +1199,6 @@
       "hash_contenuto": "c2380f6bf5276e94361dd3696cb84445ddc41632"
     },
     {
-      "id": "regione-sicilia-bandi-partecipazione-allo-stand-istituzionale-richiesta-di-adesione-alla-manifestazion",
-      "nome": "Partecipazione allo Stand Istituzionale. Richiesta di adesione alla manifestazione Seafood Expo Asia -Singapore dal 02 al 04 settembre 2026.",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo",
-        "agricoltura"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Avvisi pubblici Partecipazione allo Stand Istituzionale. Richiesta di adesione alla manifestazione Seafood Expo Asia -Singapore dal 02 al 04 settembre 2026. Scaduto Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Partecipazione allo Stand Istituzionale. Richiesta di adesione alla manifestazione Seafood Expo Asia -Singapore dal 02 al 04 settembre 2026.. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-partecipazione-allo-stand-istituzionale-manifestazione-seafood-expo-asia",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "",
-      "data_uscita": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-09-01",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "45d4edc625b6b8b52358dcf9187c0efb7b58a5b1"
-    },
-    {
       "id": "regione-sicilia-bandi-partecipazione-manifestazione-fieristica-fruit-attraction-anno-2026",
       "nome": "PARTECIPAZIONE MANIFESTAZIONE FIERISTICA FRUIT ATTRACTION ANNO 2026",
       "programma": "Regione Siciliana",
@@ -1209,8 +1208,8 @@
         "commercio",
         "turismo"
       ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici PARTECIPAZIONE MANIFESTAZIONE FIERISTICA FRUIT ATTRACTION ANNO 2026 Scade il: 31/08/2026 - 23:55 Leggi di più",
+      "stato": "chiuso",
+      "descrizione_breve": "Avvisi pubblici PARTECIPAZIONE MANIFESTAZIONE FIERISTICA FRUIT ATTRACTION ANNO 2026 Scaduto Leggi di più",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando PARTECIPAZIONE MANIFESTAZIONE FIERISTICA FRUIT ATTRACTION ANNO 2026. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -1236,15 +1235,15 @@
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-08-31",
-      "data_uscita": "2026-08-31",
+      "data_pubblicazione": "",
+      "data_uscita": "",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-09-01",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "a0222815352a45d074299db0823b524c3226894f"
+      "hash_contenuto": "c0bef45e95d5eb007ab25285cf638931aa263e2b"
     },
     {
       "id": "sicilia-fesr-132-investimenti-regionali-zes",
@@ -1912,6 +1911,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
