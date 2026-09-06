@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-09-06T09:45:43.813Z",
+  "generated_at": "2026-09-06T14:28:50.797Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "ba2f2327bf71db71ce22c4865e407706c8ca5c0c",
+  "catalog_hash": "d849e41f117f8ac4ed1e1eaba85097abfb75b570",
   "counts": {
     "nuovi": 0,
     "aggiornati": 0
   },
   "nuovi": [],
   "aggiornati": [],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "ue-funding-opportunities",
+      "message": "fetch failed"
+    }
+  ]
 }
