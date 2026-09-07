@@ -1,91 +1,12 @@
 {
-  "generated_at": "2026-09-07T16:43:24.835Z",
+  "generated_at": "2026-09-07T20:51:09.555Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "ba2f2327bf71db71ce22c4865e407706c8ca5c0c",
   "counts": {
-    "nuovi": 6,
+    "nuovi": 0,
     "aggiornati": 0
   },
-  "nuovi": [
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-trattativa-privata-alla-convenzione-per-l-affidamento-in-conc",
-      "nome": "Avviso pubblico di TRATTATIVA PRIVATA ALLA CONVENZIONE PER L’AFFIDAMENTO IN CONCESSIONE TEMPORANEA DI TERRENI DEL DEMANIO FORESTALE REGIONALE GESTITI DAL DIPARTIMENTO DELLO SVILUPPO RURALE E TERRITORIALE PER LO SFALCIO DI PRODOTTI ERBOSI SPONTANE Catania",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-trattativa-privata-alla-convenzione-l-affidamento-concessione-temporanea-terreni-demanio-forestale-regionale-gestiti-dipartimento-sviluppo-rurale",
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "9bde4e45f5bc3a8ae9c9d07ef4cc6fc84d52ecd4",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-bene-immobile-sito-nel-comune-di-acireale-loc-ta-sant",
-      "nome": "AVVISO PUBBLICO DI VENDITA bene immobile sito nel Comune di Acireale, loc.tà Santa Tecla in favore degli attuali utilizzatori Sigg.ri Leonardi Maria, Leonardi Michelangelo e Miceli Emiddia",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-acireale-locta-santa-tecla-0",
-      "data_pubblicazione": "2026-10-01",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "e41facca88be9a25b278e615cfba107c33537bb3",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
-      "nome": "BANDO/AVVISO A REGIA - Ob. 2.1 az. 5 cod. 221502_ACQ - Imprese acquicole: investimenti produttivi per le imprese in acquacoltura, avanzati sotto il profilo di sostenibilità ambientale e di innovazione",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bandoavviso-regia-ob-21-az-5-cod-221502acq-imprese-acquicole-investimenti-produttivi-imprese-acquacoltura-avanzati-sotto-profilo-sostenibilita-ambientale",
-      "data_pubblicazione": "2026-10-07",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "929df7fdf89366ef61b481383112cd91c5796e87",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-ddg-1112-del-02-04-2026-aggiornamento-avviso-pubblico-n-4-2024-per-l-attuazione-",
-      "nome": "DDG 1112 del 02.04.2026 - Aggiornamento Avviso pubblico n. 4/2024 per l’attuazione del PAR GOL Sicilia da finanziare nell’ambito del Piano Nazionale di Ripresa e Resilienza (PNRR)",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/ddg-1112-02042026-aggiornamento-avviso-pubblico-n-42024-l-attuazione-par-gol-sicilia-finanziare-nell-ambito-piano-nazionale-ripresa-resilienza-pnrr",
-      "data_pubblicazione": "2026-04-02",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "52cedb08faf5ac6a6d77514c5ca73862a7a5f370",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-partecipazione-manifestazione-fieristica-fruit-attraction-anno-2026",
-      "nome": "PARTECIPAZIONE MANIFESTAZIONE FIERISTICA FRUIT ATTRACTION ANNO 2026",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/fiera-agroalimentare-fruit-attraction-anno-2026",
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "c0bef45e95d5eb007ab25285cf638931aa263e2b",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-procedura-ne",
-      "nome": "ST-MESSINA - Avviso di indagine di mercato per la partecipazione alla procedura negoziata finalizzata all'affidamento dei lavori per interventi di mantenzione straordinaria strada/pista forestale Monte Fossa delle Felci, Isola di Salina, Comune di Leni",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-indagine-mercato-partecipazione-alla-procedura-negoziata-finalizzata-all-affidamento-lavori-interventi-mantenzione-straordinaria-stradapista",
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "69f3a30c1f24047c7efe1bd93d9f56d846440b01",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [],
   "errori_fonti": []
 }
