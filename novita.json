@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-09-09T01:45:26.672Z",
+  "generated_at": "2026-09-09T10:12:51.799Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "ba2f2327bf71db71ce22c4865e407706c8ca5c0c",
+  "catalog_hash": "3086558901bd0417bca74ba9092cc9207896c805",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 1,
     "aggiornati": 0
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "regione-sicilia-bandi-avviso-di-concessione-in-locazione-dell-immobile-di-proprieta-regionale-sito-in-",
+      "nome": "AVVISO DI CONCESSIONE IN LOCAZIONE dell’immobile di proprietà regionale sito in Agrigento, Piazza Vittorio Emanuele, n. 13",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-concessione-locazione-immobile-proprieta-regionale-sito-agrigento-piazza-vittorio-emanuele-n-13",
+      "data_pubblicazione": "2026-10-08",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "f34603451528a32974845ed9d96e3104a5e2f4e7",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "aggiornati": [],
   "errori_fonti": []
 }

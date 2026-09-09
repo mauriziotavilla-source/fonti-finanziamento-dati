@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-09-07",
-  "versione": 107,
+  "ultimo_aggiornamento": "2026-09-09",
+  "versione": 108,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "ba2f2327bf71db71ce22c4865e407706c8ca5c0c",
-  "generated_at": "2026-09-09T01:45:26.672Z",
+  "catalog_hash": "3086558901bd0417bca74ba9092cc9207896c805",
+  "generated_at": "2026-09-09T10:12:51.799Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -53,6 +53,53 @@
         "bandi_nazionali"
       ],
       "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-di-concessione-in-locazione-dell-immobile-di-proprieta-regionale-sito-in-",
+      "nome": "AVVISO DI CONCESSIONE IN LOCAZIONE dell’immobile di proprietà regionale sito in Agrigento, Piazza Vittorio Emanuele, n. 13",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici AVVISO DI CONCESSIONE IN LOCAZIONE dell’immobile di proprietà regionale sito in Agrigento, Piazza Vittorio Emanuele, n. 13 Scade il: 08/10/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO DI CONCESSIONE IN LOCAZIONE dell’immobile di proprietà regionale sito in Agrigento, Piazza Vittorio Emanuele, n. 13. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-concessione-locazione-immobile-proprieta-regionale-sito-agrigento-piazza-vittorio-emanuele-n-13",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-10-08",
+      "data_uscita": "2026-10-08",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-09-09",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "f34603451528a32974845ed9d96e3104a5e2f4e7"
     },
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-di-trattativa-privata-alla-convenzione-per-l-affidamento-in-conc",
@@ -1648,53 +1695,6 @@
       "url_origine": "https://www.invitalia.it/cosa-facciamo/creiamo-nuove-aziende/smartstart-italia"
     },
     {
-      "id": "regione-sicilia-bandi-st-messina-avviso-di-indagine-di-mercato-per-la-partecipazione-alla-procedura-ne",
-      "nome": "ST-MESSINA - Avviso di indagine di mercato per la partecipazione alla procedura negoziata finalizzata all'affidamento dei lavori per interventi di mantenzione straordinaria strada/pista forestale Monte Fossa delle Felci, Isola di Salina, Comune di Leni",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Avvisi pubblici ST-MESSINA - Avviso di indagine di mercato per la partecipazione alla procedura negoziata finalizzata all'affidamento dei lavori per interventi di mantenzione straordinaria strada/pista forestale Monte Fossa delle Felci, Isola di Salina, Comune",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando ST-MESSINA - Avviso di indagine di mercato per la partecipazione alla procedura negoziata finalizzata all'affidamento dei lavori per interventi di mantenzione straordinaria strada/pista forestale Monte Fossa delle Felci, Isola di Salina, Comune di Leni. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-indagine-mercato-partecipazione-alla-procedura-negoziata-finalizzata-all-affidamento-lavori-interventi-mantenzione-straordinaria-stradapista",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "",
-      "data_uscita": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-09-09",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "69f3a30c1f24047c7efe1bd93d9f56d846440b01"
-    },
-    {
       "id": "sicilia-step-fesr-2026",
       "nome": "STEP Sicilia – Deep-tech, biotech e cleantech (PR FESR)",
       "programma": "Regione Siciliana – PR FESR 2021-2027",
@@ -1911,6 +1911,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
