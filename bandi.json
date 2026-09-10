@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-09-09",
-  "versione": 108,
+  "ultimo_aggiornamento": "2026-09-10",
+  "versione": 109,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "3086558901bd0417bca74ba9092cc9207896c805",
-  "generated_at": "2026-09-10T15:18:23.137Z",
+  "catalog_hash": "795f3134150bdea46492d2852ed396f60f956a39",
+  "generated_at": "2026-09-10T20:08:30.662Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -1695,6 +1695,53 @@
       "url_origine": "https://www.invitalia.it/cosa-facciamo/creiamo-nuove-aziende/smartstart-italia"
     },
     {
+      "id": "regione-sicilia-bandi-st-messina-avviso-manifestazione-di-interesse-per-la-vendita-a-corpo-di-un-lotto",
+      "nome": "ST MESSINA - AVVISO MANIFESTAZIONE DI INTERESSE per la vendita a corpo di un lotto unico di materiale legnoso di conifere",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Manifestazioni di interesse ST MESSINA - AVVISO MANIFESTAZIONE DI INTERESSE per la vendita a corpo di un lotto unico di materiale legnoso di conifere Scade il: 21/09/2026 - 12:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando ST MESSINA - AVVISO MANIFESTAZIONE DI INTERESSE per la vendita a corpo di un lotto unico di materiale legnoso di conifere. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-manifestazione-interesse-vendita-corpo-lotto-unico-materiale-legnoso-conifere",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-09-21",
+      "data_uscita": "2026-09-21",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-09-10",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "cbed6880cc0ca10e3c3b7fbb9a224ef9ec3aab75"
+    },
+    {
       "id": "sicilia-step-fesr-2026",
       "nome": "STEP Sicilia – Deep-tech, biotech e cleantech (PR FESR)",
       "programma": "Regione Siciliana – PR FESR 2021-2027",
@@ -1911,6 +1958,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
