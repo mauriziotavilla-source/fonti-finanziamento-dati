@@ -1,12 +1,59 @@
 {
-  "ultimo_aggiornamento": "2026-09-10",
-  "versione": 109,
+  "ultimo_aggiornamento": "2026-09-14",
+  "versione": 110,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "795f3134150bdea46492d2852ed396f60f956a39",
-  "generated_at": "2026-09-14T01:54:33.190Z",
+  "catalog_hash": "fcffb5b22be05ea31ecc011778da85ec21510142",
+  "generated_at": "2026-09-14T11:03:22.791Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
+    {
+      "id": "regione-sicilia-bandi-aggiornamento-avviso-pubblico-n-2-2022-e-s-m-i-per-l-attuazione-del-par-gol-sici",
+      "nome": "Aggiornamento Avviso pubblico n. 2/2022 e s.m.i per l’attuazione del PAR GOL Sicilia",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici Aggiornamento Avviso pubblico n. 2/2022 e s.m.i per l’attuazione del PAR GOL Sicilia Scade il: 30/06/2027 - 00:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Aggiornamento Avviso pubblico n. 2/2022 e s.m.i per l’attuazione del PAR GOL Sicilia. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/aggiornamento-avviso-pubblico-n-22022-smi-l-attuazione-par-gol-sicilia",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2027-06-30",
+      "data_uscita": "2027-06-30",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-09-14",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "d166d14e6b7c88fd5877e76bb465ece74331d7bf"
+    },
     {
       "id": "invitalia-incentivi-approfondisci",
       "nome": "Approfondisci",
@@ -100,53 +147,6 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "f34603451528a32974845ed9d96e3104a5e2f4e7"
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-trattativa-privata-alla-convenzione-per-l-affidamento-in-conc",
-      "nome": "Avviso pubblico di TRATTATIVA PRIVATA ALLA CONVENZIONE PER L’AFFIDAMENTO IN CONCESSIONE TEMPORANEA DI TERRENI DEL DEMANIO FORESTALE REGIONALE GESTITI DAL DIPARTIMENTO DELLO SVILUPPO RURALE E TERRITORIALE PER LO SFALCIO DI PRODOTTI ERBOSI SPONTANE Catania",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Avvisi pubblici Avviso pubblico di TRATTATIVA PRIVATA ALLA CONVENZIONE PER L’AFFIDAMENTO IN CONCESSIONE TEMPORANEA DI TERRENI DEL DEMANIO FORESTALE REGIONALE GESTITI DAL DIPARTIMENTO DELLO SVILUPPO RURALE E TERRITORIALE PER LO SFALCIO DI PRODOTTI ERBOSI SPONTA",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso pubblico di TRATTATIVA PRIVATA ALLA CONVENZIONE PER L’AFFIDAMENTO IN CONCESSIONE TEMPORANEA DI TERRENI DEL DEMANIO FORESTALE REGIONALE GESTITI DAL DIPARTIMENTO DELLO SVILUPPO RURALE E TERRITORIALE PER LO SFALCIO DI PRODOTTI ERBOSI SPONTANE Catania. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-trattativa-privata-alla-convenzione-l-affidamento-concessione-temporanea-terreni-demanio-forestale-regionale-gestiti-dipartimento-sviluppo-rurale",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "",
-      "data_uscita": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-09-14",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "9bde4e45f5bc3a8ae9c9d07ef4cc6fc84d52ecd4"
     },
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-bene-immobile-sito-nel-comune-di-acireale-loc-ta-sant",
@@ -1958,6 +1958,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
