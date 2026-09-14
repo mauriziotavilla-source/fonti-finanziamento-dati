@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-09-14T11:03:22.791Z",
+  "generated_at": "2026-09-14T17:06:36.867Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "fcffb5b22be05ea31ecc011778da85ec21510142",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 0
   },
-  "nuovi": [
-    {
-      "id": "regione-sicilia-bandi-aggiornamento-avviso-pubblico-n-2-2022-e-s-m-i-per-l-attuazione-del-par-gol-sici",
-      "nome": "Aggiornamento Avviso pubblico n. 2/2022 e s.m.i per l’attuazione del PAR GOL Sicilia",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/aggiornamento-avviso-pubblico-n-22022-smi-l-attuazione-par-gol-sicilia",
-      "data_pubblicazione": "2027-06-30",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "d166d14e6b7c88fd5877e76bb465ece74331d7bf",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [],
   "errori_fonti": []
 }
