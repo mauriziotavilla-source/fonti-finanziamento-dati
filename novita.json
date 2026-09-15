@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-09-15T02:03:15.975Z",
+  "generated_at": "2026-09-15T10:32:43.443Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "fcffb5b22be05ea31ecc011778da85ec21510142",
+  "catalog_hash": "663eb51065dde95ce0899151608554d9246c0d58",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 1,
     "aggiornati": 0
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "regione-sicilia-bandi-st-catania-avviso-pubblico-di-ricerca-in-locazione-di-un-immobile-da-adibire-a-s",
+      "nome": "ST CATANIA - AVVISO PUBBLICO DI RICERCA IN LOCAZIONE DI UN IMMOBILE DA ADIBIRE A SEDE ISTITUZIONALE del: Dipartimento regionale dello sviluppo rurale e territoriale - Servizio 11 — Servizio per il Territorio di Catania",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/15-settembre-2026-st-catania-avviso-pubblico-ricerca-locazione-immobile-adibire-sede-istituzionale-dipartimento-regionale-sviluppo-rurale-territoriale-servizio",
+      "data_pubblicazione": "2026-10-15",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "466c3c97a09938998c32c8f3686f4b0624d4912f",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "aggiornati": [],
   "errori_fonti": []
 }

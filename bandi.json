@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-09-14",
-  "versione": 110,
+  "ultimo_aggiornamento": "2026-09-15",
+  "versione": 111,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "fcffb5b22be05ea31ecc011778da85ec21510142",
-  "generated_at": "2026-09-15T02:03:15.974Z",
+  "catalog_hash": "663eb51065dde95ce0899151608554d9246c0d58",
+  "generated_at": "2026-09-15T10:32:43.442Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -1246,53 +1246,6 @@
       "hash_contenuto": "c2380f6bf5276e94361dd3696cb84445ddc41632"
     },
     {
-      "id": "regione-sicilia-bandi-partecipazione-manifestazione-fieristica-fruit-attraction-anno-2026",
-      "nome": "PARTECIPAZIONE MANIFESTAZIONE FIERISTICA FRUIT ATTRACTION ANNO 2026",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Avvisi pubblici PARTECIPAZIONE MANIFESTAZIONE FIERISTICA FRUIT ATTRACTION ANNO 2026 Scaduto Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando PARTECIPAZIONE MANIFESTAZIONE FIERISTICA FRUIT ATTRACTION ANNO 2026. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/fiera-agroalimentare-fruit-attraction-anno-2026",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "",
-      "data_uscita": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-09-15",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "c0bef45e95d5eb007ab25285cf638931aa263e2b"
-    },
-    {
       "id": "sicilia-fesr-132-investimenti-regionali-zes",
       "nome": "PR FESR Sicilia – Azione 1.3.2 regionale (investimenti e ZES)",
       "programma": "Regione Siciliana – PR FESR 2021-2027",
@@ -1695,6 +1648,53 @@
       "url_origine": "https://www.invitalia.it/cosa-facciamo/creiamo-nuove-aziende/smartstart-italia"
     },
     {
+      "id": "regione-sicilia-bandi-st-catania-avviso-pubblico-di-ricerca-in-locazione-di-un-immobile-da-adibire-a-s",
+      "nome": "ST CATANIA - AVVISO PUBBLICO DI RICERCA IN LOCAZIONE DI UN IMMOBILE DA ADIBIRE A SEDE ISTITUZIONALE del: Dipartimento regionale dello sviluppo rurale e territoriale - Servizio 11 — Servizio per il Territorio di Catania",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici ST CATANIA - AVVISO PUBBLICO DI RICERCA IN LOCAZIONE DI UN IMMOBILE DA ADIBIRE A SEDE ISTITUZIONALE del: Dipartimento regionale dello sviluppo rurale e territoriale - Servizio 11 — Servizio per il Territorio di Catania Scade il: 15/10/2026 - 12",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando ST CATANIA - AVVISO PUBBLICO DI RICERCA IN LOCAZIONE DI UN IMMOBILE DA ADIBIRE A SEDE ISTITUZIONALE del: Dipartimento regionale dello sviluppo rurale e territoriale - Servizio 11 — Servizio per il Territorio di Catania. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/15-settembre-2026-st-catania-avviso-pubblico-ricerca-locazione-immobile-adibire-sede-istituzionale-dipartimento-regionale-sviluppo-rurale-territoriale-servizio",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-10-15",
+      "data_uscita": "2026-10-15",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-09-15",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "466c3c97a09938998c32c8f3686f4b0624d4912f"
+    },
+    {
       "id": "regione-sicilia-bandi-st-messina-avviso-manifestazione-di-interesse-per-la-vendita-a-corpo-di-un-lotto",
       "nome": "ST MESSINA - AVVISO MANIFESTAZIONE DI INTERESSE per la vendita a corpo di un lotto unico di materiale legnoso di conifere",
       "programma": "Regione Siciliana",
@@ -1958,6 +1958,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
