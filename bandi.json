@@ -1,12 +1,59 @@
 {
-  "ultimo_aggiornamento": "2026-09-15",
-  "versione": 111,
+  "ultimo_aggiornamento": "2026-09-16",
+  "versione": 112,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "663eb51065dde95ce0899151608554d9246c0d58",
-  "generated_at": "2026-09-16T01:54:22.633Z",
+  "catalog_hash": "50b02eab48f3a6db341fc6535d653ac0e34ff7cc",
+  "generated_at": "2026-09-16T10:22:03.460Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
+    {
+      "id": "regione-sicilia-bandi-16-settembre-2026-st-siracusa-avviso-pubblico-finalizzato-alla-manifestazione-di",
+      "nome": "16 settembre 2026 - ST SIRACUSA - AVVISO PUBBLICO FINALIZZATO ALLA MANIFESTAZIONE DI INTERESSE PER LA CESSIONE, A TITOLO ONEROSO ED IN BLOCCO UNICO, DI LEGNA DA ARDERE",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Manifestazioni di interesse 16 settembre 2026 - ST SIRACUSA - AVVISO PUBBLICO FINALIZZATO ALLA MANIFESTAZIONE DI INTERESSE PER LA CESSIONE, A TITOLO ONEROSO ED IN BLOCCO UNICO, DI LEGNA DA ARDERE Scade il: 19/09/2026 - 13:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando 16 settembre 2026 - ST SIRACUSA - AVVISO PUBBLICO FINALIZZATO ALLA MANIFESTAZIONE DI INTERESSE PER LA CESSIONE, A TITOLO ONEROSO ED IN BLOCCO UNICO, DI LEGNA DA ARDERE. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/16-settembre-2026-st-siracusa-avviso-pubblico-finalizzato-alla-manifestazione-interesse-cessione-titolo-oneroso-ed-blocco-unico-legna-ardere",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-09-19",
+      "data_uscita": "2026-09-19",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-09-16",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "33249269d2a4df40c75af7c63febc85a0ce7c853"
+    },
     {
       "id": "regione-sicilia-bandi-aggiornamento-avviso-pubblico-n-2-2022-e-s-m-i-per-l-attuazione-del-par-gol-sici",
       "nome": "Aggiornamento Avviso pubblico n. 2/2022 e s.m.i per l’attuazione del PAR GOL Sicilia",
@@ -149,8 +196,8 @@
       "hash_contenuto": "f34603451528a32974845ed9d96e3104a5e2f4e7"
     },
     {
-      "id": "regione-sicilia-bandi-avviso-pubblico-di-vendita-bene-immobile-sito-nel-comune-di-acireale-loc-ta-sant",
-      "nome": "AVVISO PUBBLICO DI VENDITA bene immobile sito nel Comune di Acireale, loc.tà Santa Tecla in favore degli attuali utilizzatori Sigg.ri Leonardi Maria, Leonardi Michelangelo e Miceli Emiddia",
+      "id": "regione-sicilia-bandi-bando-attuazione-su-indennizzi-finanziari-a-copertura-dei-maggiori-costi-di-prod",
+      "nome": "BANDO ATTUAZIONE SU INDENNIZZI FINANZIARI A COPERTURA DEI MAGGIORI COSTI DI PRODUZIONE SOSTENUTI DALLE IMPRESE DELLA PESCA E DELL’ACQUACOLTURA PER EFFETTO DEL CONFLITTO BELLICO IN MEDIO ORIENTE",
       "programma": "Regione Siciliana",
       "livello": "regionale",
       "settori": [
@@ -159,8 +206,8 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO DI VENDITA bene immobile sito nel Comune di Acireale, loc.tà Santa Tecla in favore degli attuali utilizzatori Sigg.ri Leonardi Maria, Leonardi Michelangelo e Miceli Emiddia Scade il: 01/10/2026 - 12:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO DI VENDITA bene immobile sito nel Comune di Acireale, loc.tà Santa Tecla in favore degli attuali utilizzatori Sigg.ri Leonardi Maria, Leonardi Michelangelo e Miceli Emiddia. Territorio: Sicilia.",
+      "descrizione_breve": "Avvisi pubblici BANDO ATTUAZIONE SU INDENNIZZI FINANZIARI A COPERTURA DEI MAGGIORI COSTI DI PRODUZIONE SOSTENUTI DALLE IMPRESE DELLA PESCA E DELL’ACQUACOLTURA PER EFFETTO DEL CONFLITTO BELLICO IN MEDIO ORIENTE Scade il: 10/10/2026 - 23:59 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando BANDO ATTUAZIONE SU INDENNIZZI FINANZIARI A COPERTURA DEI MAGGIORI COSTI DI PRODUZIONE SOSTENUTI DALLE IMPRESE DELLA PESCA E DELL’ACQUACOLTURA PER EFFETTO DEL CONFLITTO BELLICO IN MEDIO ORIENTE. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
       "beneficiari": [
@@ -179,21 +226,21 @@
         "Documenti richiesti dal portale"
       ],
       "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-vendita-bene-immobile-sito-nel-comune-acireale-locta-santa-tecla-0",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bando-attuazione-azione-5-obiettivo-specifico-22-priorita-2-pn-feampa-italia-20212027-intervento-7-indennizzo-eventi-imprevisti-tipo-ambientale-climatico-o",
       "checklist": [
         "Aprire il link ufficiale e verificare l'avviso completo",
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-10-01",
-      "data_uscita": "2026-10-01",
+      "data_pubblicazione": "2026-10-10",
+      "data_uscita": "2026-10-10",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-09-16",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "e41facca88be9a25b278e615cfba107c33537bb3"
+      "hash_contenuto": "23b1f614c53e10b88871a21577a387873fa82914"
     },
     {
       "id": "regione-sicilia-bandi-bando-avviso-a-regia-ob-2-1-az-5-cod-221502-acq-imprese-acquicole-investimenti-p",
@@ -1958,6 +2005,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
