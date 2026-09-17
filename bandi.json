@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-09-16",
-  "versione": 112,
+  "ultimo_aggiornamento": "2026-09-17",
+  "versione": 113,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "50b02eab48f3a6db341fc6535d653ac0e34ff7cc",
-  "generated_at": "2026-09-17T01:58:20.724Z",
+  "catalog_hash": "685c80f3e2df7ffbb72c458914b9ef994674b774",
+  "generated_at": "2026-09-17T10:31:19.862Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -1597,6 +1597,53 @@
       "url_origine": "https://digital-innovation-hub.ec.europa.eu/edih-network"
     },
     {
+      "id": "regione-sicilia-bandi-riapertura-termini-avviso-ddg-n-1922-del-01-06-2026-r-d-l",
+      "nome": "RIAPERTURA TERMINI - AVVISO DDG n. 1922 DEL 01.06.2026, R.D.L.",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "aperto",
+      "descrizione_breve": "Avvisi pubblici RIAPERTURA TERMINI - AVVISO DDG n. 1922 DEL 01.06.2026, R.D.L. Scade il: 30/10/2026 - 00:00 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando RIAPERTURA TERMINI - AVVISO DDG n. 1922 DEL 01.06.2026, R.D.L.. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/riapertura-termini-avviso-ddg-n-1922-01062026-rdl",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-06-01",
+      "data_uscita": "2026-06-01",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-09-17",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "35febfe70325f8da43a7ab10aa51ab79254430a0"
+    },
+    {
       "id": "simest-export",
       "nome": "SIMEST – Finanziamenti internazionalizzazione PMI",
       "programma": "SIMEST / MIMIT",
@@ -2005,6 +2052,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
