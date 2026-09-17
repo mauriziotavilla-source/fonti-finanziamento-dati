@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-09-17T10:31:19.862Z",
+  "generated_at": "2026-09-17T15:44:08.442Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "685c80f3e2df7ffbb72c458914b9ef994674b774",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 0
   },
-  "nuovi": [
-    {
-      "id": "regione-sicilia-bandi-riapertura-termini-avviso-ddg-n-1922-del-01-06-2026-r-d-l",
-      "nome": "RIAPERTURA TERMINI - AVVISO DDG n. 1922 DEL 01.06.2026, R.D.L.",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/riapertura-termini-avviso-ddg-n-1922-01062026-rdl",
-      "data_pubblicazione": "2026-06-01",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "35febfe70325f8da43a7ab10aa51ab79254430a0",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [],
   "errori_fonti": []
 }
