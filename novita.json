@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-09-18T10:07:42.802Z",
+  "generated_at": "2026-09-18T15:16:39.505Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "aa82296d2921679b9c33ca9fab20e10eb968abf5",
+  "catalog_hash": "3b0371b2fe2ec451ff4ec35861083387feb3fdaf",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 0,
     "aggiornati": 0
   },
-  "nuovi": [
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-codice-del-terzo-settore-annualita-2024-2025",
-      "nome": "AVVISO PUBBLICO CODICE DEL TERZO SETTORE - Annualità 2024/2025.",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-codice-terzo-settore-annualita-20242025",
-      "data_pubblicazione": "2026-10-30",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "50d68605b2cb2a1fb8b9e47ba699f5e12427d081",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    },
-    {
-      "id": "regione-sicilia-bandi-st-messina-avviso-avvio-indagine-di-mercato-manifestazione-di-interesse-per-inte",
-      "nome": "ST MESSINA - AVVISO Avvio indagine di mercato/manifestazione di interesse per “Interventi di manutenzione straordinaria della pista forestale “Salice-Castelluccio” del Distretto 1 – Comune di Messina",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-avvio-indagine-mercatomanifestazione-interesse-interventi-manutenzione-straordinaria-pista-forestale-salice-castelluccio-distretto-1-comune",
-      "data_pubblicazione": "2026-09-30",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "dcb316d9a4790a2686a509cc52ad2568ed6f829c",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [],
   "errori_fonti": []
 }

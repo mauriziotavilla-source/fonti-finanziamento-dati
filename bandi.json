@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-09-18",
-  "versione": 114,
+  "versione": 115,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "aa82296d2921679b9c33ca9fab20e10eb968abf5",
-  "generated_at": "2026-09-18T10:07:42.802Z",
+  "catalog_hash": "3b0371b2fe2ec451ff4ec35861083387feb3fdaf",
+  "generated_at": "2026-09-18T15:16:39.504Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -1786,53 +1786,6 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "dcb316d9a4790a2686a509cc52ad2568ed6f829c"
-    },
-    {
-      "id": "regione-sicilia-bandi-st-messina-avviso-manifestazione-di-interesse-per-la-vendita-a-corpo-di-un-lotto",
-      "nome": "ST MESSINA - AVVISO MANIFESTAZIONE DI INTERESSE per la vendita a corpo di un lotto unico di materiale legnoso di conifere",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Manifestazioni di interesse ST MESSINA - AVVISO MANIFESTAZIONE DI INTERESSE per la vendita a corpo di un lotto unico di materiale legnoso di conifere Scade il: 21/09/2026 - 12:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando ST MESSINA - AVVISO MANIFESTAZIONE DI INTERESSE per la vendita a corpo di un lotto unico di materiale legnoso di conifere. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-manifestazione-interesse-vendita-corpo-lotto-unico-materiale-legnoso-conifere",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-09-21",
-      "data_uscita": "2026-09-21",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-09-18",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "cbed6880cc0ca10e3c3b7fbb9a224ef9ec3aab75"
     },
     {
       "id": "sicilia-step-fesr-2026",
