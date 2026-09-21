@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-09-18",
-  "versione": 115,
+  "ultimo_aggiornamento": "2026-09-21",
+  "versione": 116,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "3b0371b2fe2ec451ff4ec35861083387feb3fdaf",
-  "generated_at": "2026-09-21T01:54:09.920Z",
+  "catalog_hash": "737b4bcc1e2c8e3f59e3b0088b7f9642b181d515",
+  "generated_at": "2026-09-21T11:13:02.652Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -17,8 +17,8 @@
         "commercio",
         "turismo"
       ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Manifestazioni di interesse 16 settembre 2026 - ST SIRACUSA - AVVISO PUBBLICO FINALIZZATO ALLA MANIFESTAZIONE DI INTERESSE PER LA CESSIONE, A TITOLO ONEROSO ED IN BLOCCO UNICO, DI LEGNA DA ARDERE Scade il: 19/09/2026 - 13:00 Leggi di più",
+      "stato": "chiuso",
+      "descrizione_breve": "Manifestazioni di interesse 16 settembre 2026 - ST SIRACUSA - AVVISO PUBBLICO FINALIZZATO ALLA MANIFESTAZIONE DI INTERESSE PER LA CESSIONE, A TITOLO ONEROSO ED IN BLOCCO UNICO, DI LEGNA DA ARDERE Scaduto Leggi di più",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando 16 settembre 2026 - ST SIRACUSA - AVVISO PUBBLICO FINALIZZATO ALLA MANIFESTAZIONE DI INTERESSE PER LA CESSIONE, A TITOLO ONEROSO ED IN BLOCCO UNICO, DI LEGNA DA ARDERE. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -44,15 +44,15 @@
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-09-19",
-      "data_uscita": "2026-09-19",
+      "data_pubblicazione": "",
+      "data_uscita": "",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-09-21",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "33249269d2a4df40c75af7c63febc85a0ce7c853"
+      "hash_contenuto": "e2bbdf7524d0a7a7a40a5ef40aeb3363930df409"
     },
     {
       "id": "regione-sicilia-bandi-aggiornamento-avviso-pubblico-n-2-2022-e-s-m-i-per-l-attuazione-del-par-gol-sici",
@@ -2004,6 +2004,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }

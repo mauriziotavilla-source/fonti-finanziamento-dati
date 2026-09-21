@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-09-21T01:54:09.920Z",
+  "generated_at": "2026-09-21T11:13:02.653Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "3b0371b2fe2ec451ff4ec35861083387feb3fdaf",
+  "catalog_hash": "737b4bcc1e2c8e3f59e3b0088b7f9642b181d515",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 0
+    "aggiornati": 1
   },
   "nuovi": [],
-  "aggiornati": [],
+  "aggiornati": [
+    {
+      "id": "regione-sicilia-bandi-16-settembre-2026-st-siracusa-avviso-pubblico-finalizzato-alla-manifestazione-di",
+      "nome": "16 settembre 2026 - ST SIRACUSA - AVVISO PUBBLICO FINALIZZATO ALLA MANIFESTAZIONE DI INTERESSE PER LA CESSIONE, A TITOLO ONEROSO ED IN BLOCCO UNICO, DI LEGNA DA ARDERE",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/16-settembre-2026-st-siracusa-avviso-pubblico-finalizzato-alla-manifestazione-interesse-cessione-titolo-oneroso-ed-blocco-unico-legna-ardere",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "e2bbdf7524d0a7a7a40a5ef40aeb3363930df409",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "errori_fonti": []
 }
