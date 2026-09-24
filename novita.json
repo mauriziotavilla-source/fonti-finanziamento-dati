@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-09-24T15:59:08.306Z",
+  "generated_at": "2026-09-24T20:50:33.301Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "f669ccf3214dc5c5c4886c49d0d3e4946e50885b",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 0
   },
-  "nuovi": [
-    {
-      "id": "regione-sicilia-bandi-manifestazione-di-interesse-per-l-acquisto-di-carrube-provenienti-da-raccolta-in",
-      "nome": "Manifestazione di interesse per l'acquisto di carrube provenienti da raccolta in economia diretta da alberi sparsi presenti nei Demani forestali gestiti dal Servizio 15 – Servizio per il Territorio di Ragusa",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/manifestazione-interesse-l-acquisto-carrube-provenienti-raccolta-economia-diretta-alberi-sparsi-presenti-nei-demani-forestali-gestiti-servizio-15-servizio",
-      "data_pubblicazione": "2026-10-01",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "b2c07e9105c90240639718a5cc56826a5e7ab6aa",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [],
   "errori_fonti": []
 }
