@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-09-21",
-  "versione": 116,
+  "ultimo_aggiornamento": "2026-09-24",
+  "versione": 117,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "737b4bcc1e2c8e3f59e3b0088b7f9642b181d515",
-  "generated_at": "2026-09-24T10:35:42.221Z",
+  "catalog_hash": "f669ccf3214dc5c5c4886c49d0d3e4946e50885b",
+  "generated_at": "2026-09-24T15:59:08.305Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -194,53 +194,6 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "50d68605b2cb2a1fb8b9e47ba699f5e12427d081"
-    },
-    {
-      "id": "regione-sicilia-bandi-bando-attuazione-su-indennizzi-finanziari-a-copertura-dei-maggiori-costi-di-prod",
-      "nome": "BANDO ATTUAZIONE SU INDENNIZZI FINANZIARI A COPERTURA DEI MAGGIORI COSTI DI PRODUZIONE SOSTENUTI DALLE IMPRESE DELLA PESCA E DELL’ACQUACOLTURA PER EFFETTO DEL CONFLITTO BELLICO IN MEDIO ORIENTE",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici BANDO ATTUAZIONE SU INDENNIZZI FINANZIARI A COPERTURA DEI MAGGIORI COSTI DI PRODUZIONE SOSTENUTI DALLE IMPRESE DELLA PESCA E DELL’ACQUACOLTURA PER EFFETTO DEL CONFLITTO BELLICO IN MEDIO ORIENTE Scade il: 10/10/2026 - 23:59 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando BANDO ATTUAZIONE SU INDENNIZZI FINANZIARI A COPERTURA DEI MAGGIORI COSTI DI PRODUZIONE SOSTENUTI DALLE IMPRESE DELLA PESCA E DELL’ACQUACOLTURA PER EFFETTO DEL CONFLITTO BELLICO IN MEDIO ORIENTE. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bando-attuazione-azione-5-obiettivo-specifico-22-priorita-2-pn-feampa-italia-20212027-intervento-7-indennizzo-eventi-imprevisti-tipo-ambientale-climatico-o",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-10-10",
-      "data_uscita": "2026-10-10",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-09-24",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "23b1f614c53e10b88871a21577a387873fa82914"
     },
     {
       "id": "credito-imposta-40",
@@ -1149,6 +1102,53 @@
       "hash_contenuto": "e19aff73c09d1102261fb5fa7867ae0c657f20a7"
     },
     {
+      "id": "regione-sicilia-bandi-manifestazione-di-interesse-per-l-acquisto-di-carrube-provenienti-da-raccolta-in",
+      "nome": "Manifestazione di interesse per l'acquisto di carrube provenienti da raccolta in economia diretta da alberi sparsi presenti nei Demani forestali gestiti dal Servizio 15 – Servizio per il Territorio di Ragusa",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Manifestazioni di interesse Manifestazione di interesse per l'acquisto di carrube provenienti da raccolta in economia diretta da alberi sparsi presenti nei Demani forestali gestiti dal Servizio 15 – Servizio per il Territorio di Ragusa Scade il: 01/10/2026 - 0",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Manifestazione di interesse per l'acquisto di carrube provenienti da raccolta in economia diretta da alberi sparsi presenti nei Demani forestali gestiti dal Servizio 15 – Servizio per il Territorio di Ragusa. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/manifestazione-interesse-l-acquisto-carrube-provenienti-raccolta-economia-diretta-alberi-sparsi-presenti-nei-demani-forestali-gestiti-servizio-15-servizio",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-10-01",
+      "data_uscita": "2026-10-01",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-09-24",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "b2c07e9105c90240639718a5cc56826a5e7ab6aa"
+    },
+    {
       "id": "ue-funding-opportunities-open-and-upcoming-calls-for-horizon-europe",
       "nome": "Open and upcoming calls for Horizon Europe",
       "programma": "UE Funding Opportunities",
@@ -2004,6 +2004,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
