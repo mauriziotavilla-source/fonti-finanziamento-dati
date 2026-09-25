@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-09-25T02:05:37.697Z",
+  "generated_at": "2026-09-25T10:39:18.174Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f669ccf3214dc5c5c4886c49d0d3e4946e50885b",
+  "catalog_hash": "29c15a608347a69f754088484e9adb5f89726fba",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 1,
     "aggiornati": 0
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "regione-sicilia-bandi-st-agrigento-avviso-di-asta-pubblica-per-la-vendita-di-equidi-e-caprini-centro-d",
+      "nome": "ST AGRIGENTO - Avviso di asta pubblica per la vendita di equidi e caprini -Centro di allevamento Pizzo dell'Apa - 18 novembre 2026.",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-agrigento-avviso-asta-pubblica-vendita-equidi-caprini-centro-allevamento-pizzo-apa-18-novembre-2026",
+      "data_pubblicazione": "2026-11-17",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "f37cc3756812ee507cec028b05f1374401c6176e",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "aggiornati": [],
   "errori_fonti": []
 }

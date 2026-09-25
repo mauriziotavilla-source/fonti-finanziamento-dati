@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-09-24",
-  "versione": 117,
+  "ultimo_aggiornamento": "2026-09-25",
+  "versione": 118,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "f669ccf3214dc5c5c4886c49d0d3e4946e50885b",
-  "generated_at": "2026-09-25T02:05:37.697Z",
+  "catalog_hash": "29c15a608347a69f754088484e9adb5f89726fba",
+  "generated_at": "2026-09-25T10:39:18.174Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -53,53 +53,6 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "e2bbdf7524d0a7a7a40a5ef40aeb3363930df409"
-    },
-    {
-      "id": "regione-sicilia-bandi-aggiornamento-avviso-pubblico-n-2-2022-e-s-m-i-per-l-attuazione-del-par-gol-sici",
-      "nome": "Aggiornamento Avviso pubblico n. 2/2022 e s.m.i per l’attuazione del PAR GOL Sicilia",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici Aggiornamento Avviso pubblico n. 2/2022 e s.m.i per l’attuazione del PAR GOL Sicilia Scade il: 30/06/2027 - 00:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Aggiornamento Avviso pubblico n. 2/2022 e s.m.i per l’attuazione del PAR GOL Sicilia. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/aggiornamento-avviso-pubblico-n-22022-smi-l-attuazione-par-gol-sicilia",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2027-06-30",
-      "data_uscita": "2027-06-30",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-09-25",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "d166d14e6b7c88fd5877e76bb465ece74331d7bf"
     },
     {
       "id": "invitalia-incentivi-approfondisci",
@@ -1694,8 +1647,8 @@
       "url_origine": "https://www.invitalia.it/cosa-facciamo/creiamo-nuove-aziende/smartstart-italia"
     },
     {
-      "id": "regione-sicilia-bandi-st-catania-avviso-pubblico-di-ricerca-in-locazione-di-un-immobile-da-adibire-a-s",
-      "nome": "ST CATANIA - AVVISO PUBBLICO DI RICERCA IN LOCAZIONE DI UN IMMOBILE DA ADIBIRE A SEDE ISTITUZIONALE del: Dipartimento regionale dello sviluppo rurale e territoriale - Servizio 11 — Servizio per il Territorio di Catania",
+      "id": "regione-sicilia-bandi-st-agrigento-avviso-di-asta-pubblica-per-la-vendita-di-equidi-e-caprini-centro-d",
+      "nome": "ST AGRIGENTO - Avviso di asta pubblica per la vendita di equidi e caprini -Centro di allevamento Pizzo dell'Apa - 18 novembre 2026.",
       "programma": "Regione Siciliana",
       "livello": "regionale",
       "settori": [
@@ -1704,8 +1657,8 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici ST CATANIA - AVVISO PUBBLICO DI RICERCA IN LOCAZIONE DI UN IMMOBILE DA ADIBIRE A SEDE ISTITUZIONALE del: Dipartimento regionale dello sviluppo rurale e territoriale - Servizio 11 — Servizio per il Territorio di Catania Scade il: 15/10/2026 - 12",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando ST CATANIA - AVVISO PUBBLICO DI RICERCA IN LOCAZIONE DI UN IMMOBILE DA ADIBIRE A SEDE ISTITUZIONALE del: Dipartimento regionale dello sviluppo rurale e territoriale - Servizio 11 — Servizio per il Territorio di Catania. Territorio: Sicilia.",
+      "descrizione_breve": "Avvisi pubblici ST AGRIGENTO - Avviso di asta pubblica per la vendita di equidi e caprini -Centro di allevamento Pizzo dell'Apa - 18 novembre 2026. Scade il: 17/11/2026 - 13:30 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando ST AGRIGENTO - Avviso di asta pubblica per la vendita di equidi e caprini -Centro di allevamento Pizzo dell'Apa - 18 novembre 2026.. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
       "beneficiari": [
@@ -1724,21 +1677,21 @@
         "Documenti richiesti dal portale"
       ],
       "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/15-settembre-2026-st-catania-avviso-pubblico-ricerca-locazione-immobile-adibire-sede-istituzionale-dipartimento-regionale-sviluppo-rurale-territoriale-servizio",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-agrigento-avviso-asta-pubblica-vendita-equidi-caprini-centro-allevamento-pizzo-apa-18-novembre-2026",
       "checklist": [
         "Aprire il link ufficiale e verificare l'avviso completo",
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-10-15",
-      "data_uscita": "2026-10-15",
+      "data_pubblicazione": "2026-11-17",
+      "data_uscita": "2026-11-17",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-09-25",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "466c3c97a09938998c32c8f3686f4b0624d4912f"
+      "hash_contenuto": "f37cc3756812ee507cec028b05f1374401c6176e"
     },
     {
       "id": "regione-sicilia-bandi-st-messina-avviso-avvio-indagine-di-mercato-manifestazione-di-interesse-per-inte",
@@ -2004,6 +1957,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
