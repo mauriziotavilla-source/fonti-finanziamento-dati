@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-25T10:39:18.174Z",
+  "generated_at": "2026-09-25T15:59:37.905Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "29c15a608347a69f754088484e9adb5f89726fba",
+  "catalog_hash": "a32f84127533c149fbfa82f6750eb97e78a2b07d",
   "counts": {
     "nuovi": 1,
     "aggiornati": 0
   },
   "nuovi": [
     {
-      "id": "regione-sicilia-bandi-st-agrigento-avviso-di-asta-pubblica-per-la-vendita-di-equidi-e-caprini-centro-d",
-      "nome": "ST AGRIGENTO - Avviso di asta pubblica per la vendita di equidi e caprini -Centro di allevamento Pizzo dell'Apa - 18 novembre 2026.",
+      "id": "regione-sicilia-bandi-avviso-per-la-valorizzazione-delle-eccellenze-del-territorio-siciliano-in-occasi",
+      "nome": "Avviso per la valorizzazione delle eccellenze del territorio siciliano in occasione del MILLENIUM 2027 - Anno europeo dei Normanni",
       "livello": "regionale",
       "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-agrigento-avviso-asta-pubblica-vendita-equidi-caprini-centro-allevamento-pizzo-apa-18-novembre-2026",
-      "data_pubblicazione": "2026-11-17",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-valorizzazione-eccellenze-territorio-siciliano-occasione-millenium-2027-anno-europeo-normanni",
+      "data_pubblicazione": "2026-11-10",
       "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "f37cc3756812ee507cec028b05f1374401c6176e",
+      "hash_contenuto": "c7850815637985f5278f1aad586bf840b96bb907",
       "notifica_topics": [
         "bandi_regionali"
       ]

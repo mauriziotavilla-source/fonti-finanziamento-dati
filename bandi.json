@@ -1,59 +1,12 @@
 {
   "ultimo_aggiornamento": "2026-09-25",
-  "versione": 118,
+  "versione": 119,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "29c15a608347a69f754088484e9adb5f89726fba",
-  "generated_at": "2026-09-25T10:39:18.174Z",
+  "catalog_hash": "a32f84127533c149fbfa82f6750eb97e78a2b07d",
+  "generated_at": "2026-09-25T15:59:37.904Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
-    {
-      "id": "regione-sicilia-bandi-16-settembre-2026-st-siracusa-avviso-pubblico-finalizzato-alla-manifestazione-di",
-      "nome": "16 settembre 2026 - ST SIRACUSA - AVVISO PUBBLICO FINALIZZATO ALLA MANIFESTAZIONE DI INTERESSE PER LA CESSIONE, A TITOLO ONEROSO ED IN BLOCCO UNICO, DI LEGNA DA ARDERE",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Manifestazioni di interesse 16 settembre 2026 - ST SIRACUSA - AVVISO PUBBLICO FINALIZZATO ALLA MANIFESTAZIONE DI INTERESSE PER LA CESSIONE, A TITOLO ONEROSO ED IN BLOCCO UNICO, DI LEGNA DA ARDERE Scaduto Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando 16 settembre 2026 - ST SIRACUSA - AVVISO PUBBLICO FINALIZZATO ALLA MANIFESTAZIONE DI INTERESSE PER LA CESSIONE, A TITOLO ONEROSO ED IN BLOCCO UNICO, DI LEGNA DA ARDERE. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/16-settembre-2026-st-siracusa-avviso-pubblico-finalizzato-alla-manifestazione-interesse-cessione-titolo-oneroso-ed-blocco-unico-legna-ardere",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "",
-      "data_uscita": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-09-25",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "e2bbdf7524d0a7a7a40a5ef40aeb3363930df409"
-    },
     {
       "id": "invitalia-incentivi-approfondisci",
       "nome": "Approfondisci",
@@ -100,6 +53,53 @@
         "bandi_nazionali"
       ],
       "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-per-la-valorizzazione-delle-eccellenze-del-territorio-siciliano-in-occasi",
+      "nome": "Avviso per la valorizzazione delle eccellenze del territorio siciliano in occasione del MILLENIUM 2027 - Anno europeo dei Normanni",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici Avviso per la valorizzazione delle eccellenze del territorio siciliano in occasione del MILLENIUM 2027 - Anno europeo dei Normanni Scade il: 10/11/2026 - 23:59 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso per la valorizzazione delle eccellenze del territorio siciliano in occasione del MILLENIUM 2027 - Anno europeo dei Normanni. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-valorizzazione-eccellenze-territorio-siciliano-occasione-millenium-2027-anno-europeo-normanni",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-11-10",
+      "data_uscita": "2026-11-10",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-09-25",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "c7850815637985f5278f1aad586bf840b96bb907"
     },
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-codice-del-terzo-settore-annualita-2024-2025",
