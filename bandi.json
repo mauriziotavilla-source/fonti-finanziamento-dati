@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-09-25",
-  "versione": 119,
+  "ultimo_aggiornamento": "2026-10-01",
+  "versione": 120,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "a32f84127533c149fbfa82f6750eb97e78a2b07d",
-  "generated_at": "2026-10-01T02:40:04.037Z",
+  "catalog_hash": "30d74f951a18bbe402b831b1654c87f233fe97da",
+  "generated_at": "2026-10-01T11:54:27.656Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -1064,8 +1064,8 @@
         "commercio",
         "turismo"
       ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Manifestazioni di interesse Manifestazione di interesse per l'acquisto di carrube provenienti da raccolta in economia diretta da alberi sparsi presenti nei Demani forestali gestiti dal Servizio 15 – Servizio per il Territorio di Ragusa Scade il: 01/10/2026 - 0",
+      "stato": "chiuso",
+      "descrizione_breve": "Manifestazioni di interesse Manifestazione di interesse per l'acquisto di carrube provenienti da raccolta in economia diretta da alberi sparsi presenti nei Demani forestali gestiti dal Servizio 15 – Servizio per il Territorio di Ragusa Scaduto Leggi di più",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Manifestazione di interesse per l'acquisto di carrube provenienti da raccolta in economia diretta da alberi sparsi presenti nei Demani forestali gestiti dal Servizio 15 – Servizio per il Territorio di Ragusa. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -1091,15 +1091,15 @@
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-10-01",
-      "data_uscita": "2026-10-01",
+      "data_pubblicazione": "",
+      "data_uscita": "",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-10-01",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "b2c07e9105c90240639718a5cc56826a5e7ab6aa"
+      "hash_contenuto": "263279337c9b4d72eea20e63f39e290cbdd330ea"
     },
     {
       "id": "ue-funding-opportunities-open-and-upcoming-calls-for-horizon-europe",
@@ -1703,8 +1703,8 @@
         "commercio",
         "turismo"
       ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici ST MESSINA - AVVISO Avvio indagine di mercato/manifestazione di interesse per “Interventi di manutenzione straordinaria della pista forestale “Salice-Castelluccio” del Distretto 1 – Comune di Messina Scade il: 30/09/2026 - 23:59 Leggi di più",
+      "stato": "chiuso",
+      "descrizione_breve": "Avvisi pubblici ST MESSINA - AVVISO Avvio indagine di mercato/manifestazione di interesse per “Interventi di manutenzione straordinaria della pista forestale “Salice-Castelluccio” del Distretto 1 – Comune di Messina Scaduto Leggi di più",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando ST MESSINA - AVVISO Avvio indagine di mercato/manifestazione di interesse per “Interventi di manutenzione straordinaria della pista forestale “Salice-Castelluccio” del Distretto 1 – Comune di Messina. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -1730,15 +1730,15 @@
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-09-30",
-      "data_uscita": "2026-09-30",
+      "data_pubblicazione": "",
+      "data_uscita": "",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-10-01",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "dcb316d9a4790a2686a509cc52ad2568ed6f829c"
+      "hash_contenuto": "0acb263240851789c1528f8431195d411482a297"
     },
     {
       "id": "sicilia-step-fesr-2026",
@@ -1957,6 +1957,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }

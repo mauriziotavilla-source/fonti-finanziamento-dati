@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-10-01T02:40:04.037Z",
+  "generated_at": "2026-10-01T11:54:27.657Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "a32f84127533c149fbfa82f6750eb97e78a2b07d",
+  "catalog_hash": "30d74f951a18bbe402b831b1654c87f233fe97da",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 0
+    "aggiornati": 2
   },
   "nuovi": [],
-  "aggiornati": [],
+  "aggiornati": [
+    {
+      "id": "regione-sicilia-bandi-manifestazione-di-interesse-per-l-acquisto-di-carrube-provenienti-da-raccolta-in",
+      "nome": "Manifestazione di interesse per l'acquisto di carrube provenienti da raccolta in economia diretta da alberi sparsi presenti nei Demani forestali gestiti dal Servizio 15 – Servizio per il Territorio di Ragusa",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/manifestazione-interesse-l-acquisto-carrube-provenienti-raccolta-economia-diretta-alberi-sparsi-presenti-nei-demani-forestali-gestiti-servizio-15-servizio",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "263279337c9b4d72eea20e63f39e290cbdd330ea",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-st-messina-avviso-avvio-indagine-di-mercato-manifestazione-di-interesse-per-inte",
+      "nome": "ST MESSINA - AVVISO Avvio indagine di mercato/manifestazione di interesse per “Interventi di manutenzione straordinaria della pista forestale “Salice-Castelluccio” del Distretto 1 – Comune di Messina",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-avvio-indagine-mercatomanifestazione-interesse-interventi-manutenzione-straordinaria-pista-forestale-salice-castelluccio-distretto-1-comune",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "0acb263240851789c1528f8431195d411482a297",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "errori_fonti": []
 }
