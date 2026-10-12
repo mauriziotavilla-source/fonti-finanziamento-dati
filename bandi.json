@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-10-01",
-  "versione": 120,
+  "ultimo_aggiornamento": "2026-10-12",
+  "versione": 121,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "30d74f951a18bbe402b831b1654c87f233fe97da",
-  "generated_at": "2026-10-12T02:50:17.583Z",
+  "catalog_hash": "e74534eaa4d149351309c21730d1f84ef5fa75f9",
+  "generated_at": "2026-10-12T13:38:55.710Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -102,8 +102,8 @@
       "hash_contenuto": "c7850815637985f5278f1aad586bf840b96bb907"
     },
     {
-      "id": "regione-sicilia-bandi-avviso-pubblico-codice-del-terzo-settore-annualita-2024-2025",
-      "nome": "AVVISO PUBBLICO CODICE DEL TERZO SETTORE - Annualità 2024/2025.",
+      "id": "regione-sicilia-bandi-avviso-pubblico-selezione-proposte-progettuali-finalizzate-alla-realizzazione-di",
+      "nome": "AVVISO PUBBLICO SELEZIONE PROPOSTE PROGETTUALI FINALIZZATE ALLA REALIZZAZIONE DI INTERVENTI PER IL RECUPERO, LA FRUIZIONE E LA VALORIZZAZIONE DEI BORGHI MARINARI",
       "programma": "Regione Siciliana",
       "livello": "regionale",
       "settori": [
@@ -112,8 +112,8 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO CODICE DEL TERZO SETTORE - Annualità 2024/2025. Scade il: 30/10/2026 - 00:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO CODICE DEL TERZO SETTORE - Annualità 2024/2025.. Territorio: Sicilia.",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO SELEZIONE PROPOSTE PROGETTUALI FINALIZZATE ALLA REALIZZAZIONE DI INTERVENTI PER IL RECUPERO, LA FRUIZIONE E LA VALORIZZAZIONE DEI BORGHI MARINARI Scade il: 31/10/2026 - 23:59 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO SELEZIONE PROPOSTE PROGETTUALI FINALIZZATE ALLA REALIZZAZIONE DI INTERVENTI PER IL RECUPERO, LA FRUIZIONE E LA VALORIZZAZIONE DEI BORGHI MARINARI. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
       "beneficiari": [
@@ -132,21 +132,69 @@
         "Documenti richiesti dal portale"
       ],
       "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-codice-terzo-settore-annualita-20242025",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-selezione-proposte-progettuali-finalizzate-alla-realizzazione-interventi-recupero-fruizione-valorizzazione-borghi-marinari",
       "checklist": [
         "Aprire il link ufficiale e verificare l'avviso completo",
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-10-30",
-      "data_uscita": "2026-10-30",
+      "data_pubblicazione": "2026-10-31",
+      "data_uscita": "2026-10-31",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-10-12",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "50d68605b2cb2a1fb8b9e47ba699f5e12427d081"
+      "hash_contenuto": "8112c35b1861422c172cb925c95daf1452fd0c05"
+    },
+    {
+      "id": "regione-sicilia-bandi-bando-ob-2-2-az-5-sostegno-alle-imprese-nei-settori-della-commercializzazione-e-",
+      "nome": "BANDO - Ob. 2.2 az. 5 \"Sostegno alle imprese nei settori della commercializzazione e trasformazione dei prodotti della pesca e acquacoltura - indennizzi conflitto bellico in MEDIO ORIENTE\" - PN FEAMPA 2021-2027",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo",
+        "formazione"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Bandi di gara BANDO - Ob. 2.2 az. 5 \"Sostegno alle imprese nei settori della commercializzazione e trasformazione dei prodotti della pesca e acquacoltura - indennizzi conflitto bellico in MEDIO ORIENTE\" - PN FEAMPA 2021-2027 Scade il: 15/10/2026 - 23:59 Leggi ",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando BANDO - Ob. 2.2 az. 5 \"Sostegno alle imprese nei settori della commercializzazione e trasformazione dei prodotti della pesca e acquacoltura - indennizzi conflitto bellico in MEDIO ORIENTE\" - PN FEAMPA 2021-2027. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bando-ob-22-az-5-sostegno-alle-imprese-nei-settori-commercializzazione-trasformazione-prodotti-pesca-acquacoltura-indennizzi-conflitto-bellico-medio-oriente-pn",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-10-15",
+      "data_uscita": "2026-10-15",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-10-12",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "0d1433fe03f1227ea8d8f89af29fb8dd9bf72b9f"
     },
     {
       "id": "credito-imposta-40",
@@ -1502,53 +1550,6 @@
       "url_origine": "https://digital-innovation-hub.ec.europa.eu/edih-network"
     },
     {
-      "id": "regione-sicilia-bandi-riapertura-termini-avviso-ddg-n-1922-del-01-06-2026-r-d-l",
-      "nome": "RIAPERTURA TERMINI - AVVISO DDG n. 1922 DEL 01.06.2026, R.D.L.",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "aperto",
-      "descrizione_breve": "Avvisi pubblici RIAPERTURA TERMINI - AVVISO DDG n. 1922 DEL 01.06.2026, R.D.L. Scade il: 30/10/2026 - 00:00 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando RIAPERTURA TERMINI - AVVISO DDG n. 1922 DEL 01.06.2026, R.D.L.. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/riapertura-termini-avviso-ddg-n-1922-01062026-rdl",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-06-01",
-      "data_uscita": "2026-06-01",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-10-12",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "35febfe70325f8da43a7ab10aa51ab79254430a0"
-    },
-    {
       "id": "simest-export",
       "nome": "SIMEST – Finanziamenti internazionalizzazione PMI",
       "programma": "SIMEST / MIMIT",
@@ -1957,6 +1958,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
