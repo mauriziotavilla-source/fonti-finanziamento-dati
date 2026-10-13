@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-10-12",
-  "versione": 121,
+  "ultimo_aggiornamento": "2026-10-13",
+  "versione": 122,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "e74534eaa4d149351309c21730d1f84ef5fa75f9",
-  "generated_at": "2026-10-13T04:06:09.741Z",
+  "catalog_hash": "555d68c88ec3fa6f83a7302c39fd25d2b063671b",
+  "generated_at": "2026-10-13T13:01:21.972Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -102,8 +102,8 @@
       "hash_contenuto": "c7850815637985f5278f1aad586bf840b96bb907"
     },
     {
-      "id": "regione-sicilia-bandi-avviso-pubblico-selezione-proposte-progettuali-finalizzate-alla-realizzazione-di",
-      "nome": "AVVISO PUBBLICO SELEZIONE PROPOSTE PROGETTUALI FINALIZZATE ALLA REALIZZAZIONE DI INTERVENTI PER IL RECUPERO, LA FRUIZIONE E LA VALORIZZAZIONE DEI BORGHI MARINARI",
+      "id": "regione-sicilia-bandi-avviso-pubblico-reimar-selezione-proposte-progettuali-finalizzate-alla-realizzaz",
+      "nome": "AVVISO PUBBLICO REIMAR - SELEZIONE PROPOSTE PROGETTUALI FINALIZZATE ALLA REALIZZAZIONE DI INTERVENTI PER IL RECUPERO, LA FRUIZIONE E LA VALORIZZAZIONE DEI BORGHI MARINARI - Anno 2026",
       "programma": "Regione Siciliana",
       "livello": "regionale",
       "settori": [
@@ -112,8 +112,8 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO SELEZIONE PROPOSTE PROGETTUALI FINALIZZATE ALLA REALIZZAZIONE DI INTERVENTI PER IL RECUPERO, LA FRUIZIONE E LA VALORIZZAZIONE DEI BORGHI MARINARI Scade il: 31/10/2026 - 23:59 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO SELEZIONE PROPOSTE PROGETTUALI FINALIZZATE ALLA REALIZZAZIONE DI INTERVENTI PER IL RECUPERO, LA FRUIZIONE E LA VALORIZZAZIONE DEI BORGHI MARINARI. Territorio: Sicilia.",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO REIMAR - SELEZIONE PROPOSTE PROGETTUALI FINALIZZATE ALLA REALIZZAZIONE DI INTERVENTI PER IL RECUPERO, LA FRUIZIONE E LA VALORIZZAZIONE DEI BORGHI MARINARI - Anno 2026 Scade il: 31/10/2026 - 23:59 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO REIMAR - SELEZIONE PROPOSTE PROGETTUALI FINALIZZATE ALLA REALIZZAZIONE DI INTERVENTI PER IL RECUPERO, LA FRUIZIONE E LA VALORIZZAZIONE DEI BORGHI MARINARI - Anno 2026. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
       "beneficiari": [
@@ -132,7 +132,7 @@
         "Documenti richiesti dal portale"
       ],
       "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-selezione-proposte-progettuali-finalizzate-alla-realizzazione-interventi-recupero-fruizione-valorizzazione-borghi-marinari",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-reimar-selezione-proposte-progettuali-finalizzate-alla-realizzazione-interventi-recupero-fruizione-valorizzazione-borghi-marinari-anno-2026",
       "checklist": [
         "Aprire il link ufficiale e verificare l'avviso completo",
         "Controllare requisiti e ammissibilita per il livello regionale",
@@ -146,7 +146,54 @@
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "8112c35b1861422c172cb925c95daf1452fd0c05"
+      "hash_contenuto": "db25aa40ba2d8b593375af33a424e4ea6d8bf00e"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-selezione-proposte-progettuali-per-la-sensibilizzazione-del-pubb",
+      "nome": "AVVISO PUBBLICO SELEZIONE PROPOSTE PROGETTUALI PER LA SENSIBILIZZAZIONE DEL PUBBLICO SUL CONSUMO DI PRODOTTI ITTICI SICILIANI PESCATI, ALLEVATI O TRASFORMATI",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO SELEZIONE PROPOSTE PROGETTUALI PER LA SENSIBILIZZAZIONE DEL PUBBLICO SUL CONSUMO DI PRODOTTI ITTICI SICILIANI PESCATI, ALLEVATI O TRASFORMATI Scade il: 27/11/2026 - 23:59 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO SELEZIONE PROPOSTE PROGETTUALI PER LA SENSIBILIZZAZIONE DEL PUBBLICO SUL CONSUMO DI PRODOTTI ITTICI SICILIANI PESCATI, ALLEVATI O TRASFORMATI. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-selezione-proposte-progettuali-sensibilizzazione-pubblico-consumo-prodotti-ittici-siciliani-pescati-allevati-o-trasformati",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-11-27",
+      "data_uscita": "2026-11-27",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-10-13",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "05ad9e0b9ff25b0beb07dee206066a4cd25df1d0"
     },
     {
       "id": "regione-sicilia-bandi-bando-ob-2-2-az-5-sostegno-alle-imprese-nei-settori-della-commercializzazione-e-",
@@ -1103,53 +1150,6 @@
       "hash_contenuto": "e19aff73c09d1102261fb5fa7867ae0c657f20a7"
     },
     {
-      "id": "regione-sicilia-bandi-manifestazione-di-interesse-per-l-acquisto-di-carrube-provenienti-da-raccolta-in",
-      "nome": "Manifestazione di interesse per l'acquisto di carrube provenienti da raccolta in economia diretta da alberi sparsi presenti nei Demani forestali gestiti dal Servizio 15 – Servizio per il Territorio di Ragusa",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Manifestazioni di interesse Manifestazione di interesse per l'acquisto di carrube provenienti da raccolta in economia diretta da alberi sparsi presenti nei Demani forestali gestiti dal Servizio 15 – Servizio per il Territorio di Ragusa Scaduto Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Manifestazione di interesse per l'acquisto di carrube provenienti da raccolta in economia diretta da alberi sparsi presenti nei Demani forestali gestiti dal Servizio 15 – Servizio per il Territorio di Ragusa. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/manifestazione-interesse-l-acquisto-carrube-provenienti-raccolta-economia-diretta-alberi-sparsi-presenti-nei-demani-forestali-gestiti-servizio-15-servizio",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "",
-      "data_uscita": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-10-13",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "263279337c9b4d72eea20e63f39e290cbdd330ea"
-    },
-    {
       "id": "ue-funding-opportunities-open-and-upcoming-calls-for-horizon-europe",
       "nome": "Open and upcoming calls for Horizon Europe",
       "programma": "UE Funding Opportunities",
@@ -1695,53 +1695,6 @@
       "hash_contenuto": "f37cc3756812ee507cec028b05f1374401c6176e"
     },
     {
-      "id": "regione-sicilia-bandi-st-messina-avviso-avvio-indagine-di-mercato-manifestazione-di-interesse-per-inte",
-      "nome": "ST MESSINA - AVVISO Avvio indagine di mercato/manifestazione di interesse per “Interventi di manutenzione straordinaria della pista forestale “Salice-Castelluccio” del Distretto 1 – Comune di Messina",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Avvisi pubblici ST MESSINA - AVVISO Avvio indagine di mercato/manifestazione di interesse per “Interventi di manutenzione straordinaria della pista forestale “Salice-Castelluccio” del Distretto 1 – Comune di Messina Scaduto Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando ST MESSINA - AVVISO Avvio indagine di mercato/manifestazione di interesse per “Interventi di manutenzione straordinaria della pista forestale “Salice-Castelluccio” del Distretto 1 – Comune di Messina. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-messina-avviso-avvio-indagine-mercatomanifestazione-interesse-interventi-manutenzione-straordinaria-pista-forestale-salice-castelluccio-distretto-1-comune",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "",
-      "data_uscita": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-10-13",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "0acb263240851789c1528f8431195d411482a297"
-    },
-    {
       "id": "sicilia-step-fesr-2026",
       "nome": "STEP Sicilia – Deep-tech, biotech e cleantech (PR FESR)",
       "programma": "Regione Siciliana – PR FESR 2021-2027",
@@ -1958,6 +1911,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
