@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-10-13T22:00:47.091Z",
+  "generated_at": "2026-10-14T02:20:13.970Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "48f1e8bbda42a0a8ca8f6e58c72e117c828dd866",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 0
   },
-  "nuovi": [
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-ob-2-2-az-4-codice-222402-26-1-2027-selezione-proposte-progettua",
-      "nome": "AVVISO PUBBLICO Ob. 2.2 az. 4 codice 222402-26 (1/2027) - \"SELEZIONE PROPOSTE PROGETTUALI PER LA SENSIBILIZZAZIONE DEL PUBBLICO SUL CONSUMO DI PRODOTTI ITTICI SICILIANI PESCATI, ALLEVATI O TRASFORMATI\" PN FEAMPA 2021-2027",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-ob-22-az-4-codice-222402-26-12027-selezione-proposte-progettuali-sensibilizzazione-pubblico-consumo-prodotti-ittici-siciliani-pescati-allevati-o",
-      "data_pubblicazione": "2026-11-27",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "596215cce741125891412466225d759b481e7234",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [],
   "errori_fonti": []
 }
