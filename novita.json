@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-10-16T10:13:26.400Z",
+  "generated_at": "2026-10-16T15:38:45.875Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "77f3525e052145d5c0e69ad7622cc7d77168487b",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 1
+    "aggiornati": 0
   },
   "nuovi": [],
-  "aggiornati": [
-    {
-      "id": "regione-sicilia-bandi-bando-ob-2-2-az-5-sostegno-alle-imprese-nei-settori-della-commercializzazione-e-",
-      "nome": "BANDO - Ob. 2.2 az. 5 \"Sostegno alle imprese nei settori della commercializzazione e trasformazione dei prodotti della pesca e acquacoltura - indennizzi conflitto bellico in MEDIO ORIENTE\" - PN FEAMPA 2021-2027",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bando-ob-22-az-5-sostegno-alle-imprese-nei-settori-commercializzazione-trasformazione-prodotti-pesca-acquacoltura-indennizzi-conflitto-bellico-medio-oriente-pn",
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "9fbacd2f2be3be61c09e095fa6d998a81820ebd7",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "aggiornati": [],
   "errori_fonti": []
 }
