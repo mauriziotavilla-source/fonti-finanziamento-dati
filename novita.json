@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-10-31T16:23:24.453Z",
+  "generated_at": "2026-10-31T20:43:09.859Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "0789d2b9fef4efac1022a996d9eccfb037f26f9f",
+  "catalog_hash": "120c226f335058d9f876be53a8c18a11743ce58f",
   "counts": {
     "nuovi": 0,
     "aggiornati": 0
   },
   "nuovi": [],
   "aggiornati": [],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "invitalia-incentivi",
+      "message": "fetch failed"
+    }
+  ]
 }
