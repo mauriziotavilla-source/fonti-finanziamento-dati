@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-11-02T02:55:31.247Z",
+  "generated_at": "2026-11-02T13:57:00.129Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "0789d2b9fef4efac1022a996d9eccfb037f26f9f",
+  "catalog_hash": "e626365eef78a4f9601e9ec6c455d7310fc88c6b",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 0
+    "aggiornati": 1
   },
   "nuovi": [],
-  "aggiornati": [],
+  "aggiornati": [
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-reimar-selezione-proposte-progettuali-finalizzate-alla-realizzaz",
+      "nome": "AVVISO PUBBLICO REIMAR - SELEZIONE PROPOSTE PROGETTUALI FINALIZZATE ALLA REALIZZAZIONE DI INTERVENTI PER IL RECUPERO, LA FRUIZIONE E LA VALORIZZAZIONE DEI BORGHI MARINARI - Anno 2026",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-reimar-selezione-proposte-progettuali-finalizzate-alla-realizzazione-interventi-recupero-fruizione-valorizzazione-borghi-marinari-anno-2026",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "7b27ae2a72b2da2cbbbf948da386a6358a8a3de8",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "errori_fonti": []
 }

@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-11-01",
-  "versione": 129,
+  "ultimo_aggiornamento": "2026-11-02",
+  "versione": 130,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "0789d2b9fef4efac1022a996d9eccfb037f26f9f",
-  "generated_at": "2026-11-02T02:55:31.247Z",
+  "catalog_hash": "e626365eef78a4f9601e9ec6c455d7310fc88c6b",
+  "generated_at": "2026-11-02T13:57:00.129Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -158,8 +158,8 @@
         "commercio",
         "turismo"
       ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO REIMAR - SELEZIONE PROPOSTE PROGETTUALI FINALIZZATE ALLA REALIZZAZIONE DI INTERVENTI PER IL RECUPERO, LA FRUIZIONE E LA VALORIZZAZIONE DEI BORGHI MARINARI - Anno 2026 Scade il: 31/10/2026 - 23:59 Leggi di più",
+      "stato": "chiuso",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO REIMAR - SELEZIONE PROPOSTE PROGETTUALI FINALIZZATE ALLA REALIZZAZIONE DI INTERVENTI PER IL RECUPERO, LA FRUIZIONE E LA VALORIZZAZIONE DEI BORGHI MARINARI - Anno 2026 Scaduto Leggi di più",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO REIMAR - SELEZIONE PROPOSTE PROGETTUALI FINALIZZATE ALLA REALIZZAZIONE DI INTERVENTI PER IL RECUPERO, LA FRUIZIONE E LA VALORIZZAZIONE DEI BORGHI MARINARI - Anno 2026. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -185,15 +185,15 @@
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-10-31",
-      "data_uscita": "2026-10-31",
+      "data_pubblicazione": "",
+      "data_uscita": "",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-11-02",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "db25aa40ba2d8b593375af33a424e4ea6d8bf00e"
+      "hash_contenuto": "7b27ae2a72b2da2cbbbf948da386a6358a8a3de8"
     },
     {
       "id": "regione-sicilia-bandi-bando-ob-2-2-az-5-sostegno-alle-imprese-nei-settori-della-commercializzazione-e-",
@@ -1958,6 +1958,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
