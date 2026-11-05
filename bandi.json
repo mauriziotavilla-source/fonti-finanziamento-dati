@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-11-02",
-  "versione": 130,
+  "ultimo_aggiornamento": "2026-11-05",
+  "versione": 131,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "e626365eef78a4f9601e9ec6c455d7310fc88c6b",
-  "generated_at": "2026-11-05T03:52:57.581Z",
+  "catalog_hash": "9a5dd8e950207d8c17541891d43f8878663c0d46",
+  "generated_at": "2026-11-05T13:34:25.172Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -242,6 +242,54 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "9fbacd2f2be3be61c09e095fa6d998a81820ebd7"
+    },
+    {
+      "id": "regione-sicilia-bandi-concessione-contributi-interventi-urgenti-per-far-fronte-ai-danni-causati-dagli-",
+      "nome": "CONCESSIONE CONTRIBUTI “Interventi urgenti per far fronte ai danni causati dagli eventi meteo avversi dei giorni 19, 20 e 21 gennaio 2026” riconducibile al “Ciclone Harry”.",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo",
+        "tecnologia"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici CONCESSIONE CONTRIBUTI “Interventi urgenti per far fronte ai danni causati dagli eventi meteo avversi dei giorni 19, 20 e 21 gennaio 2026” riconducibile al “Ciclone Harry”. Scade il: 20/11/2026 - 23:59 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando CONCESSIONE CONTRIBUTI “Interventi urgenti per far fronte ai danni causati dagli eventi meteo avversi dei giorni 19, 20 e 21 gennaio 2026” riconducibile al “Ciclone Harry”.. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-concessione-contributi-interventi-urgenti-far-fronte-ai-danni-causati-dagli-eventi-meteo-avversi-giorni-19-20-21-gennaio-2026-riconducibile-al",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-11-20",
+      "data_uscita": "2026-11-20",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-11-05",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "bfcfa8bf581643f7f2910b102805a5d46d8e7d42"
     },
     {
       "id": "credito-imposta-40",
@@ -1001,7 +1049,7 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "985 risultati (più recenti) Nella pagina sono visualizzati 206 risultati più recenti. Per effettuare ricerche su tutti i documenti pubblicati nella presente sezione a partire dal 01.07.2021 è disponibile nel menù laterale sinistro un modulo dedicato, che perme",
+      "descrizione_breve": "986 risultati (più recenti) Nella pagina sono visualizzati 206 risultati più recenti. Per effettuare ricerche su tutti i documenti pubblicati nella presente sezione a partire dal 01.07.2021 è disponibile nel menù laterale sinistro un modulo dedicato, che perme",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando https://ricercadocumentale.regione.sicilia.it. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -1035,7 +1083,7 @@
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "4de4c18e639acaedeb4aa6c40d00be53042fb22c"
+      "hash_contenuto": "e99f8ef83d0a9d51f496770a8df4f515e8af7e6c"
     },
     {
       "id": "mimit-investimenti-sostenibili-40-2026",
@@ -1695,53 +1743,6 @@
       "url_origine": "https://www.invitalia.it/cosa-facciamo/creiamo-nuove-aziende/smartstart-italia"
     },
     {
-      "id": "regione-sicilia-bandi-st-agrigento-avviso-di-asta-pubblica-per-la-vendita-di-equidi-e-caprini-centro-d",
-      "nome": "ST AGRIGENTO - Avviso di asta pubblica per la vendita di equidi e caprini -Centro di allevamento Pizzo dell'Apa - 18 novembre 2026.",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici ST AGRIGENTO - Avviso di asta pubblica per la vendita di equidi e caprini -Centro di allevamento Pizzo dell'Apa - 18 novembre 2026. Scade il: 17/11/2026 - 13:30 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando ST AGRIGENTO - Avviso di asta pubblica per la vendita di equidi e caprini -Centro di allevamento Pizzo dell'Apa - 18 novembre 2026.. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/st-agrigento-avviso-asta-pubblica-vendita-equidi-caprini-centro-allevamento-pizzo-apa-18-novembre-2026",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-11-17",
-      "data_uscita": "2026-11-17",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-11-05",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "f37cc3756812ee507cec028b05f1374401c6176e"
-    },
-    {
       "id": "sicilia-step-fesr-2026",
       "nome": "STEP Sicilia – Deep-tech, biotech e cleantech (PR FESR)",
       "programma": "Regione Siciliana – PR FESR 2021-2027",
@@ -1958,6 +1959,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
