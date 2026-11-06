@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-11-06T03:51:14.894Z",
+  "generated_at": "2026-11-06T13:18:53.633Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "9a5dd8e950207d8c17541891d43f8878663c0d46",
+  "catalog_hash": "5bbe8e6364f4d19e63e13fcc4e9722c7e957e201",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 0
+    "nuovi": 1,
+    "aggiornati": 1
   },
-  "nuovi": [],
-  "aggiornati": [],
+  "nuovi": [
+    {
+      "id": "regione-sicilia-bandi-bando-per-il-finanziamento-di-progetti-di-riqualificazione-dei-mercati-rionali",
+      "nome": "Bando per il finanziamento di progetti di riqualificazione dei mercati rionali",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bando-finanziamento-progetti-riqualificazione-mercati-rionali",
+      "data_pubblicazione": "2026-12-18",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "8dbae3f127d8bf16a1160349280d8ac66ebe5d6d",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
+  "aggiornati": [
+    {
+      "id": "regione-sicilia-bandi-https-ricercadocumentale-regione-sicilia-it",
+      "nome": "https://ricercadocumentale.regione.sicilia.it",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://ricercadocumentale.regione.sicilia.it/",
+      "data_pubblicazione": "2021-07-01",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "6963fe5b710bdedff0ea95a25ebd36ea1d4dbfe9",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "errori_fonti": []
 }

@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-11-05",
-  "versione": 131,
+  "ultimo_aggiornamento": "2026-11-06",
+  "versione": 132,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "9a5dd8e950207d8c17541891d43f8878663c0d46",
-  "generated_at": "2026-11-06T03:51:14.894Z",
+  "catalog_hash": "5bbe8e6364f4d19e63e13fcc4e9722c7e957e201",
+  "generated_at": "2026-11-06T13:18:53.632Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -53,53 +53,6 @@
         "bandi_nazionali"
       ],
       "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74"
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-per-la-valorizzazione-delle-eccellenze-del-territorio-siciliano-in-occasi",
-      "nome": "Avviso per la valorizzazione delle eccellenze del territorio siciliano in occasione del MILLENIUM 2027 - Anno europeo dei Normanni",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici Avviso per la valorizzazione delle eccellenze del territorio siciliano in occasione del MILLENIUM 2027 - Anno europeo dei Normanni Scade il: 10/11/2026 - 23:59 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso per la valorizzazione delle eccellenze del territorio siciliano in occasione del MILLENIUM 2027 - Anno europeo dei Normanni. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-valorizzazione-eccellenze-territorio-siciliano-occasione-millenium-2027-anno-europeo-normanni",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-11-10",
-      "data_uscita": "2026-11-10",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-11-06",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "c7850815637985f5278f1aad586bf840b96bb907"
     },
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-ob-2-2-az-4-codice-222402-26-1-2027-selezione-proposte-progettua",
@@ -242,6 +195,53 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "9fbacd2f2be3be61c09e095fa6d998a81820ebd7"
+    },
+    {
+      "id": "regione-sicilia-bandi-bando-per-il-finanziamento-di-progetti-di-riqualificazione-dei-mercati-rionali",
+      "nome": "Bando per il finanziamento di progetti di riqualificazione dei mercati rionali",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici Bando per il finanziamento di progetti di riqualificazione dei mercati rionali Scade il: 18/12/2026 - 23:59 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Bando per il finanziamento di progetti di riqualificazione dei mercati rionali. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bando-finanziamento-progetti-riqualificazione-mercati-rionali",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-12-18",
+      "data_uscita": "2026-12-18",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-11-06",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "8dbae3f127d8bf16a1160349280d8ac66ebe5d6d"
     },
     {
       "id": "regione-sicilia-bandi-concessione-contributi-interventi-urgenti-per-far-fronte-ai-danni-causati-dagli-",
@@ -1049,7 +1049,7 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "986 risultati (più recenti) Nella pagina sono visualizzati 206 risultati più recenti. Per effettuare ricerche su tutti i documenti pubblicati nella presente sezione a partire dal 01.07.2021 è disponibile nel menù laterale sinistro un modulo dedicato, che perme",
+      "descrizione_breve": "987 risultati (più recenti) Nella pagina sono visualizzati 206 risultati più recenti. Per effettuare ricerche su tutti i documenti pubblicati nella presente sezione a partire dal 01.07.2021 è disponibile nel menù laterale sinistro un modulo dedicato, che perme",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando https://ricercadocumentale.regione.sicilia.it. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -1083,7 +1083,7 @@
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "e99f8ef83d0a9d51f496770a8df4f515e8af7e6c"
+      "hash_contenuto": "6963fe5b710bdedff0ea95a25ebd36ea1d4dbfe9"
     },
     {
       "id": "mimit-investimenti-sostenibili-40-2026",
@@ -1959,6 +1959,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
