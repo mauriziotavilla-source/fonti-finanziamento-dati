@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-11-06",
-  "versione": 132,
+  "ultimo_aggiornamento": "2026-11-11",
+  "versione": 133,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "5bbe8e6364f4d19e63e13fcc4e9722c7e957e201",
-  "generated_at": "2026-11-11T03:21:13.218Z",
+  "catalog_hash": "f81f15863e5342b864daf772c8af503fcf09088c",
+  "generated_at": "2026-11-11T13:01:28.308Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -100,6 +100,53 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "596215cce741125891412466225d759b481e7234"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-per-la-manifestazione-di-interesse-finalizzata-all-individuazion",
+      "nome": "AVVISO PUBBLICO per la manifestazione di interesse finalizzata all’individuazione dei beneficiari della compensazione economica a sostegno degli operatori del comparto pesca nell’area di Licata, nell’ambito del progetto “Gemini”",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO per la manifestazione di interesse finalizzata all’individuazione dei beneficiari della compensazione economica a sostegno degli operatori del comparto pesca nell’area di Licata, nell’ambito del progetto “Gemini” Scade il: 11/12",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO per la manifestazione di interesse finalizzata all’individuazione dei beneficiari della compensazione economica a sostegno degli operatori del comparto pesca nell’area di Licata, nell’ambito del progetto “Gemini”. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-manifestazione-interesse-finalizzata-all-individuazione-beneficiari-compensazione-economica-sostegno-operatori-comparto-pesca-nell-area-licata",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-12-11",
+      "data_uscita": "2026-12-11",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-11-11",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "244bcdf5923bf04fafcdbace85e891a645201808"
     },
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-reimar-selezione-proposte-progettuali-finalizzate-alla-realizzaz",
@@ -1049,7 +1096,7 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "987 risultati (più recenti) Nella pagina sono visualizzati 206 risultati più recenti. Per effettuare ricerche su tutti i documenti pubblicati nella presente sezione a partire dal 01.07.2021 è disponibile nel menù laterale sinistro un modulo dedicato, che perme",
+      "descrizione_breve": "988 risultati (più recenti) Nella pagina sono visualizzati 206 risultati più recenti. Per effettuare ricerche su tutti i documenti pubblicati nella presente sezione a partire dal 01.07.2021 è disponibile nel menù laterale sinistro un modulo dedicato, che perme",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando https://ricercadocumentale.regione.sicilia.it. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -1083,7 +1130,7 @@
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "6963fe5b710bdedff0ea95a25ebd36ea1d4dbfe9"
+      "hash_contenuto": "c81f34d4afadf008cd50fe7ea9c2adda254e9c2c"
     },
     {
       "id": "mimit-investimenti-sostenibili-40-2026",
@@ -1959,6 +2006,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }

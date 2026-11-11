@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-11-11T03:21:13.219Z",
+  "generated_at": "2026-11-11T13:01:28.309Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "5bbe8e6364f4d19e63e13fcc4e9722c7e957e201",
+  "catalog_hash": "f81f15863e5342b864daf772c8af503fcf09088c",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 0
+    "nuovi": 1,
+    "aggiornati": 1
   },
-  "nuovi": [],
-  "aggiornati": [],
+  "nuovi": [
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-per-la-manifestazione-di-interesse-finalizzata-all-individuazion",
+      "nome": "AVVISO PUBBLICO per la manifestazione di interesse finalizzata all’individuazione dei beneficiari della compensazione economica a sostegno degli operatori del comparto pesca nell’area di Licata, nell’ambito del progetto “Gemini”",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-manifestazione-interesse-finalizzata-all-individuazione-beneficiari-compensazione-economica-sostegno-operatori-comparto-pesca-nell-area-licata",
+      "data_pubblicazione": "2026-12-11",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "244bcdf5923bf04fafcdbace85e891a645201808",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
+  "aggiornati": [
+    {
+      "id": "regione-sicilia-bandi-https-ricercadocumentale-regione-sicilia-it",
+      "nome": "https://ricercadocumentale.regione.sicilia.it",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://ricercadocumentale.regione.sicilia.it/",
+      "data_pubblicazione": "2021-07-01",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "c81f34d4afadf008cd50fe7ea9c2adda254e9c2c",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "errori_fonti": []
 }
