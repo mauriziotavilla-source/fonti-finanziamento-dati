@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-11-11",
-  "versione": 133,
+  "ultimo_aggiornamento": "2026-11-13",
+  "versione": 134,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "f81f15863e5342b864daf772c8af503fcf09088c",
-  "generated_at": "2026-11-13T03:46:04.177Z",
+  "catalog_hash": "17913722dc6d7fc4daaa1961c0f26dcfc03578c6",
+  "generated_at": "2026-11-13T13:29:47.519Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -100,6 +100,53 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "596215cce741125891412466225d759b481e7234"
+    },
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-per-il-finanziamento-di-interventi-diretti-ad-incrementare-il-mo",
+      "nome": "AVVISO PUBBLICO PER IL FINANZIAMENTO DI INTERVENTI DIRETTI AD INCREMENTARE IL MOVIMENTO TURISTICO INVERNALE TRAMITE LA REALIZZAZIONE E LA PRESENTAZIONE DI NATALIZI E INSTALLAZIONI TEMPORANEE E SCENOGRAFIE LUMINOSE NEI COMUNI DELLA SICILIA",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO PER IL FINANZIAMENTO DI INTERVENTI DIRETTI AD INCREMENTARE IL MOVIMENTO TURISTICO INVERNALE TRAMITE LA REALIZZAZIONE E LA PRESENTAZIONE DI NATALIZI E INSTALLAZIONI TEMPORANEE E SCENOGRAFIE LUMINOSE NEI COMUNI DELLA SICILIA Scade",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO PER IL FINANZIAMENTO DI INTERVENTI DIRETTI AD INCREMENTARE IL MOVIMENTO TURISTICO INVERNALE TRAMITE LA REALIZZAZIONE E LA PRESENTAZIONE DI NATALIZI E INSTALLAZIONI TEMPORANEE E SCENOGRAFIE LUMINOSE NEI COMUNI DELLA SICILIA. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-dipartimento-turismo-sport-spettacolo",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-11-25",
+      "data_uscita": "2026-11-25",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-11-13",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "fcf356c1dbf1c1d42db4c54fdf805bb8c87cfa7b"
     },
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-per-la-manifestazione-di-interesse-finalizzata-all-individuazion",
@@ -1096,7 +1143,7 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "988 risultati (più recenti) Nella pagina sono visualizzati 206 risultati più recenti. Per effettuare ricerche su tutti i documenti pubblicati nella presente sezione a partire dal 01.07.2021 è disponibile nel menù laterale sinistro un modulo dedicato, che perme",
+      "descrizione_breve": "989 risultati (più recenti) Nella pagina sono visualizzati 206 risultati più recenti. Per effettuare ricerche su tutti i documenti pubblicati nella presente sezione a partire dal 01.07.2021 è disponibile nel menù laterale sinistro un modulo dedicato, che perme",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando https://ricercadocumentale.regione.sicilia.it. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -1130,7 +1177,7 @@
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "c81f34d4afadf008cd50fe7ea9c2adda254e9c2c"
+      "hash_contenuto": "8672426f4475203e6d128bde925eb843f4749644"
     },
     {
       "id": "mimit-investimenti-sostenibili-40-2026",
@@ -2006,6 +2053,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
