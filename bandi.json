@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-11-17",
-  "versione": 135,
+  "ultimo_aggiornamento": "2026-11-18",
+  "versione": 136,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "2b7dbe191e1786cc8fa32849f602dba6a5f7734e",
-  "generated_at": "2026-11-18T00:04:54.273Z",
+  "catalog_hash": "7ae417fbcd9a1f0a70bf8e78795254a58fbe9013",
+  "generated_at": "2026-11-18T14:39:52.897Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -149,6 +149,53 @@
       "hash_contenuto": "fcf356c1dbf1c1d42db4c54fdf805bb8c87cfa7b"
     },
     {
+      "id": "regione-sicilia-bandi-avviso-pubblico-per-la-concessione-di-contributi-a-valere-sul-fondo-di-solidarie",
+      "nome": "Avviso pubblico per la concessione di contributi a valere sul Fondo di solidarietà regionale della pesca e dell’acquacoltura per compensare i danni da mancato reddito subiti delle imprese di pesca per effetto di eventi meteorologici",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici Avviso pubblico per la concessione di contributi a valere sul Fondo di solidarietà regionale della pesca e dell’acquacoltura per compensare i danni da mancato reddito subiti delle imprese di pesca per effetto di eventi meteorologici Scade il: 0",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso pubblico per la concessione di contributi a valere sul Fondo di solidarietà regionale della pesca e dell’acquacoltura per compensare i danni da mancato reddito subiti delle imprese di pesca per effetto di eventi meteorologici. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-concessione-contributi-valere-fondo-solidarieta-regionale-pesca-acquacoltura-compensare-danni-mancato-reddito-subiti-imprese-pesca-effetto-eventi",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-12-02",
+      "data_uscita": "2026-12-02",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-11-18",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "7a433602ac0d60bf045b969f7b110fd2e68b373f"
+    },
+    {
       "id": "regione-sicilia-bandi-avviso-pubblico-per-la-manifestazione-di-interesse-finalizzata-all-individuazion",
       "nome": "AVVISO PUBBLICO per la manifestazione di interesse finalizzata all’individuazione dei beneficiari della compensazione economica a sostegno degli operatori del comparto pesca nell’area di Licata, nell’ambito del progetto “Gemini”",
       "programma": "Regione Siciliana",
@@ -194,54 +241,6 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "244bcdf5923bf04fafcdbace85e891a645201808"
-    },
-    {
-      "id": "regione-sicilia-bandi-bando-ob-2-2-az-5-sostegno-alle-imprese-nei-settori-della-commercializzazione-e-",
-      "nome": "BANDO - Ob. 2.2 az. 5 \"Sostegno alle imprese nei settori della commercializzazione e trasformazione dei prodotti della pesca e acquacoltura - indennizzi conflitto bellico in MEDIO ORIENTE\" - PN FEAMPA 2021-2027",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo",
-        "formazione"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Bandi di gara BANDO - Ob. 2.2 az. 5 \"Sostegno alle imprese nei settori della commercializzazione e trasformazione dei prodotti della pesca e acquacoltura - indennizzi conflitto bellico in MEDIO ORIENTE\" - PN FEAMPA 2021-2027 Scaduto Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando BANDO - Ob. 2.2 az. 5 \"Sostegno alle imprese nei settori della commercializzazione e trasformazione dei prodotti della pesca e acquacoltura - indennizzi conflitto bellico in MEDIO ORIENTE\" - PN FEAMPA 2021-2027. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bando-ob-22-az-5-sostegno-alle-imprese-nei-settori-commercializzazione-trasformazione-prodotti-pesca-acquacoltura-indennizzi-conflitto-bellico-medio-oriente-pn",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "",
-      "data_uscita": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-11-18",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "9fbacd2f2be3be61c09e095fa6d998a81820ebd7"
     },
     {
       "id": "regione-sicilia-bandi-bando-per-il-finanziamento-di-progetti-di-riqualificazione-dei-mercati-rionali",
@@ -1096,7 +1095,7 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "990 risultati (più recenti) Nella pagina sono visualizzati 206 risultati più recenti. Per effettuare ricerche su tutti i documenti pubblicati nella presente sezione a partire dal 01.07.2021 è disponibile nel menù laterale sinistro un modulo dedicato, che perme",
+      "descrizione_breve": "991 risultati (più recenti) Nella pagina sono visualizzati 206 risultati più recenti. Per effettuare ricerche su tutti i documenti pubblicati nella presente sezione a partire dal 01.07.2021 è disponibile nel menù laterale sinistro un modulo dedicato, che perme",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando https://ricercadocumentale.regione.sicilia.it. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -1130,7 +1129,7 @@
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "98aa12eeb6097a8ba856ab86f98c1cdf03b8434a"
+      "hash_contenuto": "cacd40a0f604e9b3f106477cac9623830e985b6a"
     },
     {
       "id": "mimit-investimenti-sostenibili-40-2026",
@@ -2006,6 +2005,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
