@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-11-18",
-  "versione": 136,
+  "ultimo_aggiornamento": "2026-11-19",
+  "versione": 137,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "7ae417fbcd9a1f0a70bf8e78795254a58fbe9013",
-  "generated_at": "2026-11-19T14:46:02.579Z",
+  "catalog_hash": "eb512447883623f24b60466e423f8090a395b7e7",
+  "generated_at": "2026-11-19T23:56:55.767Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -1095,7 +1095,7 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "991 risultati (più recenti) Nella pagina sono visualizzati 206 risultati più recenti. Per effettuare ricerche su tutti i documenti pubblicati nella presente sezione a partire dal 01.07.2021 è disponibile nel menù laterale sinistro un modulo dedicato, che perme",
+      "descrizione_breve": "992 risultati (più recenti) Nella pagina sono visualizzati 206 risultati più recenti. Per effettuare ricerche su tutti i documenti pubblicati nella presente sezione a partire dal 01.07.2021 è disponibile nel menù laterale sinistro un modulo dedicato, che perme",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando https://ricercadocumentale.regione.sicilia.it. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -1129,7 +1129,7 @@
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "cacd40a0f604e9b3f106477cac9623830e985b6a"
+      "hash_contenuto": "6605ce01ec71436c7dfb734c706be744d6aeed71"
     },
     {
       "id": "mimit-investimenti-sostenibili-40-2026",
@@ -2005,6 +2005,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
