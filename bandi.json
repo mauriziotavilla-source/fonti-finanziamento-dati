@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-11-19",
-  "versione": 137,
+  "ultimo_aggiornamento": "2026-11-21",
+  "versione": 138,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "eb512447883623f24b60466e423f8090a395b7e7",
-  "generated_at": "2026-11-21T04:27:11.245Z",
+  "catalog_hash": "a9deaccdb7a8653e65b686b8fafd970bfed38096",
+  "generated_at": "2026-11-21T13:46:35.614Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -300,8 +300,8 @@
         "turismo",
         "tecnologia"
       ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici CONCESSIONE CONTRIBUTI “Interventi urgenti per far fronte ai danni causati dagli eventi meteo avversi dei giorni 19, 20 e 21 gennaio 2026” riconducibile al “Ciclone Harry”. Scade il: 20/11/2026 - 23:59 Leggi di più",
+      "stato": "chiuso",
+      "descrizione_breve": "Avvisi pubblici CONCESSIONE CONTRIBUTI “Interventi urgenti per far fronte ai danni causati dagli eventi meteo avversi dei giorni 19, 20 e 21 gennaio 2026” riconducibile al “Ciclone Harry”. Scaduto Leggi di più",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando CONCESSIONE CONTRIBUTI “Interventi urgenti per far fronte ai danni causati dagli eventi meteo avversi dei giorni 19, 20 e 21 gennaio 2026” riconducibile al “Ciclone Harry”.. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -327,15 +327,15 @@
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-11-20",
-      "data_uscita": "2026-11-20",
+      "data_pubblicazione": "",
+      "data_uscita": "",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-11-21",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "bfcfa8bf581643f7f2910b102805a5d46d8e7d42"
+      "hash_contenuto": "803a7ebbaac7d3fe245dcb1f315fcd7c3f105308"
     },
     {
       "id": "credito-imposta-40",
@@ -2005,6 +2005,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
