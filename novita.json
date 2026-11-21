@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-11-21T13:46:35.614Z",
+  "generated_at": "2026-11-21T22:30:03.542Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "a9deaccdb7a8653e65b686b8fafd970bfed38096",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 1
+    "aggiornati": 0
   },
   "nuovi": [],
-  "aggiornati": [
-    {
-      "id": "regione-sicilia-bandi-concessione-contributi-interventi-urgenti-per-far-fronte-ai-danni-causati-dagli-",
-      "nome": "CONCESSIONE CONTRIBUTI “Interventi urgenti per far fronte ai danni causati dagli eventi meteo avversi dei giorni 19, 20 e 21 gennaio 2026” riconducibile al “Ciclone Harry”.",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-concessione-contributi-interventi-urgenti-far-fronte-ai-danni-causati-dagli-eventi-meteo-avversi-giorni-19-20-21-gennaio-2026-riconducibile-al",
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "803a7ebbaac7d3fe245dcb1f315fcd7c3f105308",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "aggiornati": [],
   "errori_fonti": []
 }
