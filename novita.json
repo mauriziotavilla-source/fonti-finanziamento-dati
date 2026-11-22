@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-11-22T13:40:21.267Z",
+  "generated_at": "2026-11-22T22:53:21.540Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "a9deaccdb7a8653e65b686b8fafd970bfed38096",
+  "catalog_hash": "b16b0f7545a4a3f8e41d4a953a7ae5c604857e7a",
   "counts": {
     "nuovi": 0,
     "aggiornati": 0
   },
   "nuovi": [],
   "aggiornati": [],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "ue-funding-opportunities",
+      "message": "HTTP 429"
+    }
+  ]
 }
