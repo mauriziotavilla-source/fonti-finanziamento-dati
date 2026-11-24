@@ -1,12 +1,53 @@
 {
-  "generated_at": "2026-11-24T03:31:01.310Z",
+  "generated_at": "2026-11-24T16:33:45.447Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "a9deaccdb7a8653e65b686b8fafd970bfed38096",
+  "catalog_hash": "12d45cc1dd086cf8b4660998a4bd598561f7143c",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 0
+    "nuovi": 2,
+    "aggiornati": 1
   },
-  "nuovi": [],
-  "aggiornati": [],
+  "nuovi": [
+    {
+      "id": "regione-sicilia-bandi-avviso-pubblico-riguardante-il-pagamento-di-compensazioni-per-mancati-redditi-do",
+      "nome": "Avviso pubblico riguardante il pagamento di compensazioni per mancati redditi dovuti all’interruzione obbligatoria continuativa delle attività di pesca dei gamberi di profondità",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-riguardante-pagamento-compensazioni-mancati-redditi-dovuti-all-interruzione-obbligatoria-continuativa-attivita-pesca-gamberi-profondita",
+      "data_pubblicazione": "2026-12-04",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "f1e5cfa77274b736940d0aa01c7a5ca54e5af490",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    },
+    {
+      "id": "regione-sicilia-bandi-progetto-interventi-di-manutenzione-straordinaria-su-pista-forestale-in-conglome",
+      "nome": "Progetto “Interventi di manutenzione straordinaria su pista forestale in conglomerato bituminoso, ricadente all’interno del Demanio Forestale Regionale “Alto Simeto” -Distretto Forestale n.1 -Comune di Bronte (CT) Conclusione avviso di indagine di mercato",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/progetto-interventi-manutenzione-straordinaria-pista-forestale-conglomerato-bituminoso-ricadente-all-interno-demanio-forestale-regionale-alto-simeto-distretto",
+      "data_pubblicazione": "2026-12-15",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "37c19e001db2ec9fa9887dad44aa47b3a6d2ec49",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
+  "aggiornati": [
+    {
+      "id": "regione-sicilia-bandi-https-ricercadocumentale-regione-sicilia-it",
+      "nome": "https://ricercadocumentale.regione.sicilia.it",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://ricercadocumentale.regione.sicilia.it/",
+      "data_pubblicazione": "2021-07-01",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "8dc27f92d19257723a58414306391a89d26c77a8",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "errori_fonti": []
 }

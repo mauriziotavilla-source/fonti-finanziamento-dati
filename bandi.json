@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-11-23",
-  "versione": 140,
+  "ultimo_aggiornamento": "2026-11-24",
+  "versione": 141,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "a9deaccdb7a8653e65b686b8fafd970bfed38096",
-  "generated_at": "2026-11-24T03:31:01.310Z",
+  "catalog_hash": "12d45cc1dd086cf8b4660998a4bd598561f7143c",
+  "generated_at": "2026-11-24T16:33:45.447Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -53,53 +53,6 @@
         "bandi_nazionali"
       ],
       "hash_contenuto": "f50cb90e194956d4253279388c2d4da3c8cf5e74"
-    },
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-ob-2-2-az-4-codice-222402-26-1-2027-selezione-proposte-progettua",
-      "nome": "AVVISO PUBBLICO Ob. 2.2 az. 4 codice 222402-26 (1/2027) - \"SELEZIONE PROPOSTE PROGETTUALI PER LA SENSIBILIZZAZIONE DEL PUBBLICO SUL CONSUMO DI PRODOTTI ITTICI SICILIANI PESCATI, ALLEVATI O TRASFORMATI\" PN FEAMPA 2021-2027",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO Ob. 2.2 az. 4 codice 222402-26 (1/2027) - \"SELEZIONE PROPOSTE PROGETTUALI PER LA SENSIBILIZZAZIONE DEL PUBBLICO SUL CONSUMO DI PRODOTTI ITTICI SICILIANI PESCATI, ALLEVATI O TRASFORMATI\" PN FEAMPA 2021-2027 Scade il: 27/11/2026 -",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO Ob. 2.2 az. 4 codice 222402-26 (1/2027) - \"SELEZIONE PROPOSTE PROGETTUALI PER LA SENSIBILIZZAZIONE DEL PUBBLICO SUL CONSUMO DI PRODOTTI ITTICI SICILIANI PESCATI, ALLEVATI O TRASFORMATI\" PN FEAMPA 2021-2027. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-ob-22-az-4-codice-222402-26-12027-selezione-proposte-progettuali-sensibilizzazione-pubblico-consumo-prodotti-ittici-siciliani-pescati-allevati-o",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-11-27",
-      "data_uscita": "2026-11-27",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-11-24",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "596215cce741125891412466225d759b481e7234"
     },
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-per-il-finanziamento-di-interventi-diretti-ad-incrementare-il-mo",
@@ -243,6 +196,53 @@
       "hash_contenuto": "244bcdf5923bf04fafcdbace85e891a645201808"
     },
     {
+      "id": "regione-sicilia-bandi-avviso-pubblico-riguardante-il-pagamento-di-compensazioni-per-mancati-redditi-do",
+      "nome": "Avviso pubblico riguardante il pagamento di compensazioni per mancati redditi dovuti all’interruzione obbligatoria continuativa delle attività di pesca dei gamberi di profondità",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici Avviso pubblico riguardante il pagamento di compensazioni per mancati redditi dovuti all’interruzione obbligatoria continuativa delle attività di pesca dei gamberi di profondità Scade il: 04/12/2026 - 23:59 Leggi di più",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Avviso pubblico riguardante il pagamento di compensazioni per mancati redditi dovuti all’interruzione obbligatoria continuativa delle attività di pesca dei gamberi di profondità. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-riguardante-pagamento-compensazioni-mancati-redditi-dovuti-all-interruzione-obbligatoria-continuativa-attivita-pesca-gamberi-profondita",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-12-04",
+      "data_uscita": "2026-12-04",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-11-24",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "f1e5cfa77274b736940d0aa01c7a5ca54e5af490"
+    },
+    {
       "id": "regione-sicilia-bandi-bando-per-il-finanziamento-di-progetti-di-riqualificazione-dei-mercati-rionali",
       "nome": "Bando per il finanziamento di progetti di riqualificazione dei mercati rionali",
       "programma": "Regione Siciliana",
@@ -288,54 +288,6 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "8dbae3f127d8bf16a1160349280d8ac66ebe5d6d"
-    },
-    {
-      "id": "regione-sicilia-bandi-concessione-contributi-interventi-urgenti-per-far-fronte-ai-danni-causati-dagli-",
-      "nome": "CONCESSIONE CONTRIBUTI “Interventi urgenti per far fronte ai danni causati dagli eventi meteo avversi dei giorni 19, 20 e 21 gennaio 2026” riconducibile al “Ciclone Harry”.",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo",
-        "tecnologia"
-      ],
-      "stato": "chiuso",
-      "descrizione_breve": "Avvisi pubblici CONCESSIONE CONTRIBUTI “Interventi urgenti per far fronte ai danni causati dagli eventi meteo avversi dei giorni 19, 20 e 21 gennaio 2026” riconducibile al “Ciclone Harry”. Scaduto Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando CONCESSIONE CONTRIBUTI “Interventi urgenti per far fronte ai danni causati dagli eventi meteo avversi dei giorni 19, 20 e 21 gennaio 2026” riconducibile al “Ciclone Harry”.. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-concessione-contributi-interventi-urgenti-far-fronte-ai-danni-causati-dagli-eventi-meteo-avversi-giorni-19-20-21-gennaio-2026-riconducibile-al",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "",
-      "data_uscita": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-11-24",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "803a7ebbaac7d3fe245dcb1f315fcd7c3f105308"
     },
     {
       "id": "credito-imposta-40",
@@ -1095,7 +1047,7 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "992 risultati (più recenti) Nella pagina sono visualizzati 206 risultati più recenti. Per effettuare ricerche su tutti i documenti pubblicati nella presente sezione a partire dal 01.07.2021 è disponibile nel menù laterale sinistro un modulo dedicato, che perme",
+      "descrizione_breve": "994 risultati (più recenti) Nella pagina sono visualizzati 206 risultati più recenti. Per effettuare ricerche su tutti i documenti pubblicati nella presente sezione a partire dal 01.07.2021 è disponibile nel menù laterale sinistro un modulo dedicato, che perme",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando https://ricercadocumentale.regione.sicilia.it. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -1129,7 +1081,7 @@
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "6605ce01ec71436c7dfb734c706be744d6aeed71"
+      "hash_contenuto": "8dc27f92d19257723a58414306391a89d26c77a8"
     },
     {
       "id": "mimit-investimenti-sostenibili-40-2026",
@@ -1486,6 +1438,53 @@
       ],
       "fonte_scraper": "manual_seed",
       "url_origine": "https://www.regione.sicilia.it/la-regione-informa/attivita-produttive-presentati-4-nuovi-bandi-sviluppo-imprese-innovazione"
+    },
+    {
+      "id": "regione-sicilia-bandi-progetto-interventi-di-manutenzione-straordinaria-su-pista-forestale-in-conglome",
+      "nome": "Progetto “Interventi di manutenzione straordinaria su pista forestale in conglomerato bituminoso, ricadente all’interno del Demanio Forestale Regionale “Alto Simeto” -Distretto Forestale n.1 -Comune di Bronte (CT) Conclusione avviso di indagine di mercato",
+      "programma": "Regione Siciliana",
+      "livello": "regionale",
+      "settori": [
+        "artigianato",
+        "commercio",
+        "turismo"
+      ],
+      "stato": "in_arrivo",
+      "descrizione_breve": "Avvisi pubblici Progetto “Interventi di manutenzione straordinaria su pista forestale in conglomerato bituminoso, ricadente all’interno del Demanio Forestale Regionale “Alto Simeto” -Distretto Forestale n.1 -Comune di Bronte (CT) Conclusione avviso di indagine",
+      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Progetto “Interventi di manutenzione straordinaria su pista forestale in conglomerato bituminoso, ricadente all’interno del Demanio Forestale Regionale “Alto Simeto” -Distretto Forestale n.1 -Comune di Bronte (CT) Conclusione avviso di indagine di mercato. Territorio: Sicilia.",
+      "cofinanziamento": "",
+      "budget_totale": "",
+      "beneficiari": [
+        "PMI",
+        "Imprese siciliane",
+        "Enti locali"
+      ],
+      "territorio": "Sicilia",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
+      ],
+      "documenti": [
+        "Avviso ufficiale",
+        "Domanda di partecipazione",
+        "Documenti richiesti dal portale"
+      ],
+      "topic_esempio": [],
+      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/progetto-interventi-manutenzione-straordinaria-pista-forestale-conglomerato-bituminoso-ricadente-all-interno-demanio-forestale-regionale-alto-simeto-distretto",
+      "checklist": [
+        "Aprire il link ufficiale e verificare l'avviso completo",
+        "Controllare requisiti e ammissibilita per il livello regionale",
+        "Preparare documentazione e scadenze principali"
+      ],
+      "data_pubblicazione": "2026-12-15",
+      "data_uscita": "2026-12-15",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "rilevato_il": "2026-11-24",
+      "notifica_topics": [
+        "bandi_regionali"
+      ],
+      "hash_contenuto": "37c19e001db2ec9fa9887dad44aa47b3a6d2ec49"
     },
     {
       "id": "ue-funding-opportunities-research-and-innovation-funding-2007-2013",
@@ -2005,6 +2004,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
