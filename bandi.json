@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-11-24",
-  "versione": 141,
+  "ultimo_aggiornamento": "2026-11-25",
+  "versione": 142,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "12d45cc1dd086cf8b4660998a4bd598561f7143c",
-  "generated_at": "2026-11-25T01:39:56.815Z",
+  "catalog_hash": "fc95cc1461207de58086654ee1abc8730c7390e0",
+  "generated_at": "2026-11-25T16:16:23.940Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -64,8 +64,8 @@
         "commercio",
         "turismo"
       ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO PER IL FINANZIAMENTO DI INTERVENTI DIRETTI AD INCREMENTARE IL MOVIMENTO TURISTICO INVERNALE TRAMITE LA REALIZZAZIONE E LA PRESENTAZIONE DI NATALIZI E INSTALLAZIONI TEMPORANEE E SCENOGRAFIE LUMINOSE NEI COMUNI DELLA SICILIA Scade",
+      "stato": "chiuso",
+      "descrizione_breve": "Avvisi pubblici AVVISO PUBBLICO PER IL FINANZIAMENTO DI INTERVENTI DIRETTI AD INCREMENTARE IL MOVIMENTO TURISTICO INVERNALE TRAMITE LA REALIZZAZIONE E LA PRESENTAZIONE DI NATALIZI E INSTALLAZIONI TEMPORANEE E SCENOGRAFIE LUMINOSE NEI COMUNI DELLA SICILIA Scadu",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando AVVISO PUBBLICO PER IL FINANZIAMENTO DI INTERVENTI DIRETTI AD INCREMENTARE IL MOVIMENTO TURISTICO INVERNALE TRAMITE LA REALIZZAZIONE E LA PRESENTAZIONE DI NATALIZI E INSTALLAZIONI TEMPORANEE E SCENOGRAFIE LUMINOSE NEI COMUNI DELLA SICILIA. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -91,15 +91,15 @@
         "Controllare requisiti e ammissibilita per il livello regionale",
         "Preparare documentazione e scadenze principali"
       ],
-      "data_pubblicazione": "2026-11-25",
-      "data_uscita": "2026-11-25",
+      "data_pubblicazione": "",
+      "data_uscita": "",
       "fonte_scraper": "regione-sicilia-bandi",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "rilevato_il": "2026-11-25",
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "fcf356c1dbf1c1d42db4c54fdf805bb8c87cfa7b"
+      "hash_contenuto": "c3788dc81a66d425dec630d44bdfcfc059d36375"
     },
     {
       "id": "regione-sicilia-bandi-avviso-pubblico-per-la-concessione-di-contributi-a-valere-sul-fondo-di-solidarie",
@@ -2004,6 +2004,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }
