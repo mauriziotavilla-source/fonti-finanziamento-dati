@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-11-25",
-  "versione": 142,
+  "ultimo_aggiornamento": "2026-11-26",
+  "versione": 143,
   "regione_focus": "sicilia",
   "nota": "Le scadenze possono cambiare. Verifica sempre i siti ufficiali prima di presentare domanda.",
-  "catalog_hash": "fc95cc1461207de58086654ee1abc8730c7390e0",
-  "generated_at": "2026-11-26T01:13:09.152Z",
+  "catalog_hash": "7f0de8798596ec2bb814cef68360a051377236c1",
+  "generated_at": "2026-11-26T15:53:16.158Z",
   "generated_by": "scripts/scraper/run.js",
   "bandi": [
     {
@@ -241,53 +241,6 @@
         "bandi_regionali"
       ],
       "hash_contenuto": "f1e5cfa77274b736940d0aa01c7a5ca54e5af490"
-    },
-    {
-      "id": "regione-sicilia-bandi-bando-per-il-finanziamento-di-progetti-di-riqualificazione-dei-mercati-rionali",
-      "nome": "Bando per il finanziamento di progetti di riqualificazione dei mercati rionali",
-      "programma": "Regione Siciliana",
-      "livello": "regionale",
-      "settori": [
-        "artigianato",
-        "commercio",
-        "turismo"
-      ],
-      "stato": "in_arrivo",
-      "descrizione_breve": "Avvisi pubblici Bando per il finanziamento di progetti di riqualificazione dei mercati rionali Scade il: 18/12/2026 - 23:59 Leggi di più",
-      "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando Bando per il finanziamento di progetti di riqualificazione dei mercati rionali. Territorio: Sicilia.",
-      "cofinanziamento": "",
-      "budget_totale": "",
-      "beneficiari": [
-        "PMI",
-        "Imprese siciliane",
-        "Enti locali"
-      ],
-      "territorio": "Sicilia",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti e soggetti ammissibili sul portale ufficiale"
-      ],
-      "documenti": [
-        "Avviso ufficiale",
-        "Domanda di partecipazione",
-        "Documenti richiesti dal portale"
-      ],
-      "topic_esempio": [],
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/bando-finanziamento-progetti-riqualificazione-mercati-rionali",
-      "checklist": [
-        "Aprire il link ufficiale e verificare l'avviso completo",
-        "Controllare requisiti e ammissibilita per il livello regionale",
-        "Preparare documentazione e scadenze principali"
-      ],
-      "data_pubblicazione": "2026-12-18",
-      "data_uscita": "2026-12-18",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
-      "rilevato_il": "2026-11-26",
-      "notifica_topics": [
-        "bandi_regionali"
-      ],
-      "hash_contenuto": "8dbae3f127d8bf16a1160349280d8ac66ebe5d6d"
     },
     {
       "id": "credito-imposta-40",
@@ -1047,7 +1000,7 @@
         "turismo"
       ],
       "stato": "in_arrivo",
-      "descrizione_breve": "994 risultati (più recenti) Nella pagina sono visualizzati 206 risultati più recenti. Per effettuare ricerche su tutti i documenti pubblicati nella presente sezione a partire dal 01.07.2021 è disponibile nel menù laterale sinistro un modulo dedicato, che perme",
+      "descrizione_breve": "995 risultati (più recenti) Nella pagina sono visualizzati 206 risultati più recenti. Per effettuare ricerche su tutti i documenti pubblicati nella presente sezione a partire dal 01.07.2021 è disponibile nel menù laterale sinistro un modulo dedicato, che perme",
       "partecipazione": "Verificare sul sito ufficiale chi puo partecipare al bando https://ricercadocumentale.regione.sicilia.it. Territorio: Sicilia.",
       "cofinanziamento": "",
       "budget_totale": "",
@@ -1081,7 +1034,7 @@
       "notifica_topics": [
         "bandi_regionali"
       ],
-      "hash_contenuto": "8dc27f92d19257723a58414306391a89d26c77a8"
+      "hash_contenuto": "5e2c3e09190b78b7d34f0c37d6cc6ca251b469ba"
     },
     {
       "id": "mimit-investimenti-sostenibili-40-2026",
@@ -2004,6 +1957,6 @@
       "url_origine": "https://www.lazioinnova.it/lazio-valore/"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": []
 }

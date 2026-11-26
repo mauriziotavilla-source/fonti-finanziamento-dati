@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-11-26T01:13:09.152Z",
+  "generated_at": "2026-11-26T15:53:16.158Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "fc95cc1461207de58086654ee1abc8730c7390e0",
+  "catalog_hash": "7f0de8798596ec2bb814cef68360a051377236c1",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 0
+    "aggiornati": 1
   },
   "nuovi": [],
-  "aggiornati": [],
+  "aggiornati": [
+    {
+      "id": "regione-sicilia-bandi-https-ricercadocumentale-regione-sicilia-it",
+      "nome": "https://ricercadocumentale.regione.sicilia.it",
+      "livello": "regionale",
+      "programma": "Regione Siciliana",
+      "link_ufficiale": "https://ricercadocumentale.regione.sicilia.it/",
+      "data_pubblicazione": "2021-07-01",
+      "fonte_scraper": "regione-sicilia-bandi",
+      "hash_contenuto": "5e2c3e09190b78b7d34f0c37d6cc6ca251b469ba",
+      "notifica_topics": [
+        "bandi_regionali"
+      ]
+    }
+  ],
   "errori_fonti": []
 }
