@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-11-25T16:16:23.941Z",
+  "generated_at": "2026-11-26T01:13:09.152Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "fc95cc1461207de58086654ee1abc8730c7390e0",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 1
+    "aggiornati": 0
   },
   "nuovi": [],
-  "aggiornati": [
-    {
-      "id": "regione-sicilia-bandi-avviso-pubblico-per-il-finanziamento-di-interventi-diretti-ad-incrementare-il-mo",
-      "nome": "AVVISO PUBBLICO PER IL FINANZIAMENTO DI INTERVENTI DIRETTI AD INCREMENTARE IL MOVIMENTO TURISTICO INVERNALE TRAMITE LA REALIZZAZIONE E LA PRESENTAZIONE DI NATALIZI E INSTALLAZIONI TEMPORANEE E SCENOGRAFIE LUMINOSE NEI COMUNI DELLA SICILIA",
-      "livello": "regionale",
-      "programma": "Regione Siciliana",
-      "link_ufficiale": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-dipartimento-turismo-sport-spettacolo",
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-bandi",
-      "hash_contenuto": "c3788dc81a66d425dec630d44bdfcfc059d36375",
-      "notifica_topics": [
-        "bandi_regionali"
-      ]
-    }
-  ],
+  "aggiornati": [],
   "errori_fonti": []
 }
